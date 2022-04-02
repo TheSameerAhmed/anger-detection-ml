@@ -1,0 +1,2149 @@
+file_name,parent_file_train,number_of_segments_train,number_of_voices_parent_train,extra_sounds_train,parent_label_train,segment_label_train,noisy_train,Notes_train
+00g8dfgpqpt61_processed_0,00g8dfgpqpt61,3,9999,"clapping, coughing",0,0,1,Only laughing
+00g8dfgpqpt61_processed_1,00g8dfgpqpt62,3,9999,clapping,0,0,1,Only laughing
+00g8dfgpqpt61_processed_2,00g8dfgpqpt63,3,9999,,0,0,1,Only laughing
+01avx2fm1t961_processed_0,01avx2fm1t961,5,9999,baby crying,3,3,1,
+01avx2fm1t961_processed_1,01avx2fm1t961,5,9999,baby crying,3,2,1,
+01avx2fm1t961_processed_2,01avx2fm1t961,5,9999,baby crying,3,2,1,
+01avx2fm1t961_processed_3,01avx2fm1t961,5,9999,,3,2,1,
+01avx2fm1t961_processed_4,01avx2fm1t961,5,9999,,3,2,1,
+0202on89vhz61_processed_0,0202on89vhz61,3,1,crowd,0,0,0,
+0202on89vhz61_processed_1,0202on89vhz61,3,1,crowd,0,0,0,
+0202on89vhz61_processed_2,0202on89vhz61,3,1,"crowd, motor bike",0,0,0,
+03mglec8fez51_processed_0,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_1,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_10,03mglec8fez51,26,1,calm music,1,1,0,
+03mglec8fez51_processed_11,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_12,03mglec8fez51,26,1,"calm music, crowd cheering",1,0,0,
+03mglec8fez51_processed_13,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_14,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_15,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_16,03mglec8fez51,26,1,calm music,1,1,0,
+03mglec8fez51_processed_17,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_18,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_19,03mglec8fez51,26,1,calm music,1,1,0,
+03mglec8fez51_processed_2,03mglec8fez51,26,0,calm music,1,0,0,
+03mglec8fez51_processed_20,03mglec8fez51,26,1,"calm music, crowd cheering",1,0,0,
+03mglec8fez51_processed_21,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_22,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_23,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_24,03mglec8fez51,26,1,calm music,1,1,0,
+03mglec8fez51_processed_25,03mglec8fez51,26,1,calm music,1,1,0,
+03mglec8fez51_processed_3,03mglec8fez51,26,1,calm music,1,1,0,
+03mglec8fez51_processed_4,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_5,03mglec8fez51,26,1,calm music,1,1,0,
+03mglec8fez51_processed_6,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_7,03mglec8fez51,26,1,calm music,1,0,0,
+03mglec8fez51_processed_8,03mglec8fez51,26,0,calm music,1,0,0,
+03mglec8fez51_processed_9,03mglec8fez51,26,1,calm music,1,1,0,
+0653ipqy7vd71_processed_0,0653ipqy7vd71,7,2,,2,0,0,
+0653ipqy7vd71_processed_1,0653ipqy7vd71,7,1,,2,2,0,
+0653ipqy7vd71_processed_2,0653ipqy7vd71,7,1,,2,2,0,
+0653ipqy7vd71_processed_3,0653ipqy7vd71,7,1,,2,2,0,
+0653ipqy7vd71_processed_4,0653ipqy7vd71,7,1,,2,2,0,
+0653ipqy7vd71_processed_5,0653ipqy7vd71,7,1,,2,2,0,
+0653ipqy7vd71_processed_6,0653ipqy7vd71,7,1,,2,2,0,
+065hfyuu0ya61_processed_0,065hfyuu0ya61,3,3,guitar,0,0,0,
+065hfyuu0ya61_processed_1,065hfyuu0ya61,3,2,guitar,0,0,0,
+065hfyuu0ya61_processed_2,065hfyuu0ya61,3,3,guitar,0,0,0,
+08ss0a3zs0061_processed_0,08ss0a3zs0061,2,1,car crash,2,2,0,
+095x9borh0z61_processed_0,095x9borh0z61,19,3,,2,0,0,
+095x9borh0z61_processed_1,095x9borh0z61,19,4,,2,0,0,
+095x9borh0z61_processed_10,095x9borh0z61,19,2,,2,0,0,
+095x9borh0z61_processed_11,095x9borh0z61,19,2,,2,1,0,
+095x9borh0z61_processed_17,095x9borh0z61,19,2,,2,1,0,
+095x9borh0z61_processed_18,095x9borh0z61,19,2,,2,2,0,
+095x9borh0z61_processed_2,095x9borh0z61,19,2,,2,0,0,
+095x9borh0z61_processed_3,095x9borh0z61,19,2,,2,0,0,
+095x9borh0z61_processed_4,095x9borh0z61,19,2,,2,0,0,
+095x9borh0z61_processed_5,095x9borh0z61,19,2,children playing,2,0,0,
+095x9borh0z61_processed_6,095x9borh0z61,19,2,,2,1,0,
+095x9borh0z61_processed_7,095x9borh0z61,19,2,,2,0,0,
+095x9borh0z61_processed_8,095x9borh0z61,19,1,,2,0,0,
+095x9borh0z61_processed_9,095x9borh0z61,19,2,,2,0,0,
+09etqbnf0uc61_processed_0,09etqbnf0uc61,3,2,,0,0,0,
+09etqbnf0uc61_processed_1,09etqbnf0uc61,3,2,,0,0,0,
+09etqbnf0uc61_processed_2,09etqbnf0uc61,3,9999,,0,0,1,
+0ailv3uq2lw61_processed_0,0ailv3uq2lw61,4,2,Gunshots,1,1,0,Too noisy to understand anything
+0ailv3uq2lw61_processed_1,0ailv3uq2lw61,4,1,"Gunshots, engine, shouting",1,1,0,Too noisy to understand anything
+0ailv3uq2lw61_processed_2,0ailv3uq2lw61,4,3,engine,1,1,0,Too noisy to understand anything
+0ailv3uq2lw61_processed_3,0ailv3uq2lw61,4,3,engine,1,1,0,Too noisy to understand anything
+0c7qgddd16l51_processed_0,0c7qgddd16l51,19,3,laughing,0,0,0,
+0c7qgddd16l51_processed_1,0c7qgddd16l51,19,3,laughing,0,0,0,
+0c7qgddd16l51_processed_10,0c7qgddd16l51,19,3,laughing,0,0,0,
+0c7qgddd16l51_processed_11,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_12,0c7qgddd16l51,19,3,laughing,0,0,0,
+0c7qgddd16l51_processed_13,0c7qgddd16l51,19,3,laughing,0,0,0,
+0c7qgddd16l51_processed_14,0c7qgddd16l51,19,3,laughing,0,0,0,
+0c7qgddd16l51_processed_15,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_16,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_17,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_18,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_2,0c7qgddd16l51,19,3,laughing,0,0,0,
+0c7qgddd16l51_processed_3,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_4,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_5,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_6,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_7,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_8,0c7qgddd16l51,19,4,laughing,0,0,0,
+0c7qgddd16l51_processed_9,0c7qgddd16l51,19,3,laughing,0,0,0,
+0cho11mt05y51_processed_0,0cho11mt05y51,2,9999,music,0,0,1,
+0cho11mt05y51_processed_1,0cho11mt05y51,2,9999,music,0,0,1,
+0cmcfw7ucae71_processed_0,0cmcfw7ucae71,3,1,Donkey noise,0,0,0,
+0cmcfw7ucae71_processed_1,0cmcfw7ucae71,3,1,Donkey noise,0,0,0,
+0cmcfw7ucae71_processed_2,0cmcfw7ucae71,3,1,Donkey noise,0,0,0,
+0d9lcxq7sxf61_processed_0,0d9lcxq7sxf61,3,4,"motorbike, music",0,0,0,
+0d9lcxq7sxf61_processed_1,0d9lcxq7sxf61,3,9999,"music, people shouting",0,0,1,
+0d9lcxq7sxf61_processed_2,0d9lcxq7sxf61,3,9999,"music, people shouting",0,0,1,
+0f520cf07s571_processed_0,0f520cf07s571,2,3,"Water splashing, gasp",1,1,0,
+0f520cf07s571_processed_1,0f520cf07s571,2,2,water body,1,0,0,
+0f8jowocy1j51_processed_0,0f8jowocy1j51,6,3,,2,2,0,
+0f8jowocy1j51_processed_1,0f8jowocy1j51,6,2,,2,2,0,
+0f8jowocy1j51_processed_2,0f8jowocy1j51,6,2,,2,2,0,
+0f8jowocy1j51_processed_3,0f8jowocy1j51,6,3,,2,2,0,
+0f8jowocy1j51_processed_4,0f8jowocy1j51,6,3,,2,2,0,
+0fi5aogp5bg51_processed_0,0fi5aogp5bg51,5,3,siren,2,1,0,
+0fi5aogp5bg51_processed_1,0fi5aogp5bg51,5,3,siren,2,1,0,
+0fi5aogp5bg51_processed_2,0fi5aogp5bg51,5,2,"siren, metal thumping",2,1,0,
+0fkhnhiw6ii61_processed_0,0fkhnhiw6ii61,5,1,clapping,2,1,0,
+0fkhnhiw6ii61_processed_1,0fkhnhiw6ii61,5,1,"clapping, people shouting",2,1,0,
+0fkhnhiw6ii61_processed_2,0fkhnhiw6ii61,5,1,,2,1,0,
+0fkhnhiw6ii61_processed_3,0fkhnhiw6ii61,5,1,,2,2,0,
+0h3jkge4hj761_processed_1,0h3jkge4hj761,28,1,crowd ,1,0,0,
+0h3jkge4hj761_processed_10,0h3jkge4hj761,28,1,person laughing,1,0,0,
+0h3jkge4hj761_processed_11,0h3jkge4hj761,28,1,crowd,1,0,0,
+0h3jkge4hj761_processed_12,0h3jkge4hj761,28,2,crowd shouting,1,1,0,
+0h3jkge4hj761_processed_13,0h3jkge4hj761,28,2,"crowd cheering, clapping",1,0,0,
+0h3jkge4hj761_processed_14,0h3jkge4hj761,28,1,crowd,1,0,0,
+0h3jkge4hj761_processed_15,0h3jkge4hj761,28,1,crowd ,1,0,0,
+0h3jkge4hj761_processed_16,0h3jkge4hj761,28,2,crowd cheering,1,0,0,
+0h3jkge4hj761_processed_17,0h3jkge4hj761,28,2,crowd cheering,1,0,0,
+0h3jkge4hj761_processed_18,0h3jkge4hj761,28,1,crowd ,1,0,0,
+0h3jkge4hj761_processed_19,0h3jkge4hj761,28,1,crowd cheering,1,0,0,
+0h3jkge4hj761_processed_2,0h3jkge4hj761,28,1,"beep sound, crowd ",1,0,0,
+0h3jkge4hj761_processed_20,0h3jkge4hj761,28,1,crowd ,1,0,0,
+0h3jkge4hj761_processed_21,0h3jkge4hj761,28,1,crowd ,1,0,0,
+0h3jkge4hj761_processed_22,0h3jkge4hj761,28,1,crowd ,1,0,0,
+0h3jkge4hj761_processed_23,0h3jkge4hj761,28,9999,"crowd, music ",1,0,1,
+0h3jkge4hj761_processed_24,0h3jkge4hj761,28,9999,"crowd, music ",1,0,1,
+0h3jkge4hj761_processed_25,0h3jkge4hj761,28,1,crowd,1,0,0,
+0h3jkge4hj761_processed_26,0h3jkge4hj761,28,1,crowd,1,0,0,
+0h3jkge4hj761_processed_27,0h3jkge4hj761,28,1,crowd,1,0,0,
+0h3jkge4hj761_processed_3,0h3jkge4hj761,28,1,"beep sound, crowd ",1,0,0,
+0h3jkge4hj761_processed_4,0h3jkge4hj761,28,1,crowd,1,0,0,
+0h3jkge4hj761_processed_5,0h3jkge4hj761,28,9999,clapping music ,1,0,1,
+0h3jkge4hj761_processed_6,0h3jkge4hj761,28,9999,crowd,1,0,1,
+0h3jkge4hj761_processed_7,0h3jkge4hj761,28,1,crowd cheering,1,0,0,
+0h3jkge4hj761_processed_8,0h3jkge4hj761,28,2,music,1,0,0,
+0h3jkge4hj761_processed_9,0h3jkge4hj761,28,1,crowd,1,0,0,
+0hvd1wmkahp61_processed_0,0hvd1wmkahp61,5,1,,0,0,0,
+0hvd1wmkahp61_processed_1,0hvd1wmkahp61,5,1,,0,0,0,
+0hvd1wmkahp61_processed_2,0hvd1wmkahp61,5,1,,0,0,0,
+0hvd1wmkahp61_processed_3,0hvd1wmkahp61,5,1,,0,0,0,
+0ldl8z0w7kv51_processed_0,0ldl8z0w7kv51,6,2,"honks, crowd cheering, fireworks",3,3,0,
+0ldl8z0w7kv51_processed_1,0ldl8z0w7kv51,6,2,"honks, crowd cheering, fireworks, music",3,2,0,
+0ldl8z0w7kv51_processed_4,0ldl8z0w7kv51,6,9999,"honks, crowd cheering, fireworks, music",3,2,1,
+0lkuzk8aqp371_processed_0,0lkuzk8aqp371,14,3,crowd,1,0,0,
+0lkuzk8aqp371_processed_1,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_10,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_11,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_12,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_13,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_2,0lkuzk8aqp371,14,3,crowd,1,1,0,
+0lkuzk8aqp371_processed_3,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_4,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_5,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_6,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_7,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_8,0lkuzk8aqp371,14,2,crowd,1,1,0,
+0lkuzk8aqp371_processed_9,0lkuzk8aqp371,14,3,crowd,1,1,0,
+0lw3uak945u61_processed_0,0lw3uak945u61,14,2,car noise,0,0,0,
+0lw3uak945u61_processed_1,0lw3uak945u61,14,2,"car noise, person weeping",0,0,0,
+0lw3uak945u61_processed_10,0lw3uak945u61,14,3,"Dog barking, children laughing",0,0,0,
+0lw3uak945u61_processed_11,0lw3uak945u61,14,3,"Dog barking, children laughing, car engine",0,0,0,
+0lw3uak945u61_processed_12,0lw3uak945u61,14,3,"Dog barking, children laughing, car engine",0,0,0,
+0lw3uak945u61_processed_13,0lw3uak945u61,14,2,"Dog barking, children laughing, car engine",0,0,0,
+0lw3uak945u61_processed_2,0lw3uak945u61,14,2,"car noise, person weeping, dog",0,0,0,
+0lw3uak945u61_processed_3,0lw3uak945u61,14,3,Dog barking,0,0,0,
+0lw3uak945u61_processed_4,0lw3uak945u61,14,2,,0,0,0,
+0lw3uak945u61_processed_5,0lw3uak945u61,14,2,"Dog barking, children laughing",0,0,0,
+0lw3uak945u61_processed_6,0lw3uak945u61,14,1,"Dog barking, children laughing",0,0,0,
+0lw3uak945u61_processed_7,0lw3uak945u61,14,2,"Dog barking, children laughing",0,0,0,
+0lw3uak945u61_processed_8,0lw3uak945u61,14,2,"Dog barking, children laughing",0,0,0,
+0lw3uak945u61_processed_9,0lw3uak945u61,14,3,"Dog barking, children laughing",0,0,0,
+0p2cktb33qm61_processed_0,0p2cktb33qm61,6,0,Loud Thumping noises,0,0,0,
+0p2cktb33qm61_processed_1,0p2cktb33qm61,6,0,Loud Thumping noises,0,0,0,
+0p2cktb33qm61_processed_2,0p2cktb33qm61,6,1,"Loud Thumping noises, people whisting and cheering",0,0,0,
+0p2cktb33qm61_processed_3,0p2cktb33qm61,6,2,"Loud Thumping noises, people whisting and cheering",0,0,0,
+0p2cktb33qm61_processed_4,0p2cktb33qm61,6,2,"Loud Thumping noises, people cheering",0,0,0,
+0p2cktb33qm61_processed_5,0p2cktb33qm61,6,2,"Loud Thumping noises, people whistling cheering",0,0,0,
+0s1wt1zhkkh51_processed_0,0s1wt1zhkkh51,2,9999,Alarm noise,0,0,1,
+0s1wt1zhkkh51_processed_1,0s1wt1zhkkh51,2,9999,Alarm noise,0,0,1,
+0s3rodrbpfu61_processed_0,0s3rodrbpfu61,6,3,,2,0,0,
+0s3rodrbpfu61_processed_1,0s3rodrbpfu61,6,3,,2,2,0,
+0s3rodrbpfu61_processed_2,0s3rodrbpfu61,6,4,,2,2,0,
+0s3rodrbpfu61_processed_3,0s3rodrbpfu61,6,4,,2,2,0,
+0thgy8s2ovg51_processed_0,0thgy8s2ovg51,2,2,Plate cracking,1,1,0,
+0ui2hon0i9z51_processed_0,0ui2hon0i9z51,6,0,,2,0,0,
+0ui2hon0i9z51_processed_1,0ui2hon0i9z51,6,0,"N/A, honk",2,0,0,
+0ui2hon0i9z51_processed_2,0ui2hon0i9z51,6,0,,2,0,0,
+0ui2hon0i9z51_processed_3,0ui2hon0i9z51,6,2,"N/A, dog barking",2,2,0,
+0ui2hon0i9z51_processed_4,0ui2hon0i9z51,6,1,"N/A, dog barking",2,1,0,
+0ui2hon0i9z51_processed_5,0ui2hon0i9z51,6,0,,2,0,0,
+0xtsru74ihq61_processed_0,0xtsru74ihq61,5,0,,0,0,0,
+0xtsru74ihq61_processed_1,0xtsru74ihq61,5,0,,0,0,0,Audio unusable
+0xtsru74ihq61_processed_2,0xtsru74ihq61,5,0,,0,0,0,Audio unusable
+0xtsru74ihq61_processed_3,0xtsru74ihq61,5,0,,0,0,0,Audio unusable
+0y9831he72u61_processed_0,0y9831he72u61,7,4,intense music,3,3,0,
+0y9831he72u61_processed_1,0y9831he72u61,7,4,intense music,3,3,0,
+0y9831he72u61_processed_2,0y9831he72u61,7,4,intense music,3,3,0,
+0y9831he72u61_processed_4,0y9831he72u61,7,4,intense music,3,3,0,
+0ziwjvz4lqf71_processed_0,0ziwjvz4lqf71,3,1,,0,0,0,
+0ziwjvz4lqf71_processed_1,0ziwjvz4lqf71,3,1,,0,0,0,
+0ziwjvz4lqf71_processed_2,0ziwjvz4lqf71,3,1,,0,0,0,
+1067bauoiy661_processed_0,1067bauoiy661,6,2,,2,2,0,
+1067bauoiy661_processed_1,1067bauoiy661,6,2,,2,2,0,
+1067bauoiy661_processed_3,1067bauoiy661,6,3,,2,2,0,
+1067bauoiy661_processed_4,1067bauoiy661,6,3,,2,2,0,
+10hlpt9o0wd61_processed_0,10hlpt9o0wd61,14,2,,0,0,0,
+10hlpt9o0wd61_processed_1,10hlpt9o0wd61,14,2,,0,0,0,
+10hlpt9o0wd61_processed_10,10hlpt9o0wd61,14,1,,0,0,0,
+10hlpt9o0wd61_processed_11,10hlpt9o0wd61,14,1,,0,0,0,
+10hlpt9o0wd61_processed_12,10hlpt9o0wd61,14,1,,0,0,0,
+10hlpt9o0wd61_processed_13,10hlpt9o0wd61,14,1,,0,0,0,
+10hlpt9o0wd61_processed_2,10hlpt9o0wd61,14,2,,0,0,0,
+10hlpt9o0wd61_processed_3,10hlpt9o0wd61,14,2,,0,0,0,
+10hlpt9o0wd61_processed_4,10hlpt9o0wd61,14,1,,0,0,0,
+10hlpt9o0wd61_processed_5,10hlpt9o0wd61,14,1,,0,0,0,
+10hlpt9o0wd61_processed_6,10hlpt9o0wd61,14,1,,0,0,0,
+10hlpt9o0wd61_processed_7,10hlpt9o0wd61,14,1,,0,0,0,
+10hlpt9o0wd61_processed_8,10hlpt9o0wd61,14,1,,0,0,0,
+10hlpt9o0wd61_processed_9,10hlpt9o0wd61,14,1,,0,0,0,
+11fnzs4vvcq51_processed_0,11fnzs4vvcq51,3,2,Music,0,0,0,
+11fnzs4vvcq51_processed_1,11fnzs4vvcq51,3,2,,0,0,0,
+11fnzs4vvcq51_processed_2,11fnzs4vvcq51,3,2,,0,0,0,
+11pnt0c205g61_processed_0,11pnt0c205g61,6,1,,2,2,0,
+11pnt0c205g61_processed_1,11pnt0c205g61,6,1,,2,2,0,
+11pnt0c205g61_processed_2,11pnt0c205g61,6,1,,2,2,0,
+11pnt0c205g61_processed_3,11pnt0c205g61,6,1,,2,2,0,
+11pnt0c205g61_processed_4,11pnt0c205g61,6,1,,2,2,0,
+11pnt0c205g61_processed_5,11pnt0c205g61,6,1,,2,2,0,
+11xpj2du98d71_processed_0,11xpj2du98d71,2,2,Traffic,0,0,0,
+11xpj2du98d71_processed_1,11xpj2du98d71,2,2,Traffic,0,0,0,
+121vblm56ym61_processed_0,121vblm56ym61,4,3,thumping ,0,0,0,
+121vblm56ym61_processed_1,121vblm56ym61,4,3,people cheering,0,0,0,
+121vblm56ym61_processed_2,121vblm56ym61,4,3,people cheering,0,0,0,
+121vblm56ym61_processed_3,121vblm56ym61,4,3,people cheering,0,0,0,
+140f26okazh51_processed_0,140f26okazh51,2,1,metal music,0,0,0,
+143mdsnmvu461_processed_0,143mdsnmvu461,11,1,crowd,3,0,0,
+143mdsnmvu461_processed_1,143mdsnmvu461,11,9999,crowd,3,2,1,
+143mdsnmvu461_processed_10,143mdsnmvu461,11,9999,crowd,3,3,1,
+143mdsnmvu461_processed_2,143mdsnmvu461,11,9999,crowd,3,2,1,
+143mdsnmvu461_processed_3,143mdsnmvu461,11,9999,crowd,3,2,1,
+143mdsnmvu461_processed_4,143mdsnmvu461,11,9999,crowd,3,2,1,
+143mdsnmvu461_processed_5,143mdsnmvu461,11,9999,crowd,3,2,1,
+143mdsnmvu461_processed_6,143mdsnmvu461,11,9999,crowd,3,2,1,
+143mdsnmvu461_processed_7,143mdsnmvu461,11,9999,crowd,3,3,1,
+143mdsnmvu461_processed_8,143mdsnmvu461,11,9999,crowd,3,3,1,
+143mdsnmvu461_processed_9,143mdsnmvu461,11,9999,crowd,3,3,1,
+154n8n5g97i51_processed_0,154n8n5g97i51,2,1,,0,0,0,
+15j1ap1ep9j51_processed_0,15j1ap1ep9j51,10,2,music,0,0,0,
+15j1ap1ep9j51_processed_1,15j1ap1ep9j51,10,1,music,0,0,0,
+15j1ap1ep9j51_processed_2,15j1ap1ep9j51,10,1,music,0,0,0,
+15j1ap1ep9j51_processed_3,15j1ap1ep9j51,10,0,"music, clapping",0,0,0,
+15j1ap1ep9j51_processed_4,15j1ap1ep9j51,10,0,music,0,0,0,
+15j1ap1ep9j51_processed_5,15j1ap1ep9j51,10,0,music,0,0,0,
+15j1ap1ep9j51_processed_6,15j1ap1ep9j51,10,0,music,0,0,0,
+15j1ap1ep9j51_processed_7,15j1ap1ep9j51,10,0,music,0,0,0,
+15j1ap1ep9j51_processed_8,15j1ap1ep9j51,10,0,music,0,0,0,
+15j1ap1ep9j51_processed_9,15j1ap1ep9j51,10,0,music,0,0,0,
+16dnw24q0jo51_processed_0,16dnw24q0jo51,4,9999,music,0,0,1,
+16dnw24q0jo51_processed_1,16dnw24q0jo51,4,9999,music,0,0,1,
+16dnw24q0jo51_processed_2,16dnw24q0jo51,4,9999,music,0,0,1,
+16dnw24q0jo51_processed_3,16dnw24q0jo51,4,9999,music,0,0,1,
+17hzkgqtssb61_processed_0,17hzkgqtssb61,12,2,Traffic,1,0,0,
+17hzkgqtssb61_processed_1,17hzkgqtssb61,12,2,Traffic,1,0,0,
+17hzkgqtssb61_processed_10,17hzkgqtssb61,12,2,Traffic,1,1,0,
+17hzkgqtssb61_processed_11,17hzkgqtssb61,12,2,Traffic,1,1,0,
+17hzkgqtssb61_processed_2,17hzkgqtssb61,12,2,Traffic,1,0,0,
+17hzkgqtssb61_processed_3,17hzkgqtssb61,12,2,Traffic,1,0,0,
+17hzkgqtssb61_processed_4,17hzkgqtssb61,12,2,Traffic,1,0,0,
+17hzkgqtssb61_processed_5,17hzkgqtssb61,12,2,Traffic,1,1,0,
+17hzkgqtssb61_processed_6,17hzkgqtssb61,12,2,Traffic,1,1,0,
+17hzkgqtssb61_processed_7,17hzkgqtssb61,12,2,Traffic,1,1,0,
+17hzkgqtssb61_processed_8,17hzkgqtssb61,12,2,Traffic,1,1,0,
+17hzkgqtssb61_processed_9,17hzkgqtssb61,12,2,Traffic,1,1,0,
+1859n94d2aw51_processed_0,1859n94d2aw51,2,3,kids,1,1,0,
+1859n94d2aw51_processed_1,1859n94d2aw51,2,1,kids,1,0,0,
+1a8lksziefs61_processed_0,1a8lksziefs61,18,3,,1,1,0,
+1a8lksziefs61_processed_1,1a8lksziefs61,18,3,,1,1,0,
+1a8lksziefs61_processed_10,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_11,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_12,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_13,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_14,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_15,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_16,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_17,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_2,1a8lksziefs61,18,3,,1,1,0,
+1a8lksziefs61_processed_3,1a8lksziefs61,18,3,Pig noise,1,1,0,
+1a8lksziefs61_processed_4,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_5,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_6,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_7,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_8,1a8lksziefs61,18,3,pig noise,1,1,0,
+1a8lksziefs61_processed_9,1a8lksziefs61,18,3,pig noise,1,1,0,
+1b229datdzf61_processed_0,1b229datdzf61,10,1,,0,0,0,
+1b229datdzf61_processed_1,1b229datdzf61,10,1,Chains,0,0,0,
+1b229datdzf61_processed_2,1b229datdzf61,10,2,Chains,0,0,0,
+1b229datdzf61_processed_3,1b229datdzf61,10,3,,0,0,0,
+1b229datdzf61_processed_4,1b229datdzf61,10,3,,0,0,0,
+1b229datdzf61_processed_5,1b229datdzf61,10,3,,0,0,0,
+1b229datdzf61_processed_6,1b229datdzf61,10,2,,0,0,0,
+1b229datdzf61_processed_7,1b229datdzf61,10,2,,0,0,0,
+1b229datdzf61_processed_8,1b229datdzf61,10,2,,0,0,0,
+1b229datdzf61_processed_9,1b229datdzf61,10,1,,0,0,0,
+1bt81rmsfl771_processed_1,1bt81rmsfl771,8,3,,3,3,0,
+1bt81rmsfl771_processed_3,1bt81rmsfl771,8,3,tazer,3,2,0,
+1bt81rmsfl771_processed_4,1bt81rmsfl771,8,3,,3,1,0,
+1bt81rmsfl771_processed_5,1bt81rmsfl771,8,4,,3,1,0,
+1bt81rmsfl771_processed_6,1bt81rmsfl771,8,2,,3,2,0,
+1bt81rmsfl771_processed_7,1bt81rmsfl771,8,2,,3,1,0,
+1bt8ztm58ew51_processed_0,1bt8ztm58ew51,3,1,,2,2,0,
+1bt8ztm58ew51_processed_1,1bt8ztm58ew51,3,1,,2,2,0,
+1bt8ztm58ew51_processed_2,1bt8ztm58ew51,3,1,,2,2,0,
+1e0zpjat2wc71_processed_0,1e0zpjat2wc71,2,2,,1,1,0,
+1e0zpjat2wc71_processed_1,1e0zpjat2wc71,2,2,,1,1,0,
+1fhp1vuk9h461_processed_0,1fhp1vuk9h461,10,9999,music,0,0,1,
+1fhp1vuk9h461_processed_1,1fhp1vuk9h461,10,9999,music,0,0,1,
+1fhp1vuk9h461_processed_2,1fhp1vuk9h461,10,9999,music,0,0,1,
+1fhp1vuk9h461_processed_3,1fhp1vuk9h461,10,9999,music,0,0,1,
+1fhp1vuk9h461_processed_4,1fhp1vuk9h461,10,9999,music,0,0,1,
+1fhp1vuk9h461_processed_5,1fhp1vuk9h461,10,9999,music,0,0,1,
+1fhp1vuk9h461_processed_6,1fhp1vuk9h461,10,9999,music,0,0,1,
+1fhp1vuk9h461_processed_7,1fhp1vuk9h461,10,9999,music,0,0,1,
+1fhp1vuk9h461_processed_8,1fhp1vuk9h461,10,9999,music,0,0,1,
+1fhp1vuk9h461_processed_9,1fhp1vuk9h461,10,9999,music,0,0,1,
+1gllz957axi51_processed_0,1gllz957axi51,18,2,,1,1,0,
+1gllz957axi51_processed_1,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_10,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_11,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_12,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_13,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_14,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_15,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_16,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_17,1gllz957axi51,18,3,cart rolling,1,1,0,
+1gllz957axi51_processed_2,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_3,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_4,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_5,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_6,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_7,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_8,1gllz957axi51,18,3,,1,1,0,
+1gllz957axi51_processed_9,1gllz957axi51,18,3,cart rolling,1,1,0,
+1heuq337bax51_processed_0,1heuq337bax51,2,9999,,1,1,1,
+1heuq337bax51_processed_1,1heuq337bax51,2,9999,,1,1,1,
+1i7dlddqqa661_processed_0,1i7dlddqqa661,8,3,,1,0,0,
+1i7dlddqqa661_processed_1,1i7dlddqqa661,8,3,,1,0,0,
+1i7dlddqqa661_processed_2,1i7dlddqqa661,8,3,,1,1,0,
+1i7dlddqqa661_processed_3,1i7dlddqqa661,8,3,,1,1,0,
+1i7dlddqqa661_processed_4,1i7dlddqqa661,8,3,,1,0,0,
+1i7dlddqqa661_processed_5,1i7dlddqqa661,8,3,,1,0,0,
+1i7dlddqqa661_processed_6,1i7dlddqqa661,8,3,,1,1,0,
+1i7dlddqqa661_processed_7,1i7dlddqqa661,8,3,,1,0,0,
+1jgyop26ua271_processed_0,1jgyop26ua271,10,3,,0,0,0,
+1jgyop26ua271_processed_1,1jgyop26ua271,10,3,,0,0,0,
+1jgyop26ua271_processed_2,1jgyop26ua271,10,3,,0,0,0,
+1jgyop26ua271_processed_3,1jgyop26ua271,10,3,,0,0,0,
+1jgyop26ua271_processed_4,1jgyop26ua271,10,2,,0,0,0,
+1jgyop26ua271_processed_5,1jgyop26ua271,10,3,,0,0,0,
+1jgyop26ua271_processed_6,1jgyop26ua271,10,3,,0,0,0,
+1jgyop26ua271_processed_7,1jgyop26ua271,10,3,,0,0,0,
+1jgyop26ua271_processed_8,1jgyop26ua271,10,3,,0,0,0,
+1kh22bpjyyq61_processed_1,1kh22bpjyyq61,88,3,,3,2,0,
+1kh22bpjyyq61_processed_10,1kh22bpjyyq61,88,3,,3,0,0,
+1kh22bpjyyq61_processed_11,1kh22bpjyyq61,88,3,honk,3,0,0,
+1kh22bpjyyq61_processed_12,1kh22bpjyyq61,88,2,,3,0,0,
+1kh22bpjyyq61_processed_13,1kh22bpjyyq61,88,0,music,3,0,0,
+1kh22bpjyyq61_processed_14,1kh22bpjyyq61,88,2,music,3,0,0,
+1kh22bpjyyq61_processed_15,1kh22bpjyyq61,88,2,music,3,0,0,
+1kh22bpjyyq61_processed_16,1kh22bpjyyq61,88,3,music,3,0,0,
+1kh22bpjyyq61_processed_17,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_18,1kh22bpjyyq61,88,3,,3,0,0,
+1kh22bpjyyq61_processed_19,1kh22bpjyyq61,88,3,,3,0,0,
+1kh22bpjyyq61_processed_2,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_20,1kh22bpjyyq61,88,2,,3,0,0,
+1kh22bpjyyq61_processed_21,1kh22bpjyyq61,88,2,,3,0,0,
+1kh22bpjyyq61_processed_22,1kh22bpjyyq61,88,2,,3,1,0,
+1kh22bpjyyq61_processed_23,1kh22bpjyyq61,88,2,,3,0,0,
+1kh22bpjyyq61_processed_25,1kh22bpjyyq61,88,2,,3,1,0,
+1kh22bpjyyq61_processed_26,1kh22bpjyyq61,88,2,,3,1,0,
+1kh22bpjyyq61_processed_27,1kh22bpjyyq61,88,2,,3,0,0,
+1kh22bpjyyq61_processed_28,1kh22bpjyyq61,88,2,music,3,0,0,
+1kh22bpjyyq61_processed_29,1kh22bpjyyq61,88,2,music,3,0,0,
+1kh22bpjyyq61_processed_3,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_30,1kh22bpjyyq61,88,1,music,3,0,0,
+1kh22bpjyyq61_processed_31,1kh22bpjyyq61,88,2,music,3,0,0,
+1kh22bpjyyq61_processed_33,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_34,1kh22bpjyyq61,88,3,siren,3,2,0,
+1kh22bpjyyq61_processed_35,1kh22bpjyyq61,88,3,,3,2,0,
+1kh22bpjyyq61_processed_36,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_37,1kh22bpjyyq61,88,2,,3,1,0,
+1kh22bpjyyq61_processed_38,1kh22bpjyyq61,88,2,,3,0,0,
+1kh22bpjyyq61_processed_4,1kh22bpjyyq61,88,3,,3,0,0,
+1kh22bpjyyq61_processed_40,1kh22bpjyyq61,88,3,,3,2,0,
+1kh22bpjyyq61_processed_44,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_45,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_46,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_47,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_48,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_5,1kh22bpjyyq61,88,3,,3,2,0,
+1kh22bpjyyq61_processed_50,1kh22bpjyyq61,88,3,,3,2,0,
+1kh22bpjyyq61_processed_51,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_52,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_54,1kh22bpjyyq61,88,3,,3,2,0,
+1kh22bpjyyq61_processed_56,1kh22bpjyyq61,88,3,,3,2,0,
+1kh22bpjyyq61_processed_57,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_58,1kh22bpjyyq61,88,3,,3,0,0,
+1kh22bpjyyq61_processed_59,1kh22bpjyyq61,88,3,,3,0,0,
+1kh22bpjyyq61_processed_6,1kh22bpjyyq61,88,3,,3,0,0,
+1kh22bpjyyq61_processed_60,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_7,1kh22bpjyyq61,88,3,,3,2,0,
+1kh22bpjyyq61_processed_72,1kh22bpjyyq61,88,3,,3,2,0,
+1kh22bpjyyq61_processed_73,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_77,1kh22bpjyyq61,88,3,cart rolling,3,2,0,
+1kh22bpjyyq61_processed_81,1kh22bpjyyq61,88,3,sirens,3,2,0,
+1kh22bpjyyq61_processed_82,1kh22bpjyyq61,88,3,,3,2,0,
+1kh22bpjyyq61_processed_84,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_85,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_86,1kh22bpjyyq61,88,3,,3,1,0,
+1kh22bpjyyq61_processed_87,1kh22bpjyyq61,88,3,,3,1,0,
+1mgi6q333gz51_processed_0,1mgi6q333gz51,4,2,,3,3,0,
+1mgi6q333gz51_processed_1,1mgi6q333gz51,4,2,,3,3,0,
+1mgi6q333gz51_processed_2,1mgi6q333gz51,4,2,,3,2,0,
+1mgi6q333gz51_processed_3,1mgi6q333gz51,4,2,,3,1,0,
+1n46zdfwjje71_processed_0,1n46zdfwjje71,14,3,,2,2,0,
+1n46zdfwjje71_processed_1,1n46zdfwjje71,14,3,,2,1,0,
+1n46zdfwjje71_processed_10,1n46zdfwjje71,14,3,,2,2,0,
+1n46zdfwjje71_processed_11,1n46zdfwjje71,14,3,,2,2,0,
+1n46zdfwjje71_processed_12,1n46zdfwjje71,14,3,,2,2,0,
+1n46zdfwjje71_processed_13,1n46zdfwjje71,14,2,,2,2,0,
+1n46zdfwjje71_processed_2,1n46zdfwjje71,14,3,,2,2,0,
+1n46zdfwjje71_processed_3,1n46zdfwjje71,14,3,,2,2,0,
+1n46zdfwjje71_processed_4,1n46zdfwjje71,14,3,,2,2,0,
+1n46zdfwjje71_processed_5,1n46zdfwjje71,14,3,,2,2,0,
+1n46zdfwjje71_processed_6,1n46zdfwjje71,14,1,,2,1,0,
+1n46zdfwjje71_processed_7,1n46zdfwjje71,14,3,,2,1,0,
+1n46zdfwjje71_processed_8,1n46zdfwjje71,14,3,,2,2,0,
+1n46zdfwjje71_processed_9,1n46zdfwjje71,14,3,,2,2,0,
+1n8mu144gu961_processed_0,1n8mu144gu961,8,1,,0,0,0,
+1n8mu144gu961_processed_1,1n8mu144gu961,8,1,,0,0,0,
+1n8mu144gu961_processed_2,1n8mu144gu961,8,1,,0,0,0,
+1n8mu144gu961_processed_3,1n8mu144gu961,8,1,clapping,0,0,0,
+1n8mu144gu961_processed_4,1n8mu144gu961,8,1,clapping,0,0,0,
+1n8mu144gu961_processed_5,1n8mu144gu961,8,1,clapping,0,0,0,
+1n8mu144gu961_processed_6,1n8mu144gu961,8,2,,0,0,0,
+1n8mu144gu961_processed_7,1n8mu144gu961,8,1,,0,0,0,
+1nzrwkv997271_processed_0,1nzrwkv997271,8,4,,3,3,0,
+1nzrwkv997271_processed_1,1nzrwkv997271,8,4,,3,3,0,
+1nzrwkv997271_processed_2,1nzrwkv997271,8,3,,3,2,0,
+1nzrwkv997271_processed_3,1nzrwkv997271,8,2,,3,2,0,
+1nzrwkv997271_processed_4,1nzrwkv997271,8,9999,,3,3,1,
+1nzrwkv997271_processed_5,1nzrwkv997271,8,9999,,3,3,1,
+1nzrwkv997271_processed_6,1nzrwkv997271,8,9999,,3,3,1,
+1nzrwkv997271_processed_7,1nzrwkv997271,8,9999,,3,3,1,
+1qbs0u6n9nh51_processed_0,1qbs0u6n9nh51,4,1,,3,2,0,
+1qbs0u6n9nh51_processed_1,1qbs0u6n9nh51,4,1,,3,3,0,
+1qbs0u6n9nh51_processed_3,1qbs0u6n9nh51,4,2,,3,2,0,
+1qny69p3irs61_processed_0,1qny69p3irs61,5,2,,2,2,0,
+1qny69p3irs61_processed_1,1qny69p3irs61,5,2,,2,1,0,
+1qny69p3irs61_processed_2,1qny69p3irs61,5,1,,2,1,0,
+1qny69p3irs61_processed_3,1qny69p3irs61,5,2,,2,2,0,
+1qny69p3irs61_processed_4,1qny69p3irs61,5,2,,2,2,0,
+1r4mid8y7p861_processed_0,1r4mid8y7p861,6,0,music,0,0,0,
+1r4mid8y7p861_processed_1,1r4mid8y7p861,6,0,music,0,0,0,
+1r4mid8y7p861_processed_2,1r4mid8y7p861,6,0,music,0,0,0,
+1r4mid8y7p861_processed_3,1r4mid8y7p861,6,0,music,0,0,0,
+1r4mid8y7p861_processed_4,1r4mid8y7p861,6,0,music,0,0,0,
+1r4mid8y7p861_processed_5,1r4mid8y7p861,6,0,music,0,0,0,
+1rtj6ofmgm871_processed_0,1rtj6ofmgm871,3,1,traffic,0,0,0,
+1rtj6ofmgm871_processed_1,1rtj6ofmgm871,3,0,traffic,0,0,0,
+1rtj6ofmgm871_processed_2,1rtj6ofmgm871,3,0,traffic,0,0,0,
+1run9c58vyq51_processed_0,1run9c58vyq51,13,2,,2,0,0,
+1run9c58vyq51_processed_1,1run9c58vyq51,13,2,,2,1,0,
+1run9c58vyq51_processed_10,1run9c58vyq51,13,1,,2,1,0,
+1run9c58vyq51_processed_11,1run9c58vyq51,13,1,,2,1,0,
+1run9c58vyq51_processed_2,1run9c58vyq51,13,1,,2,1,0,
+1run9c58vyq51_processed_3,1run9c58vyq51,13,1,,2,1,0,
+1run9c58vyq51_processed_4,1run9c58vyq51,13,1,,2,1,0,
+1run9c58vyq51_processed_5,1run9c58vyq51,13,1,,2,2,0,
+1run9c58vyq51_processed_6,1run9c58vyq51,13,1,,2,1,0,
+1run9c58vyq51_processed_7,1run9c58vyq51,13,1,,2,1,0,
+1run9c58vyq51_processed_8,1run9c58vyq51,13,1,,2,1,0,
+1run9c58vyq51_processed_9,1run9c58vyq51,13,1,,2,1,0,
+1ryahp4bdkn51_processed_0,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_1,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_10,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_11,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_12,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_13,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_14,1ryahp4bdkn51,21,3,,1,0,0,
+1ryahp4bdkn51_processed_15,1ryahp4bdkn51,21,1,,1,1,0,
+1ryahp4bdkn51_processed_16,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_17,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_18,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_19,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_2,1ryahp4bdkn51,21,2,,1,1,0,
+1ryahp4bdkn51_processed_20,1ryahp4bdkn51,21,1,,1,1,0,
+1ryahp4bdkn51_processed_3,1ryahp4bdkn51,21,2,,1,1,0,
+1ryahp4bdkn51_processed_4,1ryahp4bdkn51,21,2,,1,1,0,
+1ryahp4bdkn51_processed_5,1ryahp4bdkn51,21,2,,1,1,0,
+1ryahp4bdkn51_processed_6,1ryahp4bdkn51,21,3,,1,0,0,
+1ryahp4bdkn51_processed_7,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_8,1ryahp4bdkn51,21,3,,1,1,0,
+1ryahp4bdkn51_processed_9,1ryahp4bdkn51,21,3,,1,1,0,
+1sm6gyfaqyb71_processed_0,1sm6gyfaqyb71,14,9999,,3,2,1,
+1sm6gyfaqyb71_processed_1,1sm6gyfaqyb71,14,9999,,3,2,1,
+1sm6gyfaqyb71_processed_10,1sm6gyfaqyb71,14,9999,,3,3,1,
+1sm6gyfaqyb71_processed_11,1sm6gyfaqyb71,14,9999,,3,2,1,
+1sm6gyfaqyb71_processed_12,1sm6gyfaqyb71,14,9999,,3,3,1,
+1sm6gyfaqyb71_processed_13,1sm6gyfaqyb71,14,9999,,3,3,1,
+1sm6gyfaqyb71_processed_2,1sm6gyfaqyb71,14,9999,,3,3,1,
+1sm6gyfaqyb71_processed_3,1sm6gyfaqyb71,14,9999,,3,3,1,
+1sm6gyfaqyb71_processed_4,1sm6gyfaqyb71,14,9999,,3,3,1,
+1sm6gyfaqyb71_processed_5,1sm6gyfaqyb71,14,9999,,3,3,1,
+1sm6gyfaqyb71_processed_6,1sm6gyfaqyb71,14,9999,,3,3,1,
+1sm6gyfaqyb71_processed_7,1sm6gyfaqyb71,14,9999,,3,3,1,
+1sm6gyfaqyb71_processed_8,1sm6gyfaqyb71,14,9999,,3,3,1,
+1sm6gyfaqyb71_processed_9,1sm6gyfaqyb71,14,9999,,3,3,1,
+1u7v7z5bs0w51_processed_0,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_1,1u7v7z5bs0w51,26,2,,3,2,0,
+1u7v7z5bs0w51_processed_10,1u7v7z5bs0w51,26,2,,3,2,0,
+1u7v7z5bs0w51_processed_11,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_12,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_13,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_14,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_15,1u7v7z5bs0w51,26,2,,3,2,0,
+1u7v7z5bs0w51_processed_16,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_17,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_18,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_19,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_2,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_20,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_21,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_22,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_23,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_24,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_25,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_3,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_4,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_5,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_6,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_7,1u7v7z5bs0w51,26,2,,3,3,0,
+1u7v7z5bs0w51_processed_9,1u7v7z5bs0w51,26,2,,3,3,0,
+1yo4jumj6j661_processed_0,1yo4jumj6j661,2,1,sirens,0,0,0,
+1yo4jumj6j661_processed_1,1yo4jumj6j661,2,1,,0,0,0,
+1zi7ll3mt4571_processed_0,1zi7ll3mt4571,3,3,,2,1,0,
+1zi7ll3mt4571_processed_1,1zi7ll3mt4571,3,3,,2,2,0,
+1zi7ll3mt4571_processed_2,1zi7ll3mt4571,3,3,,2,2,0,
+202evujgunk61_processed_0,202evujgunk61,8,2,,1,1,0,
+202evujgunk61_processed_1,202evujgunk61,8,2,,1,1,0,
+202evujgunk61_processed_2,202evujgunk61,8,2,,1,1,0,
+202evujgunk61_processed_3,202evujgunk61,8,2,,1,1,0,
+202evujgunk61_processed_4,202evujgunk61,8,2,,1,1,0,
+202evujgunk61_processed_5,202evujgunk61,8,2,,1,1,0,
+202evujgunk61_processed_6,202evujgunk61,8,2,,1,1,0,
+202evujgunk61_processed_7,202evujgunk61,8,2,,1,1,0,
+21lehnzb96d61_processed_0,21lehnzb96d61,6,1,,0,0,0,
+21lehnzb96d61_processed_1,21lehnzb96d61,6,1,,0,0,0,
+21lehnzb96d61_processed_2,21lehnzb96d61,6,2,,0,0,0,
+21lehnzb96d61_processed_3,21lehnzb96d61,6,1,,0,0,0,
+21lehnzb96d61_processed_4,21lehnzb96d61,6,2,,0,0,0,
+21lehnzb96d61_processed_5,21lehnzb96d61,6,1,,0,0,0,
+26qgcxvnjiu61_processed_0,26qgcxvnjiu61,5,2,,2,2,0,
+26qgcxvnjiu61_processed_1,26qgcxvnjiu61,5,2,,2,2,0,
+26qgcxvnjiu61_processed_2,26qgcxvnjiu61,5,2,,2,2,0,
+26qgcxvnjiu61_processed_3,26qgcxvnjiu61,5,2,,2,2,0,
+26qgcxvnjiu61_processed_4,26qgcxvnjiu61,5,2,,2,2,0,
+2f8jximgg9371_processed_0,2f8jximgg9371,3,1,music,0,0,0,
+2f8jximgg9371_processed_1,2f8jximgg9371,3,1,music,0,0,0,
+2f8jximgg9371_processed_2,2f8jximgg9371,3,0,music,0,0,0,
+2hi5az6emer51_processed_0,2hi5az6emer51,2,2,,2,2,0,
+2hi5az6emer51_processed_1,2hi5az6emer51,2,2,,2,1,0,
+2holi4ang1l61_processed_0,2holi4ang1l61,7,1,,0,0,0,
+2holi4ang1l61_processed_1,2holi4ang1l61,7,2,,0,0,0,
+2holi4ang1l61_processed_2,2holi4ang1l61,7,2,,0,0,0,
+2holi4ang1l61_processed_3,2holi4ang1l61,7,2,,0,0,0,
+2holi4ang1l61_processed_4,2holi4ang1l61,7,2,,0,0,0,
+2holi4ang1l61_processed_5,2holi4ang1l61,7,1,,0,0,0,
+2holi4ang1l61_processed_6,2holi4ang1l61,7,1,,0,0,0,
+2jceljldavz51_processed_0,2jceljldavz51,2,2,,0,0,0,shouting here is because of surprise
+2jceljldavz51_processed_1,2jceljldavz51,2,2,,0,0,0,
+2jg021dtzue71_processed_0,2jg021dtzue71,5,1,"honk, kids playing",0,0,0,
+2jg021dtzue71_processed_1,2jg021dtzue71,5,1,"kids playing, sirens",0,0,0,
+2jg021dtzue71_processed_2,2jg021dtzue71,5,1,sirens,0,0,0,
+2jg021dtzue71_processed_3,2jg021dtzue71,5,1,child crying,0,0,0,
+2jg021dtzue71_processed_4,2jg021dtzue71,5,1,,0,0,0,
+2jt2pcfwre461_processed_0,2jt2pcfwre461,31,1,,1,0,0,
+2jt2pcfwre461_processed_1,2jt2pcfwre461,31,1,,1,0,0,
+2jt2pcfwre461_processed_10,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_11,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_12,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_13,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_14,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_15,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_16,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_17,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_18,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_19,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_2,2jt2pcfwre461,31,2,,1,0,0,
+2jt2pcfwre461_processed_20,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_21,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_22,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_23,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_24,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_25,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_26,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_27,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_28,2jt2pcfwre461,31,1,,1,0,0,
+2jt2pcfwre461_processed_29,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_3,2jt2pcfwre461,31,1,,1,0,0,
+2jt2pcfwre461_processed_30,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_4,2jt2pcfwre461,31,1,,1,0,0,
+2jt2pcfwre461_processed_5,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_6,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_7,2jt2pcfwre461,31,2,,1,1,0,
+2jt2pcfwre461_processed_8,2jt2pcfwre461,31,1,,1,0,0,
+2jt2pcfwre461_processed_9,2jt2pcfwre461,31,2,,1,1,0,
+2mocdcmj90b71_processed_0,2mocdcmj90b71,10,0,music,0,0,0,
+2mocdcmj90b71_processed_1,2mocdcmj90b71,10,0,music,0,0,0,
+2mocdcmj90b71_processed_2,2mocdcmj90b71,10,0,music,0,0,0,
+2mocdcmj90b71_processed_3,2mocdcmj90b71,10,0,music,0,0,0,
+2mocdcmj90b71_processed_4,2mocdcmj90b71,10,0,music,0,0,0,
+2mocdcmj90b71_processed_5,2mocdcmj90b71,10,0,music,0,0,0,
+2mocdcmj90b71_processed_6,2mocdcmj90b71,10,0,music,0,0,0,
+2mocdcmj90b71_processed_7,2mocdcmj90b71,10,0,music,0,0,0,
+2mocdcmj90b71_processed_8,2mocdcmj90b71,10,0,music,0,0,0,
+2mrfsimxhwm61_processed_0,2mrfsimxhwm61,11,2,female sobbing,1,1,0,
+2mrfsimxhwm61_processed_1,2mrfsimxhwm61,11,2,clapping,1,0,0,
+2mrfsimxhwm61_processed_10,2mrfsimxhwm61,11,1,,1,0,0,
+2mrfsimxhwm61_processed_2,2mrfsimxhwm61,11,3,clapping,1,0,0,
+2mrfsimxhwm61_processed_3,2mrfsimxhwm61,11,2,clapping,1,0,0,
+2mrfsimxhwm61_processed_4,2mrfsimxhwm61,11,2,clapping,1,0,0,
+2mrfsimxhwm61_processed_5,2mrfsimxhwm61,11,2,,1,0,0,
+2mrfsimxhwm61_processed_6,2mrfsimxhwm61,11,1,,1,0,0,
+2mrfsimxhwm61_processed_7,2mrfsimxhwm61,11,2,,1,0,0,
+2mrfsimxhwm61_processed_8,2mrfsimxhwm61,11,2,,1,0,0,
+2mrfsimxhwm61_processed_9,2mrfsimxhwm61,11,1,,1,0,0,
+2n6odjoqo9561_processed_0,2n6odjoqo9561,8,2,music,2,0,0,
+2n6odjoqo9561_processed_2,2n6odjoqo9561,8,2,music,2,2,0,
+2n6odjoqo9561_processed_3,2n6odjoqo9561,8,2,music,2,2,0,
+2n6odjoqo9561_processed_4,2n6odjoqo9561,8,2,music,2,0,0,
+2n6odjoqo9561_processed_5,2n6odjoqo9561,8,2,music,2,0,0,
+2n6odjoqo9561_processed_6,2n6odjoqo9561,8,3,music,2,1,0,
+2tasdqio0l871_processed_2,2tasdqio0l871,5,9999,kids crying,3,3,1,
+2tasdqio0l871_processed_3,2tasdqio0l871,5,9999,"kids crying, laughing",3,2,1,
+2tasdqio0l871_processed_4,2tasdqio0l871,5,9999,"kids crying, laughing",3,0,1,
+2uw2ps4l9dm51_processed_0,2uw2ps4l9dm51,5,2,,0,0,0,
+2uw2ps4l9dm51_processed_1,2uw2ps4l9dm51,5,2,,0,0,0,
+2uw2ps4l9dm51_processed_2,2uw2ps4l9dm51,5,0,water puddles,0,0,0,
+2uw2ps4l9dm51_processed_3,2uw2ps4l9dm51,5,0,water puddles,0,0,0,
+2uw2ps4l9dm51_processed_4,2uw2ps4l9dm51,5,0,"water puddles, honk",0,0,0,
+2wcunlh6zll51_processed_0,2wcunlh6zll51,3,0,music,0,0,0,
+2wcunlh6zll51_processed_1,2wcunlh6zll51,3,0,music,0,0,0,
+2wcunlh6zll51_processed_2,2wcunlh6zll51,3,0,music,0,0,0,
+2zxxmq8g1n961_processed_0,2zxxmq8g1n961,6,3,,3,1,0,
+2zxxmq8g1n961_processed_1,2zxxmq8g1n961,6,3,,3,2,0,
+2zxxmq8g1n961_processed_2,2zxxmq8g1n961,6,3,,3,3,0,
+2zxxmq8g1n961_processed_3,2zxxmq8g1n961,6,3,,3,3,0,
+2zxxmq8g1n961_processed_4,2zxxmq8g1n961,6,3,,3,3,0,
+2zxxmq8g1n961_processed_5,2zxxmq8g1n961,6,3,,3,3,0,
+32tcfjnefkk51_processed_0,32tcfjnefkk51,7,0,"crowd cheering, whistling",0,0,0,
+32tcfjnefkk51_processed_1,32tcfjnefkk51,7,0,"crowd cheering, whistling",0,0,0,
+32tcfjnefkk51_processed_2,32tcfjnefkk51,7,0,"crowd cheering, whistling",0,0,0,
+32tcfjnefkk51_processed_3,32tcfjnefkk51,7,0,"crowd cheering, whistling",0,0,0,
+32tcfjnefkk51_processed_4,32tcfjnefkk51,7,0,"crowd cheering, whistling",0,0,0,
+32tcfjnefkk51_processed_5,32tcfjnefkk51,7,0,"crowd cheering, whistling, music",0,0,0,
+34aohjogtza61_processed_0,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_1,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_10,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_11,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_12,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_13,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_2,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_3,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_4,34aohjogtza61,14,1,,0,0,0,
+34aohjogtza61_processed_5,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_6,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_7,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_8,34aohjogtza61,14,2,,0,0,0,
+34aohjogtza61_processed_9,34aohjogtza61,14,2,,0,0,0,
+34lkvmojqct51_processed_0,34lkvmojqct51,3,2,basketball,1,1,0,
+34lkvmojqct51_processed_1,34lkvmojqct51,3,2,basketball,1,1,0,
+34lkvmojqct51_processed_2,34lkvmojqct51,3,2,basketball,1,0,0,
+34rswao9xeq61_processed_0,34rswao9xeq61,2,1,music,0,0,0,
+34rswao9xeq61_processed_1,34rswao9xeq61,2,1,music,0,0,0,
+36bjsl3iujm51_processed_0,36bjsl3iujm51,1,1,loud sound boom,0,0,0,
+37gpiutnlqj51_processed_0,37gpiutnlqj51,8,2,music,0,0,0,
+37gpiutnlqj51_processed_1,37gpiutnlqj51,8,9999,music,0,0,1,
+37gpiutnlqj51_processed_2,37gpiutnlqj51,8,9999,music,0,0,1,
+37gpiutnlqj51_processed_3,37gpiutnlqj51,8,9999,music,0,0,1,
+37gpiutnlqj51_processed_4,37gpiutnlqj51,8,9999,music,0,0,1,
+37gpiutnlqj51_processed_5,37gpiutnlqj51,8,9999,music,0,0,1,
+37hw28703lg51_processed_0,37hw28703lg51,4,1,music,0,0,0,
+37hw28703lg51_processed_1,37hw28703lg51,4,1,music,0,0,0,
+37hw28703lg51_processed_2,37hw28703lg51,4,0,music,0,0,0,
+37hw28703lg51_processed_3,37hw28703lg51,4,0,music,0,0,0,
+37i5m1uaecb61_processed_0,37i5m1uaecb61,2,1,,0,0,0,
+37i5m1uaecb61_processed_1,37i5m1uaecb61,2,1,,0,0,0,
+3ad1o2hax5s61_processed_0,3ad1o2hax5s61,2,1,Scared Yelling,0,0,0,
+3ad1o2hax5s61_processed_1,3ad1o2hax5s61,2,2,Scared Yelling,0,0,0,
+3bajivkljw071_processed_0,3bajivkljw071,11,0,music,1,0,0,
+3bajivkljw071_processed_1,3bajivkljw071,11,2,music,1,1,0,
+3bajivkljw071_processed_2,3bajivkljw071,11,2,music,1,1,0,
+3bajivkljw071_processed_3,3bajivkljw071,11,2,music,1,1,0,
+3bajivkljw071_processed_4,3bajivkljw071,11,2,music,1,1,0,
+3bajivkljw071_processed_5,3bajivkljw071,11,2,music,1,1,0,
+3bajivkljw071_processed_6,3bajivkljw071,11,2,music,1,1,0,
+3bajivkljw071_processed_7,3bajivkljw071,11,2,music,1,1,0,
+3bajivkljw071_processed_8,3bajivkljw071,11,2,music,1,1,0,
+3bajivkljw071_processed_9,3bajivkljw071,11,2,music,1,1,0,
+3bddn03cfyo51_processed_0,3bddn03cfyo51,2,2,,0,0,0,
+3bddn03cfyo51_processed_1,3bddn03cfyo51,2,1,"Car engine, whistling",0,0,0,
+3cdhvfnd5sc61_processed_0,3cdhvfnd5sc61,6,3,,0,0,0,
+3cdhvfnd5sc61_processed_1,3cdhvfnd5sc61,6,3,,0,0,0,
+3cdhvfnd5sc61_processed_2,3cdhvfnd5sc61,6,3,,0,0,0,
+3cdhvfnd5sc61_processed_3,3cdhvfnd5sc61,6,3,,0,0,0,
+3cdhvfnd5sc61_processed_4,3cdhvfnd5sc61,6,2,,0,0,0,
+3cdhvfnd5sc61_processed_5,3cdhvfnd5sc61,6,2,,0,0,0,
+3cmfhzmkmpr51_processed_0,3cmfhzmkmpr51,2,2,,1,1,0,
+3cmfhzmkmpr51_processed_1,3cmfhzmkmpr51,2,2,,1,1,0,
+3duf3yestck51_processed_0,3duf3yestck51,4,9999,,3,3,1,
+3duf3yestck51_processed_1,3duf3yestck51,4,9999,,3,3,1,
+3duf3yestck51_processed_2,3duf3yestck51,4,9999,,3,3,1,
+3duf3yestck51_processed_3,3duf3yestck51,4,9999,,3,3,1,
+3fidd5jaqm171_processed_0,3fidd5jaqm171,2,3,,1,1,0,
+3fidd5jaqm171_processed_1,3fidd5jaqm171,2,4,,1,1,0,
+3g74orbanac71_processed_0,3g74orbanac71,9,1,,2,0,0,
+3g74orbanac71_processed_1,3g74orbanac71,9,2,,2,1,0,
+3g74orbanac71_processed_2,3g74orbanac71,9,2,,2,1,0,
+3g74orbanac71_processed_3,3g74orbanac71,9,2,,2,1,0,
+3g74orbanac71_processed_4,3g74orbanac71,9,2,,2,1,0,
+3g74orbanac71_processed_5,3g74orbanac71,9,2,,2,1,0,
+3g74orbanac71_processed_6,3g74orbanac71,9,2,metal clicking,2,0,0,
+3g74orbanac71_processed_7,3g74orbanac71,9,2,,2,0,0,
+3gc2e42uf1d71_processed_0,3gc2e42uf1d71,2,1,,0,0,0,
+3gc2e42uf1d71_processed_1,3gc2e42uf1d71,2,1,,0,0,0,
+3jr9jst7am971_processed_0,3jr9jst7am971,4,2,,1,1,0,
+3jr9jst7am971_processed_1,3jr9jst7am971,4,2,,1,1,0,
+3jr9jst7am971_processed_2,3jr9jst7am971,4,2,,1,1,0,
+3jr9jst7am971_processed_3,3jr9jst7am971,4,2,,1,1,0,
+3kmu5y6fvu171_processed_0,3kmu5y6fvu171,8,2,Hip hop music,1,0,0,
+3kmu5y6fvu171_processed_2,3kmu5y6fvu171,8,1,Hip hop music,1,0,0,
+3kmu5y6fvu171_processed_3,3kmu5y6fvu171,8,3,Hip hop music,1,1,0,
+3kmu5y6fvu171_processed_4,3kmu5y6fvu171,8,2,Hip hop music,1,1,0,
+3kmu5y6fvu171_processed_5,3kmu5y6fvu171,8,2,Hip hop music,1,1,0,
+3kmu5y6fvu171_processed_6,3kmu5y6fvu171,8,2,Hip hop music,1,1,0,
+3kmu5y6fvu171_processed_7,3kmu5y6fvu171,8,1,Hip hop music,1,0,0,
+3na9vvi4e5r51_processed_0,3na9vvi4e5r51,4,1,,1,1,0,
+3na9vvi4e5r51_processed_1,3na9vvi4e5r51,4,1,,1,1,0,
+3na9vvi4e5r51_processed_2,3na9vvi4e5r51,4,1,,1,1,0,
+3na9vvi4e5r51_processed_3,3na9vvi4e5r51,4,1,,1,1,0,
+3nhmtwf53sr51_processed_0,3nhmtwf53sr51,5,2,,1,1,0,
+3nhmtwf53sr51_processed_1,3nhmtwf53sr51,5,3,,1,1,0,
+3nhmtwf53sr51_processed_2,3nhmtwf53sr51,5,1,,1,1,0,
+3nhmtwf53sr51_processed_3,3nhmtwf53sr51,5,1,,1,1,0,
+3nhmtwf53sr51_processed_4,3nhmtwf53sr51,5,2,,1,1,0,
+3nj3vuhaskf71_processed_0,3nj3vuhaskf71,4,1,,1,0,0,
+3nj3vuhaskf71_processed_1,3nj3vuhaskf71,4,2,,1,0,0,
+3nj3vuhaskf71_processed_2,3nj3vuhaskf71,4,1,,1,0,0,
+3nj3vuhaskf71_processed_3,3nj3vuhaskf71,4,1,,1,1,0,
+3nr00989hhp51_processed_0,3nr00989hhp51,6,1,,2,0,0,
+3nr00989hhp51_processed_1,3nr00989hhp51,6,1,,2,0,0,
+3nr00989hhp51_processed_2,3nr00989hhp51,6,9999,,2,2,1,
+3nr00989hhp51_processed_3,3nr00989hhp51,6,9999,,2,2,1,
+3nr00989hhp51_processed_4,3nr00989hhp51,6,9999,,2,2,1,
+3nvn1lwacgg61_processed_0,3nvn1lwacgg61,14,9999,Clapping,0,0,1,
+3nvn1lwacgg61_processed_1,3nvn1lwacgg61,14,9999,Clapping,0,0,1,
+3nvn1lwacgg61_processed_10,3nvn1lwacgg61,14,9999,"Clapping, protest, traffic",0,0,1,
+3nvn1lwacgg61_processed_11,3nvn1lwacgg61,14,9999,"Clapping, protest, traffic",0,0,1,
+3nvn1lwacgg61_processed_12,3nvn1lwacgg61,14,9999,"Clapping, protest, traffic",0,0,1,
+3nvn1lwacgg61_processed_13,3nvn1lwacgg61,14,9999,"Clapping, protest, traffic",0,0,1,
+3nvn1lwacgg61_processed_2,3nvn1lwacgg61,14,9999,Clapping,0,0,1,
+3nvn1lwacgg61_processed_3,3nvn1lwacgg61,14,9999,Clapping,0,0,1,
+3nvn1lwacgg61_processed_4,3nvn1lwacgg61,14,9999,"Clapping, protest, traffic",0,0,1,
+3nvn1lwacgg61_processed_5,3nvn1lwacgg61,14,9999,"Clapping, protest, traffic",0,0,1,
+3nvn1lwacgg61_processed_6,3nvn1lwacgg61,14,9999,"Clapping, protest, traffic",0,0,1,
+3nvn1lwacgg61_processed_7,3nvn1lwacgg61,14,9999,"Clapping, protest, traffic",0,0,1,
+3nvn1lwacgg61_processed_8,3nvn1lwacgg61,14,9999,"Clapping, protest, traffic",0,0,1,
+3nvn1lwacgg61_processed_9,3nvn1lwacgg61,14,9999,"Clapping, protest, traffic",0,0,1,
+3rmzq4godzr51_processed_0,3rmzq4godzr51,1,1,traffic,1,1,0,
+3sfnd1s919r61_processed_0,3sfnd1s919r61,8,2,,3,3,0,
+3sfnd1s919r61_processed_1,3sfnd1s919r61,8,2,,3,2,0,
+3sfnd1s919r61_processed_2,3sfnd1s919r61,8,2,,3,2,0,
+3sfnd1s919r61_processed_3,3sfnd1s919r61,8,3,,3,2,0,
+3sfnd1s919r61_processed_4,3sfnd1s919r61,8,3,,3,3,0,
+3sfnd1s919r61_processed_5,3sfnd1s919r61,8,3,,3,3,0,
+3sx0ah753fk61_processed_1,3sx0ah753fk61,26,1,,3,0,0,
+3sx0ah753fk61_processed_10,3sx0ah753fk61,26,3,,3,0,0,
+3sx0ah753fk61_processed_12,3sx0ah753fk61,26,3,,3,1,0,
+3sx0ah753fk61_processed_13,3sx0ah753fk61,26,3,,3,1,0,
+3sx0ah753fk61_processed_14,3sx0ah753fk61,26,3,,3,1,0,
+3sx0ah753fk61_processed_16,3sx0ah753fk61,26,3,,3,1,0,
+3sx0ah753fk61_processed_17,3sx0ah753fk61,26,3,,3,1,0,
+3sx0ah753fk61_processed_18,3sx0ah753fk61,26,2,,3,1,0,
+3sx0ah753fk61_processed_20,3sx0ah753fk61,26,3,,3,2,0,
+3sx0ah753fk61_processed_3,3sx0ah753fk61,26,1,,3,0,0,
+3sx0ah753fk61_processed_5,3sx0ah753fk61,26,1,,3,0,0,
+3sx0ah753fk61_processed_6,3sx0ah753fk61,26,1,,3,0,0,
+3sx0ah753fk61_processed_7,3sx0ah753fk61,26,2,,3,0,0,
+3sx0ah753fk61_processed_8,3sx0ah753fk61,26,3,,3,1,0,
+zvkhxd3vp3o51_processed_1,zvkhxd3vp3o51,9,2,crowd,2,2,0,
+zvkhxd3vp3o51_processed_4,zvkhxd3vp3o51,9,3,"crowd, kids screaming",2,2,0,
+zvkhxd3vp3o51_processed_5,zvkhxd3vp3o51,9,3,"crowd, kids screaming",2,2,0,
+zvkhxd3vp3o51_processed_6,zvkhxd3vp3o51,9,3,"crowd, kids screaming",2,2,0,
+zvkhxd3vp3o51_processed_7,zvkhxd3vp3o51,9,3,"crowd, kids screaming",2,2,0,
+hqztlcsmm1k51_processed_0,hqztlcsmm1k51,3,1,Clicking,0,0,0,"The man uses suggestive language, but there is no aggression heard in the audio file"
+hqztlcsmm1k51_processed_1,hqztlcsmm1k51,3,1,Clicking,0,0,0,There is no aggression heard in the audio file
+hqztlcsmm1k51_processed_2,hqztlcsmm1k51,3,1,,0,0,0,There is no aggression heard in the audio file
+hr8n7irrnqk51_processed_0,hr8n7irrnqk51,11,2,,1,0,0,There is no aggression heard in the audio file
+hr8n7irrnqk51_processed_1,hr8n7irrnqk51,11,2,,1,0,0,There is no aggression heard in the audio file
+hr8n7irrnqk51_processed_2,hr8n7irrnqk51,11,2,,1,0,0,There is no aggression heard in the audio file
+hr8n7irrnqk51_processed_3,hr8n7irrnqk51,11,2,Laughing,1,1,0,The man raises his voice a little as he seems passionate about the change he is arguing for.
+hr8n7irrnqk51_processed_4,hr8n7irrnqk51,11,2,,1,0,0,There is no aggression heard in the audio file
+hr8n7irrnqk51_processed_5,hr8n7irrnqk51,11,2,,1,0,0,There is no aggression heard in the audio file
+hr8n7irrnqk51_processed_6,hr8n7irrnqk51,11,2,,1,1,0,There is noticable frustration in the man's voice at times.
+hr8n7irrnqk51_processed_7,hr8n7irrnqk51,11,2,,1,1,0,There is noticable frustration in the man's voice at times.
+hr8n7irrnqk51_processed_8,hr8n7irrnqk51,11,2,,1,0,0,There is no aggression heard in the audio file
+hr8n7irrnqk51_processed_9,hr8n7irrnqk51,11,2,Laughing,1,0,0,There is no aggression heard in the audio file
+hr8n7irrnqk51_processed_10,hr8n7irrnqk51,11,2,Clapping,1,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_0,hsuk4xsys4w61,21,5,"Background chatter, wind blowing",3,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_1,hsuk4xsys4w61,21,5,,3,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_2,hsuk4xsys4w61,21,5,,3,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_4,hsuk4xsys4w61,21,5,,3,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_5,hsuk4xsys4w61,21,5,Yelling,3,3,0,The deputy sounds very hostile and his language is frightening
+hsuk4xsys4w61_processed_6,hsuk4xsys4w61,21,5,,3,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_7,hsuk4xsys4w61,21,5,,3,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_8,hsuk4xsys4w61,21,5,Background chatter,3,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_9,hsuk4xsys4w61,21,5,Background chatter,3,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_10,hsuk4xsys4w61,21,5,wind blowing,3,1,0,The deputy is aggressive.
+hsuk4xsys4w61_processed_11,hsuk4xsys4w61,21,5,"Rustling, wind blowing, man falling to the ground",3,2,0,The man sounds distressed
+hsuk4xsys4w61_processed_12,hsuk4xsys4w61,21,5,"Background chatter, wind blowing",3,2,0,The deputy is aggressive and threatening towards the man
+hsuk4xsys4w61_processed_13,hsuk4xsys4w61,21,5,wind blowing,3,2,0,The deputy is aggressive and threatening towards the man
+hsuk4xsys4w61_processed_14,hsuk4xsys4w61,21,5,wind blowing,3,3,0,The deputy screams at the man and threatens him.
+hsuk4xsys4w61_processed_15,hsuk4xsys4w61,21,5,wind blowing,3,3,0,The deputy raises his voice and threatens the man in a concerning manner.
+hsuk4xsys4w61_processed_16,hsuk4xsys4w61,21,5,wind blowing,3,1,0,The deputy is aggressive towards the man
+hsuk4xsys4w61_processed_17,hsuk4xsys4w61,21,5,"wind blowing, voice on radio",3,3,0,The deputy is aggressive and threatening towards the man. The man becomes frustrated
+hsuk4xsys4w61_processed_18,hsuk4xsys4w61,21,5,wind blowing,3,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_19,hsuk4xsys4w61,21,5,,3,0,0,There is no aggression heard in the audio file
+hsuk4xsys4w61_processed_20,hsuk4xsys4w61,21,5,"wind blowing, background chatter",3,0,0,There is no aggression heard in the audio file
+hv7owj844s461_processed_0,hv7owj844s461,10,1,Crowd yelling,3,2,1,The man is yelling in a manner which may be aggressive. The crowd may also be aggressive
+hv7owj844s461_processed_1,hv7owj844s461,10,1,"Crowd yelling, snapping",3,3,1,The crowd sounds aggressive
+hv7owj844s461_processed_2,hv7owj844s461,10,1,"Crowd yelling, snapping",3,3,1,The crowd sounds aggressive
+hv7owj844s461_processed_3,hv7owj844s461,10,2,"Glassbreaking, crowd yelling, thuds",3,3,1,The crowd sounds aggressive
+hv7owj844s461_processed_4,hv7owj844s461,10,3,"Crowd yelling, thuds",3,3,1,The crowd sounds aggressive. The man also sounds aggressive
+hv7owj844s461_processed_5,hv7owj844s461,10,3,"Crowd yelling, thuds",3,3,1,The crowd sounds aggressive. The man also sounds aggressive
+hv7owj844s461_processed_6,hv7owj844s461,10,3,"Crowd yelling, glass breaking, thuds",3,3,1,The crowd sounds aggressive
+hv7owj844s461_processed_7,hv7owj844s461,10,3,"Crowd yelling, thuds, metal clanking",3,3,1,The crowd sounds aggressive
+hv7owj844s461_processed_8,hv7owj844s461,10,3,"Crowd yelling, thuds, metal clanking, glass breaking",3,3,1,The crowd sounds aggressive. The man also sounds aggressive
+hv7owj844s461_processed_9,hv7owj844s461,10,3,"Crowd yelling, thuds, glass breaking",3,3,1,The crowd sounds aggressive. The man also sounds aggressive
+hx99824cif971_processed_0,hx99824cif971,4,2,laughing,1,0,0,There is no aggression heard in the audio file
+hx99824cif971_processed_1,hx99824cif971,4,2,,1,0,0,There is no aggression heard in the audio file
+hx99824cif971_processed_2,hx99824cif971,4,3,,1,1,0,The man responds to the girl in a scoldful manner
+hx99824cif971_processed_3,hx99824cif971,4,3,Laughing,1,1,0,The man responds to the girl in a scoldful manner
+hxx6a6sw3ty51_processed_0,hxx6a6sw3ty51,17,5,Background music,2,0,0,There is no aggression heard in the audio file
+hxx6a6sw3ty51_processed_1,hxx6a6sw3ty51,17,5,Background music,2,0,0,There is no aggression heard in the audio file
+hxx6a6sw3ty51_processed_2,hxx6a6sw3ty51,17,5,Background music,2,0,0,There is no aggression heard in the audio file
+hxx6a6sw3ty51_processed_3,hxx6a6sw3ty51,17,5,Background music,2,1,0,The woman sounds frustrated and slightly aggressive
+hxx6a6sw3ty51_processed_4,hxx6a6sw3ty51,17,5,Background music,2,0,0,There is no aggression heard in the audio file
+hxx6a6sw3ty51_processed_5,hxx6a6sw3ty51,17,5,Background music,2,1,0,The woman raises her voice at the end of the clip
+hxx6a6sw3ty51_processed_6,hxx6a6sw3ty51,17,5,Background music,2,1,0,The woman raises her voice and sounds a little confrontational
+hxx6a6sw3ty51_processed_7,hxx6a6sw3ty51,17,5,Background music,2,2,0,"The woman begins yelling, possibly aggressively"
+hxx6a6sw3ty51_processed_8,hxx6a6sw3ty51,17,5,Background music,2,1,0,The woman raises her voice and sounds a little aggressive
+hxx6a6sw3ty51_processed_9,hxx6a6sw3ty51,17,5,Background music,2,1,0,The woman raises her voice and sounds a little aggressive
+hxx6a6sw3ty51_processed_10,hxx6a6sw3ty51,17,5,Background music,2,2,0,The woman begins yelling near the end of the clip
+hxx6a6sw3ty51_processed_11,hxx6a6sw3ty51,17,5,Background music,2,2,0,The man yells aggressively
+hxx6a6sw3ty51_processed_12,hxx6a6sw3ty51,17,5,Background music,2,1,0,There seems to be frustration and agitation in the woman's voice
+hxx6a6sw3ty51_processed_13,hxx6a6sw3ty51,17,5,Background music,2,2,0,The woman sounds aggressive and her voice can sharpen at times
+hxx6a6sw3ty51_processed_14,hxx6a6sw3ty51,17,5,Background music,2,1,0,The woman sounds a little aggressive and frustrated.
+hxx6a6sw3ty51_processed_15,hxx6a6sw3ty51,17,5,Background music,2,1,0,The woman raises her voice and sounds frustrated and a little aggressive
+hxx6a6sw3ty51_processed_16,hxx6a6sw3ty51,17,5,Background music,2,1,0,The woman sounds agitated and a little aggressive
+i294za8r11371_processed_0,i294za8r11371,3,2,Dog barking,0,0,0,No aggression heard in the audio file.
+i294za8r11371_processed_1,i294za8r11371,3,2,Dog barking,0,0,0,No aggression heard in the audio file.
+i294za8r11371_processed_2,i294za8r11371,3,2,"Dog barking, laughing",0,0,0,No aggression heard in the audio file.
+i35rsfl9ye561_processed_0,i35rsfl9ye561,4,3,"Screaming, background chatter",0,0,0,The screaming is cheerful
+i35rsfl9ye561_processed_1,i35rsfl9ye561,4,3,Shouting,0,0,0,No aggression heard in the audio file.
+i35rsfl9ye561_processed_2,i35rsfl9ye561,4,3,Giggling,0,0,0,"The man is shouting, but not in an aggressive manner."
+i35rsfl9ye561_processed_3,i35rsfl9ye561,4,3,Giggling,0,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_2,i3jp22c6gua71,85,6,"Background music, chatter, crying",3,1,0,One of the women raises her voice and is frustrated with the other woman
+i3jp22c6gua71_processed_3,i3jp22c6gua71,85,6,"Background music, chatter, crying",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_4,i3jp22c6gua71,85,6,"Background music, chatter, crying",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_5,i3jp22c6gua71,85,6,"Background music, chatter",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_6,i3jp22c6gua71,85,6,"Background music, chatter",3,2,0,One of the women is frustrated and aggressively raises her voice
+i3jp22c6gua71_processed_7,i3jp22c6gua71,85,6,"Background music, chatter, crying",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_8,i3jp22c6gua71,85,6,"Background music, chatter, crying",3,1,0,One of the women is distressed.
+i3jp22c6gua71_processed_9,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,One of the women is distressed.
+i3jp22c6gua71_processed_10,i3jp22c6gua71,85,6,"Background music, chatter, screaming",3,3,0,One of the women is screaming and evidently distressed.
+i3jp22c6gua71_processed_11,i3jp22c6gua71,85,6,"Background music, chatter",3,3,0,One of the women is shouting and evidently distressed.
+i3jp22c6gua71_processed_12,i3jp22c6gua71,85,6,"Background music, chatter, voice on radio.",3,2,0,One of the women is distressed. The other is frustrated with the situation.
+i3jp22c6gua71_processed_13,i3jp22c6gua71,85,6,"Background music, chatter, voice on radio.",3,3,0,One of the women is very distressed and shouts at the other aggressively. The other woman mocks her
+i3jp22c6gua71_processed_14,i3jp22c6gua71,85,6,"Background music, chatter",3,3,0,One of the women aggressively shouts at the other.
+i3jp22c6gua71_processed_15,i3jp22c6gua71,85,6,"Background music, chatter, screaming",3,3,0,One of the women screams and is evidently distressed.
+i3jp22c6gua71_processed_16,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,A woman is distressed.
+i3jp22c6gua71_processed_17,i3jp22c6gua71,85,6,Background music,3,1,0,A woman is clearly frustrated with her circumstances
+i3jp22c6gua71_processed_18,i3jp22c6gua71,85,6,"Background music, chatter",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_19,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,One of the women is distressed.
+i3jp22c6gua71_processed_20,i3jp22c6gua71,85,6,"Background music, chatter",3,2,0,One of the women shouts for help and is distressed.
+i3jp22c6gua71_processed_21,i3jp22c6gua71,85,6,"Background music, chatter",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_22,i3jp22c6gua71,85,6,"Background music, chatter, personal radio beeping",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_23,i3jp22c6gua71,85,6,"Background music, chatter",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_24,i3jp22c6gua71,85,6,"Background music, chatter, wailing",3,1,0,"One of the women sounds distressed, while the other sounds frustrated."
+i3jp22c6gua71_processed_25,i3jp22c6gua71,85,6,"Background music, chatter, moaning",3,1,0,One of the women is frustrated.
+i3jp22c6gua71_processed_26,i3jp22c6gua71,85,6,"Background music, chatter",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_27,i3jp22c6gua71,85,6,"Background music, chatter",3,2,0,One of the women is distressed and on the verge of screaming.
+i3jp22c6gua71_processed_28,i3jp22c6gua71,85,6,"Background music, chatter, wailing",3,2,0,"One of the women is distressed, while the other is frustrated."
+i3jp22c6gua71_processed_29,i3jp22c6gua71,85,6,"Background music, chatter, breathing",3,1,0,One of the women sounds distressed.
+i3jp22c6gua71_processed_30,i3jp22c6gua71,85,6,"Background music, chatter, wailing, crying",3,2,0,"One of the women is distressed, while the other is frustrated."
+i3jp22c6gua71_processed_31,i3jp22c6gua71,85,6,"Background music, chatter, voice on radio.",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_32,i3jp22c6gua71,85,6,Background music,3,1,0,One of the women sounds a little agitated. Another woman sounds a little distressed.
+i3jp22c6gua71_processed_33,i3jp22c6gua71,85,6,"Background music, chatter, crying",3,1,0,One of the women sounds distressed.
+i3jp22c6gua71_processed_34,i3jp22c6gua71,85,6,"Background music, chatter, crying",3,3,0,One of the women screams and is evidently distressed. Another woman is frustrated
+i3jp22c6gua71_processed_35,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,The woman sounds aggressive.
+i3jp22c6gua71_processed_36,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,One of the women sounds distressed
+i3jp22c6gua71_processed_37,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,One of the women sounds distressed.
+i3jp22c6gua71_processed_38,i3jp22c6gua71,85,6,Background music.,3,2,0,"One of the women is frustrated and resorts to namecalling. ""Karen"" is distressed and shouts at the first woman aggressively. (Will refer to this person as ""Karen"" for the remainder of the files to make things easier, even if her name isn't actually Karen.)"
+i3jp22c6gua71_processed_39,i3jp22c6gua71,85,6,"Background music, chatter",3,2,0,Karen is very distressed.
+i3jp22c6gua71_processed_40,i3jp22c6gua71,85,6,"Background music, chatter, crying",3,1,0,One of the women sounds frustrated.
+i3jp22c6gua71_processed_41,i3jp22c6gua71,85,6,"Background music, chatter",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_42,i3jp22c6gua71,85,6,,3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_43,i3jp22c6gua71,85,6,"Background music, chatter, screaming",3,3,0,Karen is distressed and resorts to screaming. Another woman is very frustrated with Karen.
+i3jp22c6gua71_processed_44,i3jp22c6gua71,85,6,"Background music, chatter, screaming, wailing",3,3,0,Karen is distressed and resorts to screaming and shouting.
+i3jp22c6gua71_processed_45,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,The woman is very frustrated.
+i3jp22c6gua71_processed_46,i3jp22c6gua71,85,6,"Background music, chatter",3,2,0,One woman is very frustrated. Karen is distressed.
+i3jp22c6gua71_processed_47,i3jp22c6gua71,85,6,"Background music, chatter, wailing",3,2,0,Karen is distressed.
+i3jp22c6gua71_processed_50,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,The woman is aggressive and very frustrated.
+i3jp22c6gua71_processed_51,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,The woman is frustrated. Karen is distressed.
+i3jp22c6gua71_processed_53,i3jp22c6gua71,85,6,"Background music, chatter, wailing",3,3,0,Karen is evidently distressed. The other woman is aggressive and very frustrated
+i3jp22c6gua71_processed_54,i3jp22c6gua71,85,6,"Background music, chatter, voice on radio.",3,1,0,Karen sounds like she might be in distress.
+i3jp22c6gua71_processed_55,i3jp22c6gua71,85,6,"Background music, chatter, voice on radio.",3,2,0,The woman begins to yell in frustration or anger.
+i3jp22c6gua71_processed_57,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,Karen seems to be in distress. The other woman is very frustrated.
+i3jp22c6gua71_processed_58,i3jp22c6gua71,85,6,"Background music, chatter, shouting",3,2,0,Karen is distressed and yelling. The other woman is frustrated and speaks aggressively.
+i3jp22c6gua71_processed_59,i3jp22c6gua71,85,6,"Background music, chatter",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_62,i3jp22c6gua71,85,6,"Background music, chatter.",3,1,0,Karen sounds like she might be in distress.
+i3jp22c6gua71_processed_64,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,Karen sounds like she might be in distress.
+i3jp22c6gua71_processed_65,i3jp22c6gua71,85,6,"Background music, chatter, beeping",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_66,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,Karen sounds like she might be in distress.
+i3jp22c6gua71_processed_67,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,Karen sounds like she might be in distress.
+i3jp22c6gua71_processed_68,i3jp22c6gua71,85,6,"Background music, chatter, wailing",3,1,0,Karen sounds like she might be in distress.
+i3jp22c6gua71_processed_69,i3jp22c6gua71,85,6,"Background music, chatter, wailing",3,1,0,The woman sounds frustrated. Karen sounds like she might be in distress.
+i3jp22c6gua71_processed_70,i3jp22c6gua71,85,6,"Page flipping, background music, chatter",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_71,i3jp22c6gua71,85,6,"Background music, chatter",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_72,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,The woman sounds frustrated and angry. Karen sounds like she might be in distress.
+i3jp22c6gua71_processed_73,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,The woman sounds frustrated. Karen sounds like she might be in distress.
+i3jp22c6gua71_processed_74,i3jp22c6gua71,85,6,"Background music, chatter, beeping, wailing",3,2,0,Karen sounds distressed.
+i3jp22c6gua71_processed_75,i3jp22c6gua71,85,6,"Background music, chatter, wailing",3,2,0,Karen sounds distressed.
+i3jp22c6gua71_processed_76,i3jp22c6gua71,85,6,"Background music, chatter, screaming",3,3,0,Karen is evidently distressed.
+i3jp22c6gua71_processed_78,i3jp22c6gua71,85,6,"Background music, chatter",3,2,0,Karen sounds distressed.
+i3jp22c6gua71_processed_79,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,Karen sounds like she might be in distress.
+i3jp22c6gua71_processed_80,i3jp22c6gua71,85,6,"Background music, chatter, voice on radio.",3,0,0,No aggression heard in the audio file.
+i3jp22c6gua71_processed_81,i3jp22c6gua71,85,6,"Voice on radio, background music, chatter, wailing",3,1,0,The woman is aggressive and raises her voice.
+i3jp22c6gua71_processed_82,i3jp22c6gua71,85,6,"Background music, chatter",3,1,0,The woman is aggressive and raises her voice.
+i3jp22c6gua71_processed_83,i3jp22c6gua71,85,6,"Background music, chatter, wailing, crying",3,2,0,Karen sounds distressed.
+i3jp22c6gua71_processed_84,i3jp22c6gua71,85,6,"Background music, chatter, wailing",3,3,0,Karen is distressed and is essentially screaming
+i3ord576y6h61_processed_1,i3ord576y6h61,3,3,"Metallic sound, man feeling pain",3,3,0,One of the men sounds very aggressive and threatening.
+i3ord576y6h61_processed_2,i3ord576y6h61,3,3,,3,0,0,No aggression heard in the audio file.
+i5es1l4jvlk51_processed_0,i5es1l4jvlk51,6,0,"Loud music, whistle blowing",0,0,1,No aggression heard in the audio file.
+i5es1l4jvlk51_processed_1,i5es1l4jvlk51,6,0,Loud music.,0,0,1,No aggression heard in the audio file.
+i5es1l4jvlk51_processed_2,i5es1l4jvlk51,6,0,Loud music.,0,0,1,No aggression heard in the audio file.
+i5es1l4jvlk51_processed_3,i5es1l4jvlk51,6,0,Loud music.,0,0,1,No aggression heard in the audio file.
+i5es1l4jvlk51_processed_4,i5es1l4jvlk51,6,0,Loud music.,0,0,1,No aggression heard in the audio file.
+i5es1l4jvlk51_processed_5,i5es1l4jvlk51,6,0,"Loud music, whistle blowing.",0,0,1,No aggression heard in the audio file.
+i7dqk9jzlss51_processed_0,i7dqk9jzlss51,5,3,"Laughing, background chatter",0,0,0,No aggression heard in the audio file.
+i7dqk9jzlss51_processed_1,i7dqk9jzlss51,5,3,Background chatter.,0,0,0,"The people raise their voices, but in a cheerful manner."
+i7dqk9jzlss51_processed_2,i7dqk9jzlss51,5,3,Background chatter,0,0,0,"The people raise their voices, but in a cheerful manner."
+i7dqk9jzlss51_processed_3,i7dqk9jzlss51,5,3,"Background chatter, laughing",0,0,0,"The people raise their voices, but in a cheerful manner."
+i7dqk9jzlss51_processed_4,i7dqk9jzlss51,5,3,Background chatter,0,0,0,No aggression heard in the audio file.
+i8diucxaym671_processed_0,i8diucxaym671,1,0,Motor whirring,0,0,1,No aggression heard in the audio file.
+iabuib3sl9i51_processed_0,iabuib3sl9i51,11,2,Truck idling,3,0,0,"The man does not raise his voice, but only seems to taunt the woman."
+iabuib3sl9i51_processed_1,iabuib3sl9i51,11,2,Truck idling,3,2,0,The woman yells at the man aggressively.
+iabuib3sl9i51_processed_2,iabuib3sl9i51,11,2,Truck idling,3,2,0,The woman is aggressive and threatens the man.
+iabuib3sl9i51_processed_3,iabuib3sl9i51,11,2,Truck idling,3,3,0,The woman yells at the man aggressively.
+iabuib3sl9i51_processed_4,iabuib3sl9i51,11,2,Truck idling,3,3,0,The woman is confrontational and yells at the man.
+iabuib3sl9i51_processed_5,iabuib3sl9i51,11,2,Truck idling,3,2,0,The woman aggressively questions the man.
+iabuib3sl9i51_processed_6,iabuib3sl9i51,11,2,Truck idling,3,3,0,The woman is very aggressive and yells at the man.
+iabuib3sl9i51_processed_7,iabuib3sl9i51,11,2,Truck idling,3,2,0,The woman is aggressive toward the man.
+iabuib3sl9i51_processed_8,iabuib3sl9i51,11,2,Truck idling,3,2,0,The woman is aggressive toward the man.
+iabuib3sl9i51_processed_10,iabuib3sl9i51,11,2,Truck idling,3,1,0,The woman uses suggestive language in an abusive manner.
+iajs1brhnge61_processed_0,iajs1brhnge61,13,3,Background chatter,3,2,0,The woman yells and is possibly distressed.
+iajs1brhnge61_processed_1,iajs1brhnge61,13,3,Background chatter,3,2,0,The woman yells and is possibly distressed.
+iajs1brhnge61_processed_2,iajs1brhnge61,13,3,"Background yelling, screaming",3,3,0,The woman is distressed and resorts to screaming.
+iajs1brhnge61_processed_3,iajs1brhnge61,13,3,"Background yelling, screaming",3,3,0,Some people in the clip seem to be distressed and resort to screaming.
+iajs1brhnge61_processed_4,iajs1brhnge61,13,3,"Background yelling, screaming",3,3,0,"Some people in the clip seem to be distressed, angry, and resort to screaming."
+iajs1brhnge61_processed_5,iajs1brhnge61,13,3,"Background yelling, screaming, chatter",3,3,0,"Some people in the clip seem to be distressed, angry, and resort to screaming."
+iajs1brhnge61_processed_6,iajs1brhnge61,13,3,"Background yelling, screaming, chatter",3,3,0,Some people seem to yell angrily. Some people are screaming.
+iajs1brhnge61_processed_7,iajs1brhnge61,13,3,"Background yelling, chatter",3,3,0,Some people seem to yell angrily and aggressively.
+iajs1brhnge61_processed_8,iajs1brhnge61,13,3,Background chatter,3,3,0,"The woman at the end of the clip begins to yell, possibly aggressively."
+iajs1brhnge61_processed_9,iajs1brhnge61,13,3,"Background chatter, yelling, screaming",3,3,0,Some people in the clip are distressed and begin to scream.
+iajs1brhnge61_processed_10,iajs1brhnge61,13,3,"Background chatter, yelling, screaming",3,3,0,Some people are yelling angrily and aggressively. Some people are screaming.
+iajs1brhnge61_processed_11,iajs1brhnge61,13,3,"Background chatter, yelling",3,3,0,Some people are yelling angrily and aggressively.
+iajs1brhnge61_processed_12,iajs1brhnge61,13,3,"Background chatter, yelling",3,3,0,Some people are yelling aggressively and angrily.
+iaws68pulnl51_processed_0,iaws68pulnl51,5,2,Train passing,1,1,0,The man uses suggestive and aggressive language.
+iaws68pulnl51_processed_1,iaws68pulnl51,5,2,Train passing,1,0,0,No aggression heard in the audio file.
+iaws68pulnl51_processed_2,iaws68pulnl51,5,2,,1,0,0,No aggression heard in the audio file.
+iaws68pulnl51_processed_3,iaws68pulnl51,5,3,,1,0,0,"The man uses suggestive language, but does not appeapr to be aggressive."
+iaws68pulnl51_processed_4,iaws68pulnl51,5,3,laughing,1,0,0,No aggression heard in the audio file.
+id9r7h75upx61_processed_0,id9r7h75upx61,3,3,,2,2,0,The woman sounds aggressive
+id9r7h75upx61_processed_1,id9r7h75upx61,3,3,,2,2,0,The woman sounds distressed. The men are rude and use abusive language
+id9r7h75upx61_processed_2,id9r7h75upx61,3,3,,2,2,0,The men are rude and use abusive language.
+ifh1kutiypb61_processed_0,ifh1kutiypb61,6,1,Background music,0,0,0,No aggression heard in the audio file.
+ifh1kutiypb61_processed_1,ifh1kutiypb61,6,1,"Background music, high-pitched screech",0,0,0,No aggression heard in the audio file.
+ifh1kutiypb61_processed_2,ifh1kutiypb61,6,1,"Background music, chatter, high-pitched screech",0,0,0,No aggression heard in the audio file.
+ifh1kutiypb61_processed_3,ifh1kutiypb61,6,1,"Background music, chatter, high-pitched screech",0,0,0,No aggression heard in the audio file.
+ifh1kutiypb61_processed_4,ifh1kutiypb61,6,1,"Background music, crowd cheering",0,0,0,No aggression heard in the audio file.
+ifh1kutiypb61_processed_5,ifh1kutiypb61,6,1,"Background music, crowd cheering",0,0,0,No aggression heard in the audio file.
+igyp8zm15tq51_processed_0,igyp8zm15tq51,6,1,"Recorder playing, singing",0,0,0,No aggression heard in the audio file.
+igyp8zm15tq51_processed_1,igyp8zm15tq51,6,1,"Recorder playing, talking, crowd singing",0,0,0,No aggression heard in the audio file.
+igyp8zm15tq51_processed_2,igyp8zm15tq51,6,1,"Recorder playing, crowd singing",0,0,0,No aggression heard in the audio file.
+igyp8zm15tq51_processed_3,igyp8zm15tq51,6,1,"Recorder playing, crowd singing",0,0,0,No aggression heard in the audio file.
+igyp8zm15tq51_processed_4,igyp8zm15tq51,6,1,"Recorder playing, crowd singing",0,0,0,No aggression heard in the audio file.
+igyp8zm15tq51_processed_5,igyp8zm15tq51,6,1,"Recorder playing, crowd singing",0,0,0,"A man starts to shout at the end, but he does not seem aggressive."
+ihekya6ws4471_processed_0,ihekya6ws4471,58,4,"Strange noise, background music",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_1,ihekya6ws4471,58,4,"Background music, static",2,1,0,The man confronts the woman with a raised voice.
+ihekya6ws4471_processed_2,ihekya6ws4471,58,4,"static, cars passing",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_3,ihekya6ws4471,58,4,"static, cars passing",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_4,ihekya6ws4471,58,4,"static, cars passing",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_5,ihekya6ws4471,58,4,"static, cars passing",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_6,ihekya6ws4471,58,4,"static, cars passing",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_7,ihekya6ws4471,58,4,"Static, cars passing, car alarm going off",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_8,ihekya6ws4471,58,4,"Static, cars passing, car alarm going off",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_9,ihekya6ws4471,58,4,"Static, cars passing, car alarm going off, background music",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_10,ihekya6ws4471,58,4,"Static, cars passing, car alarm going off, background music",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_11,ihekya6ws4471,58,4,Background music,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_12,ihekya6ws4471,58,4,Background music,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_13,ihekya6ws4471,58,4,"Static, car alarm going off, voice on radio.",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_14,ihekya6ws4471,58,4,"Background music, static, cars passing",2,1,0,The trooper is a little aggressive.
+ihekya6ws4471_processed_15,ihekya6ws4471,58,4,"Static, cars passing, sirens wailing",2,1,0,The trooper raises his voice a little at the woman.
+ihekya6ws4471_processed_16,ihekya6ws4471,58,4,"Static, cars passing, sirens wailing, tires skidding",2,1,0,The trooper raises his voice a little at the woman.
+ihekya6ws4471_processed_17,ihekya6ws4471,58,4,"Static, background music",2,1,0,The trooper is a little aggressive.
+ihekya6ws4471_processed_18,ihekya6ws4471,58,4,Background music,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_19,ihekya6ws4471,58,4,"Background music, cars passing",2,2,0,The woman yells at the trooper.
+ihekya6ws4471_processed_20,ihekya6ws4471,58,4,cars passing,2,1,0,The woman sounds distressed.
+ihekya6ws4471_processed_21,ihekya6ws4471,58,4,Sirens wailing,2,1,0,The trooper raises his voice a little at the woman.
+ihekya6ws4471_processed_22,ihekya6ws4471,58,4,"Cars passing, background music, car alarm going off",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_23,ihekya6ws4471,58,4,"Cars passing, car alarm going off, sirens wiling",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_24,ihekya6ws4471,58,4,Background music,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_25,ihekya6ws4471,58,4,Background music,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_26,ihekya6ws4471,58,4,"Background music, cars passing, sirens wailing",2,1,0,The trooper and the woman argue with each other.
+ihekya6ws4471_processed_27,ihekya6ws4471,58,4,"Cars passing, voice on radio.",2,1,0,The woman sounds distressed.
+ihekya6ws4471_processed_28,ihekya6ws4471,58,4,Cars passing,2,1,0,The woman sounds distressed.
+ihekya6ws4471_processed_29,ihekya6ws4471,58,4,"Cars passing, sirens wailing",2,1,0,The trooper raises his voice a little at the woman.
+ihekya6ws4471_processed_30,ihekya6ws4471,58,4,"Cars passing, sirens wailing",2,1,0,The trooper raises his voice a little at the woman.
+ihekya6ws4471_processed_31,ihekya6ws4471,58,4,"Cars passing, sirens wailing, car alarm going off.",2,1,0,The trooper raises his voice a little at the woman.
+ihekya6ws4471_processed_32,ihekya6ws4471,58,4,"Cars passing, car alarm going off, background music",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_33,ihekya6ws4471,58,4,"Cars passing, sirens wailing",2,2,0,The woman is distressed.
+ihekya6ws4471_processed_34,ihekya6ws4471,58,4,"Car alarm going off, sirens wailing.",2,1,0,The trooper raises his voice a little at the woman.
+ihekya6ws4471_processed_35,ihekya6ws4471,58,4,Sirens wailing,2,1,0,The trooper and the woman argue with each other.
+ihekya6ws4471_processed_36,ihekya6ws4471,58,4,Background music,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_37,ihekya6ws4471,58,4,Cars passing,2,1,0,The woman sounds distressed
+ihekya6ws4471_processed_38,ihekya6ws4471,58,4,"Cars passing, sirens wailing",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_39,ihekya6ws4471,58,4,Cars passing,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_40,ihekya6ws4471,58,4,Cars passing,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_41,ihekya6ws4471,58,4,Cars passing,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_42,ihekya6ws4471,58,4,Cars passing,2,1,0,The woman raises her voice a little at the trooper
+ihekya6ws4471_processed_43,ihekya6ws4471,58,4,"Cars passing, background music, sirens wailing",2,1,0,The woman raises her voice at the trooper.
+ihekya6ws4471_processed_44,ihekya6ws4471,58,4,"Sirens wailing, cars passing, background music",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_45,ihekya6ws4471,58,4,"Background music, car honking, vehicle accelerating, car honking",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_46,ihekya6ws4471,58,4,"car honking, tires screeching, sirens wailing",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_47,ihekya6ws4471,58,4,"Sirens wailing,cars passing, car honking",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_48,ihekya6ws4471,58,4,"car alarm going off, cars passing",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_49,ihekya6ws4471,58,4,sirens wailing,2,1,0,The trooper raises his voice a little at the woman.
+ihekya6ws4471_processed_50,ihekya6ws4471,58,4,"cars passing, car alarm going off",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_51,ihekya6ws4471,58,4,"Cars passing, background music.",2,1,0,The trooper raises his voice a little.
+ihekya6ws4471_processed_52,ihekya6ws4471,58,4,Background music,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_53,ihekya6ws4471,58,4,Background music,2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_54,ihekya6ws4471,58,4,"Cars passing, voice on radio.",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_55,ihekya6ws4471,58,4,"Sirens wailing, background music",2,0,0,No aggression heard in the audio file.
+ihekya6ws4471_processed_56,ihekya6ws4471,58,4,"Sirens wailing, cars passing",2,1,0,The trooper and the woman argue with each other.
+ihekya6ws4471_processed_57,ihekya6ws4471,58,4,Cars passing,2,1,0,The trooper raises his voice at the woman
+iighzau4ksj51_processed_0,iighzau4ksj51,4,2,,2,2,0,The man is yelling aggressively.
+iighzau4ksj51_processed_1,iighzau4ksj51,4,2,,2,2,0,The man is yelling aggressively.
+iighzau4ksj51_processed_2,iighzau4ksj51,4,2,,2,2,0,The man is yelling aggressively.
+iighzau4ksj51_processed_3,iighzau4ksj51,4,2,,2,2,0,The man is yelling aggressively.
+iistfrgw75j61_processed_1,iistfrgw75j61,6,2,,2,2,0,The man is aggressive and abusive in his language
+iistfrgw75j61_processed_2,iistfrgw75j61,6,2,,2,2,0,The man is aggressive and abusive in his language
+iistfrgw75j61_processed_3,iistfrgw75j61,6,2,,2,2,0,The man is aggressive and abusive in his language
+iistfrgw75j61_processed_4,iistfrgw75j61,6,2,,2,2,0,The man is aggressive and abusive in his language
+iistfrgw75j61_processed_5,iistfrgw75j61,6,2,,2,2,0,The man is aggressive and abusive in his language
+ijmveiix4or61_processed_0,ijmveiix4or61,3,0,"Background music, laughing, joyful yelling",0,0,0,No aggression heard in the audio file.
+ijmveiix4or61_processed_1,ijmveiix4or61,3,0,"Background music, laughing, joyful yelling",0,0,0,No aggression heard in the audio file.
+ijmveiix4or61_processed_2,ijmveiix4or61,3,0,"Background music, laughing",0,0,0,No aggression heard in the audio file.
+ikvsd8pjyhn51_processed_0,ikvsd8pjyhn51,7,5,,0,0,0,No aggression heard in the audio file.
+ikvsd8pjyhn51_processed_1,ikvsd8pjyhn51,7,5,clapping,0,0,0,No aggression heard in the audio file.
+ikvsd8pjyhn51_processed_2,ikvsd8pjyhn51,7,5,,0,0,0,No aggression heard in the audio file.
+ikvsd8pjyhn51_processed_3,ikvsd8pjyhn51,7,5,,0,0,0,No aggression heard in the audio file.
+ikvsd8pjyhn51_processed_4,ikvsd8pjyhn51,7,5,,0,0,0,No aggression heard in the audio file.
+ikvsd8pjyhn51_processed_5,ikvsd8pjyhn51,7,5,,0,0,0,No aggression heard in the audio file.
+ikvsd8pjyhn51_processed_6,ikvsd8pjyhn51,7,5,clapping,0,0,0,No aggression heard in the audio file.
+io3vkc3665a61_processed_0,io3vkc3665a61,2,0,"yelling, chanting",2,2,1,The crowd is yelling and may be aggressive
+io3vkc3665a61_processed_1,io3vkc3665a61,2,0,"yelling, chanting",2,2,1,The crowd is yelling and may be aggressive
+ipvbd5v6r9371_processed_0,ipvbd5v6r9371,40,1,,3,1,0,The man sounds aggressive and raises his voice
+ipvbd5v6r9371_processed_1,ipvbd5v6r9371,40,1,,3,1,0,"The man raises his voice, is aggressive and uses abusive language"
+ipvbd5v6r9371_processed_2,ipvbd5v6r9371,40,2,,3,2,0,The manis aggressive and yells at the other man
+ipvbd5v6r9371_processed_3,ipvbd5v6r9371,40,2,,3,1,0,The man is aggressive
+ipvbd5v6r9371_processed_4,ipvbd5v6r9371,40,2,,3,1,0,The man raises his voice and may seem a little aggressive
+ipvbd5v6r9371_processed_5,ipvbd5v6r9371,40,2,wind blowing,3,2,0,The man is aggressive and yells at the other man
+ipvbd5v6r9371_processed_6,ipvbd5v6r9371,40,2,,3,1,0,The man raises his voice and may seem a little aggressive
+ipvbd5v6r9371_processed_7,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and uses abusive language. He yells at the other man
+ipvbd5v6r9371_processed_8,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells at the other man
+ipvbd5v6r9371_processed_9,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells in an abusive manner at the other man
+ipvbd5v6r9371_processed_10,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells in an abusive manner at the other man
+ipvbd5v6r9371_processed_11,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells in an abusive manner at the other man
+ipvbd5v6r9371_processed_12,ipvbd5v6r9371,40,2,chatter,3,2,0,The man yells aggressively
+ipvbd5v6r9371_processed_13,ipvbd5v6r9371,40,2,objects hitting the ground,3,1,0,The man is raises his voice and is aggressive
+ipvbd5v6r9371_processed_14,ipvbd5v6r9371,40,2,wind blowing,3,2,0,The man is aggressive and yells in an abusive manner at the other man
+ipvbd5v6r9371_processed_15,ipvbd5v6r9371,40,2,,3,1,0,The man raises his voice and is aggressive
+ipvbd5v6r9371_processed_16,ipvbd5v6r9371,40,2,,3,1,0,The man raises his voice and is aggressive
+ipvbd5v6r9371_processed_17,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells
+ipvbd5v6r9371_processed_18,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells
+ipvbd5v6r9371_processed_19,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells in an abusive manner at the other man
+ipvbd5v6r9371_processed_20,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells
+ipvbd5v6r9371_processed_21,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells
+ipvbd5v6r9371_processed_22,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells at the other man
+ipvbd5v6r9371_processed_23,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells at the other man
+ipvbd5v6r9371_processed_24,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells at the other man
+ipvbd5v6r9371_processed_25,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells
+ipvbd5v6r9371_processed_26,ipvbd5v6r9371,40,2,wind blowing,3,2,0,The man begins yelling aggressively
+ipvbd5v6r9371_processed_27,ipvbd5v6r9371,40,2,wind blowing,3,2,0,The man yells aggressively and abusively
+ipvbd5v6r9371_processed_28,ipvbd5v6r9371,40,2,,3,1,0,The man raises his voice aggressively.
+ipvbd5v6r9371_processed_29,ipvbd5v6r9371,40,2,,3,2,0,The man yells at the other man aggressively
+ipvbd5v6r9371_processed_30,ipvbd5v6r9371,40,2,,3,1,0,The man raises his voice and is aggressive
+ipvbd5v6r9371_processed_31,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells at the other man
+ipvbd5v6r9371_processed_32,ipvbd5v6r9371,40,2,,3,2,0,The man is aggressive and yells in an abusive manner at the other man
+ipvbd5v6r9371_processed_34,ipvbd5v6r9371,40,2,,3,2,0,The man yells aggressively
+ipvbd5v6r9371_processed_37,ipvbd5v6r9371,40,2,,3,2,0,The man yells at the other man in an aggressive manner
+ipvbd5v6r9371_processed_38,ipvbd5v6r9371,40,2,"wind blowing, spitting",3,1,0,The man raises his voice in an aggressive manner towrd the other man
+ipvbd5v6r9371_processed_39,ipvbd5v6r9371,40,2,,3,1,0,The man raises his voice towards the other man
+iqcumcprlyn51_processed_0,iqcumcprlyn51,2,2,car honking,3,1,0,The woman  is aggressive and raises her voice
+iqcumcprlyn51_processed_1,iqcumcprlyn51,2,2,car honking,3,3,0,The woman sounds threatening and yells in an abusive manner
+iqt1om7tl9w61_processed_0,iqt1om7tl9w61,4,1,,0,0,0,No aggression heard in the audio file.
+iqt1om7tl9w61_processed_1,iqt1om7tl9w61,4,1,,0,0,0,No aggression heard in the audio file.
+iqt1om7tl9w61_processed_2,iqt1om7tl9w61,4,1,,0,0,0,No aggression heard in the audio file.
+iqt1om7tl9w61_processed_3,iqt1om7tl9w61,4,1,,0,0,0,No aggression heard in the audio file.
+ixcp01ei0j961_processed_0,ixcp01ei0j961,5,2,,3,2,0,The women are yelling at each other aggressively
+ixcp01ei0j961_processed_1,ixcp01ei0j961,5,2,,3,2,0,The women are yelling at each other aggressively
+ixcp01ei0j961_processed_2,ixcp01ei0j961,5,2,,3,3,0,The women are yelling at each other aggressively. One of them sounds threatening
+ixcp01ei0j961_processed_3,ixcp01ei0j961,5,2,,3,2,0,The women are yelling at each other aggressively
+ixcp01ei0j961_processed_4,ixcp01ei0j961,5,2,,3,2,0,The women are yelling at each other aggressively.
+ixqvcjvte5q51_processed_0,ixqvcjvte5q51,5,2,"train passing, chatter",1,0,0,No aggression heard in the audio file.
+ixqvcjvte5q51_processed_1,ixqvcjvte5q51,5,2,"gunshots, cars driving, train passing",1,1,0,One of the men sounds distressed.
+ixqvcjvte5q51_processed_2,ixqvcjvte5q51,5,2,"cars driving, train passing",1,1,0,One of the men sounds distressed.
+ixqvcjvte5q51_processed_3,ixqvcjvte5q51,5,2,"train passing, gunshots, car driving",1,1,0,One of the men sounds distressed.
+ixqvcjvte5q51_processed_4,ixqvcjvte5q51,5,2,"train passing, car driving",1,1,0,One of the men sounds distressed.
+iysd8c9wksp61_processed_1,iysd8c9wksp61,36,5,wind blowing,3,2,0,The man is yelling and a little aggressive
+iysd8c9wksp61_processed_3,iysd8c9wksp61,36,5,"wind blowing, laughing",3,2,0,The man is yelling and a little aggressive
+iysd8c9wksp61_processed_4,iysd8c9wksp61,36,5,wind blowing,3,2,0,"The men sound calm, but one of them threeatens to drag the other"
+iysd8c9wksp61_processed_5,iysd8c9wksp61,36,5,,3,1,0,The man raises his voice
+iysd8c9wksp61_processed_6,iysd8c9wksp61,36,5,,3,2,0,The man is yelling and a little aggressive
+iysd8c9wksp61_processed_7,iysd8c9wksp61,36,5,,3,1,0,Ther are som raised voices
+iysd8c9wksp61_processed_8,iysd8c9wksp61,36,5,,3,1,0,The man raises his voice and sounds a little aggressive
+iysd8c9wksp61_processed_9,iysd8c9wksp61,36,5,,3,2,0,The man is yelling and aggressive
+iysd8c9wksp61_processed_10,iysd8c9wksp61,36,5,,3,1,0,The men speak with raised voices and are a little aggressive
+iysd8c9wksp61_processed_11,iysd8c9wksp61,36,5,chatter,3,2,0,"The man says ""back off"" aggressively"
+iysd8c9wksp61_processed_12,iysd8c9wksp61,36,5,chatter,3,1,0,Some people are raising their voice
+iysd8c9wksp61_processed_13,iysd8c9wksp61,36,5,chatter,3,0,0,No aggression heard in the audio file.
+iysd8c9wksp61_processed_14,iysd8c9wksp61,36,5,chatter,3,1,0,The man raises his voice aggressively.
+iysd8c9wksp61_processed_15,iysd8c9wksp61,36,5,,3,2,0,One of the men is yelling aggressively
+iysd8c9wksp61_processed_16,iysd8c9wksp61,36,5,,3,2,0,One of the men is yelling aggressively
+iysd8c9wksp61_processed_17,iysd8c9wksp61,36,5,,3,2,0,Some people in the clip sound aggressive or have hostility in their voice
+iysd8c9wksp61_processed_18,iysd8c9wksp61,36,5,,3,2,0,There is aggressive yelling in the clip
+iysd8c9wksp61_processed_19,iysd8c9wksp61,36,5,,3,1,0,The men speak with raised voices and are a little aggressive
+iysd8c9wksp61_processed_20,iysd8c9wksp61,36,5,Chatter,3,1,0,The man speak with raised voice and is a little aggressive
+iysd8c9wksp61_processed_21,iysd8c9wksp61,36,5,chatter,3,1,0,The man speak with raised voice and is a little aggressive
+iysd8c9wksp61_processed_22,iysd8c9wksp61,36,5,chatter,3,1,0,The woman speaks with a raised voice
+iysd8c9wksp61_processed_23,iysd8c9wksp61,36,5,,3,2,0,The man yells aggressively for a moment
+iysd8c9wksp61_processed_24,iysd8c9wksp61,36,5,Background chatter,3,1,0,The man raises his voice a little aggressively
+iysd8c9wksp61_processed_25,iysd8c9wksp61,36,5,Background chatter,3,0,0,No aggression heard in the audio file.
+iysd8c9wksp61_processed_26,iysd8c9wksp61,36,5,,3,3,0,One of the men yells back off in a threatening manner
+iysd8c9wksp61_processed_27,iysd8c9wksp61,36,5,Voice on radio,3,2,0,one man yells aggressively
+iysd8c9wksp61_processed_28,iysd8c9wksp61,36,5,,3,1,0,one man raises voice
+iysd8c9wksp61_processed_29,iysd8c9wksp61,36,5,,3,1,0,one man raises voice
+iysd8c9wksp61_processed_30,iysd8c9wksp61,36,5,,3,1,0,one man raises voice. Hostility in voice
+iysd8c9wksp61_processed_31,iysd8c9wksp61,36,5,,3,2,0,The men yell at each other aggressively
+iysd8c9wksp61_processed_32,iysd8c9wksp61,36,5,chatter,3,2,0,The men are hostile towards each other
+iysd8c9wksp61_processed_33,iysd8c9wksp61,36,5,,3,1,0,one man raises his voice
+iysd8c9wksp61_processed_34,iysd8c9wksp61,36,5,,3,1,0,one man raises his voice
+iysd8c9wksp61_processed_35,iysd8c9wksp61,36,5,chatter,3,0,0,No aggression heard in the audio file.
+iz7uro5jp6h51_processed_0,iz7uro5jp6h51,3,0,"percussion instruments, blowhorn, chanting",0,0,1,No aggression heard in the audio file.
+iz7uro5jp6h51_processed_1,iz7uro5jp6h51,3,0,"percussion instruments, blowhorn, chanting",0,0,1,No aggression heard in the audio file.
+iz7uro5jp6h51_processed_2,iz7uro5jp6h51,3,0,"percussion instruments, blowhorn, chanting",0,0,1,No aggression heard in the audio file.
+j31kyenq65w61_processed_0,j31kyenq65w61,6,4,"beeping, gunshots",3,1,0,One man raises his voice a little aggressively
+j31kyenq65w61_processed_1,j31kyenq65w61,6,4,"gunshots, explosions",3,1,0,One man raises his voice aggressively
+j31kyenq65w61_processed_2,j31kyenq65w61,6,4,"gunshots, explosions",3,3,0,One man yells very aggressively and threateningly
+j31kyenq65w61_processed_3,j31kyenq65w61,6,4,gunshots,3,3,0,One man yells very aggressively and threateningly
+j31kyenq65w61_processed_4,j31kyenq65w61,6,4,laughing,3,3,0,One man yells very aggressively and threateningly
+j31kyenq65w61_processed_5,j31kyenq65w61,6,4,"crowd cheering, beeping",3,1,0,One man raises his voice and uses abusive language
+j3dbno0wg2r61_processed_0,j3dbno0wg2r61,4,1,distant chatter,1,1,0,The woman might be distressed
+j3dbno0wg2r61_processed_1,j3dbno0wg2r61,4,1,,1,1,0,The woman might be distressed
+j3dbno0wg2r61_processed_2,j3dbno0wg2r61,4,1,,1,1,0,The woman sounds distressed
+j3dbno0wg2r61_processed_3,j3dbno0wg2r61,4,1,,1,0,0,No aggression heard in the audio file.
+j44ahw16d8i61_processed_0,j44ahw16d8i61,2,2,"motor whirring, laughing, beeping",1,1,0,One person sounds distressed
+j44ahw16d8i61_processed_1,j44ahw16d8i61,2,2,"motor whirring, laughing, beeping",1,1,0,One person sounds distressed
+j63u4dxyfeq51_processed_0,j63u4dxyfeq51,10,2,,2,1,0,The men speak with raised voices.
+j63u4dxyfeq51_processed_1,j63u4dxyfeq51,10,2,,2,1,0,The men raise their voices and are a little aggressive
+j63u4dxyfeq51_processed_2,j63u4dxyfeq51,10,2,,2,1,0,The men raise their voices and are a little aggressive
+j63u4dxyfeq51_processed_3,j63u4dxyfeq51,10,2,,2,1,0,The men raise their voices and are a little aggressive
+j63u4dxyfeq51_processed_4,j63u4dxyfeq51,10,2,,2,1,0,The men raise their voices and are a little aggressive
+j63u4dxyfeq51_processed_5,j63u4dxyfeq51,10,2,,2,2,0,The men raise their voices and yell at times.
+j63u4dxyfeq51_processed_6,j63u4dxyfeq51,10,2,,2,2,0,The men raise their voices and yell at times.
+j63u4dxyfeq51_processed_7,j63u4dxyfeq51,10,2,,2,1,0,The men raise their voices and are a little aggressive
+j63u4dxyfeq51_processed_8,j63u4dxyfeq51,10,2,,2,1,0,The men raise their voices and are a little aggressive
+j63u4dxyfeq51_processed_9,j63u4dxyfeq51,10,2,,2,1,0,The men raise their voices and are a little aggressive
+jaw8pacgxmy51_processed_0,jaw8pacgxmy51,2,1,music,1,1,0,The man uses abusive language
+jaw8pacgxmy51_processed_1,jaw8pacgxmy51,2,1,music,1,1,0,The man uses abusive language
+jaz8mf2q2g161_processed_0,jaz8mf2q2g161,11,2,,3,2,0,The woman is in distress
+jaz8mf2q2g161_processed_1,jaz8mf2q2g161,11,2,,3,3,0,The woman is in distress and begins screaming
+jaz8mf2q2g161_processed_2,jaz8mf2q2g161,11,2,popping,3,3,0,The woman is in distress and begins screaming
+jaz8mf2q2g161_processed_3,jaz8mf2q2g161,11,2,,3,3,0,The woman is in distress and begins screaming
+jaz8mf2q2g161_processed_4,jaz8mf2q2g161,11,2,,3,3,0,The woman is in distress and begins screaming
+jaz8mf2q2g161_processed_5,jaz8mf2q2g161,11,2,popping,3,3,0,The woman is in distress and begins screaming
+jaz8mf2q2g161_processed_6,jaz8mf2q2g161,11,2,thrashing,3,3,0,The woman is in distress and begins screaming
+jaz8mf2q2g161_processed_7,jaz8mf2q2g161,11,2,thrashing,3,3,0,The woman is in distress and begins screaming
+jaz8mf2q2g161_processed_8,jaz8mf2q2g161,11,2,thrashing,3,3,0,The woman is in distress and begins screaming
+jaz8mf2q2g161_processed_9,jaz8mf2q2g161,11,2,thrashing,3,3,0,The woman is in distress and begins screaming
+jaz8mf2q2g161_processed_10,jaz8mf2q2g161,11,2,,3,3,0,The woman is in distress and begins screaming
+jdvvplkvqij51_processed_0,jdvvplkvqij51,38,1,"whirring, voice on radio",3,0,0,No aggression heard in the audio file.
+jdvvplkvqij51_processed_3,jdvvplkvqij51,38,3,"screaming, music",3,3,0,A woman is screaming and distressed
+jdvvplkvqij51_processed_4,jdvvplkvqij51,38,3,"music, voice on radio",3,1,0,The conversation sounds a little aggressive
+jdvvplkvqij51_processed_5,jdvvplkvqij51,38,3,beeping,3,1,0,No aggression heard in the audio file.
+jdvvplkvqij51_processed_6,jdvvplkvqij51,38,3,car driving,3,1,0,A woman sounds distressed
+jdvvplkvqij51_processed_7,jdvvplkvqij51,38,3,,3,1,0,No aggression heard in the audio file.
+jdvvplkvqij51_processed_8,jdvvplkvqij51,38,3,voice on radio,3,1,0,No aggression heard in the audio file.
+jdvvplkvqij51_processed_9,jdvvplkvqij51,38,3,voice on radio,3,2,0,One woman is yelling and sounds distressed
+jdvvplkvqij51_processed_10,jdvvplkvqij51,38,3,"voice on radio, hich pitched whistle",3,2,0,one woman is distressed
+jdvvplkvqij51_processed_11,jdvvplkvqij51,38,3,thud,3,0,0,No aggression heard in the audio file.
+jdvvplkvqij51_processed_12,jdvvplkvqij51,38,3,beeping,3,3,0,The woman sounds distressed
+jdvvplkvqij51_processed_14,jdvvplkvqij51,38,3,"Screaming, whirring",3,3,0,The woman is distressed
+jdvvplkvqij51_processed_15,jdvvplkvqij51,38,3,"voice on radio, crying",3,1,0,The woman is distressed
+jdvvplkvqij51_processed_16,jdvvplkvqij51,38,3,voice on radio,3,1,0,The woman raises her voice
+jdvvplkvqij51_processed_17,jdvvplkvqij51,38,3,sirens,3,1,0,The woman is distressed
+jdvvplkvqij51_processed_18,jdvvplkvqij51,38,3,whirring,3,2,0,The officer yells and sounds distressed
+jdvvplkvqij51_processed_19,jdvvplkvqij51,38,3,"gunshots, beeping",3,3,0,The officer is screaming aggressively and threateningly
+jdvvplkvqij51_processed_20,jdvvplkvqij51,38,3,beeping,3,1,0,The officer sounds a little aggressive
+jdvvplkvqij51_processed_21,jdvvplkvqij51,38,3,"burping, moaning, beeping",3,1,0,The woman sounds distressed
+jdvvplkvqij51_processed_23,jdvvplkvqij51,38,3,clearing throat,3,0,0,No aggression heard in the audio file.
+jdvvplkvqij51_processed_24,jdvvplkvqij51,38,3,beeping,3,0,0,No aggression heard in the audio file.
+jdvvplkvqij51_processed_25,jdvvplkvqij51,38,3,vopice on radio,3,2,0,There is yelling and raised voices in the clip
+jdvvplkvqij51_processed_26,jdvvplkvqij51,38,3,"sirens, voice on radio, music",3,1,0,The woman sounds distressed
+jdvvplkvqij51_processed_27,jdvvplkvqij51,38,3,car driving,3,2,0,The woman is distressed
+jdvvplkvqij51_processed_28,jdvvplkvqij51,38,3,"whirring, voice on radio",3,0,0,No aggression heard in the audio file.
+jdvvplkvqij51_processed_29,jdvvplkvqij51,38,3,voice on radio,3,0,0,No aggression heard in the audio file.
+jdvvplkvqij51_processed_30,jdvvplkvqij51,38,3,"Beeping, wailing",3,3,0,The woman is distressed
+jdvvplkvqij51_processed_31,jdvvplkvqij51,38,3,"moaning, beeping",3,2,0,The woman sounds distressed
+jdvvplkvqij51_processed_32,jdvvplkvqij51,38,3,crying,3,1,0,The woman sounds distressed
+jdvvplkvqij51_processed_33,jdvvplkvqij51,38,4,"voice on radio, moaning",3,3,0,The woman is yelling and distressed
+jdvvplkvqij51_processed_34,jdvvplkvqij51,38,4,"beeping, moaning, screaming",3,3,0,The woman is distressed and screaming
+jdvvplkvqij51_processed_35,jdvvplkvqij51,38,4,"sirens, voice on radio",3,1,0,The woman is distressed
+jdvvplkvqij51_processed_36,jdvvplkvqij51,38,4,"beeping, crying",3,1,0,The woman is distressed
+jfpb344h1zc71_processed_0,jfpb344h1zc71,20,2,"tv set, chatter, crumpling",3,0,0,No aggression heard in the audio file.
+jfpb344h1zc71_processed_2,jfpb344h1zc71,20,2,"tv set, chatter, wind blowing, crying",3,0,0,No aggression heard in the audio file.
+jfpb344h1zc71_processed_4,jfpb344h1zc71,20,2,chatter,3,0,0,No aggression heard in the audio file.
+jfpb344h1zc71_processed_6,jfpb344h1zc71,20,2,"crumpling, crying, chatter, yelling, screaming",3,3,1,The crowd sounds distressed and is screaming
+jfpb344h1zc71_processed_7,jfpb344h1zc71,20,2,"crying, screaming, chatter",3,3,1,The child is screaming and in distress
+jfpb344h1zc71_processed_8,jfpb344h1zc71,20,2,chatter,3,3,1,one man yells aggressively
+jfpb344h1zc71_processed_9,jfpb344h1zc71,20,2,"crumpling, chatter",3,0,0,No aggression heard in the audio file.
+jfpb344h1zc71_processed_10,jfpb344h1zc71,20,2,"crumpling, chatter, dog barkingq",3,3,1,One man yells aggressively. Some people sound distressed
+jfpb344h1zc71_processed_11,jfpb344h1zc71,20,2,"crumpling, chatter, yelling.",3,2,1,People are yelling aggressively or are in distress
+jfpb344h1zc71_processed_13,jfpb344h1zc71,20,4,"yelling, screaming",3,3,1,Man yells threateningly. Man in distress
+jfpb344h1zc71_processed_14,jfpb344h1zc71,20,4,"screaming, crying, yelling",3,3,1,child sounds distressed. Screaming in clip
+jfpb344h1zc71_processed_15,jfpb344h1zc71,20,4,"crying, screaming.",3,3,1,child sounds distressed. Screaming in clip
+jfpb344h1zc71_processed_16,jfpb344h1zc71,20,4,"chatter, yelling",3,3,1,man yelling aggressively and threateningly
+jfpb344h1zc71_processed_17,jfpb344h1zc71,20,4,"crying, yelling",3,3,1,"The crowd sounds aggressive, Some are distressed"
+jfpb344h1zc71_processed_18,jfpb344h1zc71,20,4,chatter,3,0,0,No aggression heard in the audio file.
+jfpb344h1zc71_processed_19,jfpb344h1zc71,20,4,chatter,3,0,0,No aggression heard in the audio file.
+jgsdxqf0hjv61_processed_0,jgsdxqf0hjv61,11,1,,1,0,0,No aggression heard in the audio file.
+jgsdxqf0hjv61_processed_1,jgsdxqf0hjv61,11,1,,1,0,0,No aggression heard in the audio file.
+jgsdxqf0hjv61_processed_2,jgsdxqf0hjv61,11,1,,1,0,0,No aggression heard in the audio file.
+jgsdxqf0hjv61_processed_3,jgsdxqf0hjv61,11,3,,1,0,0,No aggression heard in the audio file.
+jgsdxqf0hjv61_processed_4,jgsdxqf0hjv61,11,3,,1,1,0,Woman raises her voice a little
+jgsdxqf0hjv61_processed_5,jgsdxqf0hjv61,11,3,,1,1,0,Woman raises her voice a little
+jgsdxqf0hjv61_processed_6,jgsdxqf0hjv61,11,3,,1,1,0,Woman raises her voice a little
+jgsdxqf0hjv61_processed_7,jgsdxqf0hjv61,11,3,,1,0,0,No aggression heard in the audio file.
+jgsdxqf0hjv61_processed_8,jgsdxqf0hjv61,11,3,,1,0,0,No aggression heard in the audio file.
+jgsdxqf0hjv61_processed_9,jgsdxqf0hjv61,11,3,,1,1,0,Woman raises her voice a little
+jgsdxqf0hjv61_processed_10,jgsdxqf0hjv61,11,3,,1,1,0,The man and woman raise their voices at each other aggressively
+jjevlpsedyj51_processed_0,jjevlpsedyj51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+jjevlpsedyj51_processed_1,jjevlpsedyj51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+jjevlpsedyj51_processed_2,jjevlpsedyj51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+jjevlpsedyj51_processed_3,jjevlpsedyj51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+jjevlpsedyj51_processed_4,jjevlpsedyj51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+jjevlpsedyj51_processed_5,jjevlpsedyj51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+jmd1k25ytr961_processed_0,jmd1k25ytr961,3,2,"yelling, gunshots",3,3,1,The crowd sounds aggressive and is yelling
+jmd1k25ytr961_processed_1,jmd1k25ytr961,3,2,"yelling, screaming",3,3,1,The crowd sounds aggressive an dthreatening and is yelling
+jnvsmjehrco51_processed_0,jnvsmjehrco51,5,2,"screaming, music",3,3,1,A man is yelling aggressively and threateningly
+jnvsmjehrco51_processed_1,jnvsmjehrco51,5,2,"screaming, music",3,3,1,A man is yelling aggressively and threateningly
+jnvsmjehrco51_processed_2,jnvsmjehrco51,5,2,"screaming, music",3,3,1,A man is yelling aggressively and threateningly
+jnvsmjehrco51_processed_3,jnvsmjehrco51,5,2,"music, yelling",3,2,1,A man is yelling aggressively.
+jnvsmjehrco51_processed_4,jnvsmjehrco51,5,2,"music, yelling, beating",3,3,1,A man is yelling aggressively and threateningly
+joov2x7x5vq51_processed_0,joov2x7x5vq51,9,2,,1,0,0,No aggression heard in the audio file.
+joov2x7x5vq51_processed_1,joov2x7x5vq51,9,2,,1,1,0,Some people speak with raised voices
+joov2x7x5vq51_processed_2,joov2x7x5vq51,9,2,,1,0,0,No aggression heard in the audio file.
+joov2x7x5vq51_processed_3,joov2x7x5vq51,9,2,,1,0,0,No aggression heard in the audio file.
+joov2x7x5vq51_processed_4,joov2x7x5vq51,9,2,,1,0,0,No aggression heard in the audio file.
+joov2x7x5vq51_processed_5,joov2x7x5vq51,9,2,,1,0,0,No aggression heard in the audio file.
+joov2x7x5vq51_processed_6,joov2x7x5vq51,9,2,,1,0,0,No aggression heard in the audio file.
+joov2x7x5vq51_processed_7,joov2x7x5vq51,9,2,,1,0,0,No aggression heard in the audio file.
+joov2x7x5vq51_processed_8,joov2x7x5vq51,9,2,,1,1,0,The man uses suggestive language
+jqc1amydtoq51_processed_0,jqc1amydtoq51,4,1,crowd cheering,1,1,0,The man speaks with a raised voice
+jqc1amydtoq51_processed_1,jqc1amydtoq51,4,1,crowd cheering,1,0,0,No aggression heard in the audio file.
+jqc1amydtoq51_processed_2,jqc1amydtoq51,4,1,crowd cheering,1,1,0,The man speaks with a raised voice
+jqc1amydtoq51_processed_3,jqc1amydtoq51,4,1,crowd cheering,1,0,0,No aggression heard in the audio file.
+jqvgobjg9zm51_processed_0,jqvgobjg9zm51,2,3,"yelling, cheering, chatter",2,2,1,There is aggressive yelling and abusive language
+jqvgobjg9zm51_processed_1,jqvgobjg9zm51,2,3,chatter,2,2,1,There is aggressive language
+js3vutj4bbw51_processed_0,js3vutj4bbw51,6,3,,2,1,0,"Raised, frustrated voice"
+js3vutj4bbw51_processed_1,js3vutj4bbw51,6,3,,2,1,0,"aggressive, raised voice"
+js3vutj4bbw51_processed_2,js3vutj4bbw51,6,3,,2,1,0,"aggressive, raised voice"
+js3vutj4bbw51_processed_3,js3vutj4bbw51,6,3,,2,1,0,"aggressive, raised voice"
+js3vutj4bbw51_processed_4,js3vutj4bbw51,6,3,,2,2,0,"aggressive, raised voice. Some yelling"
+js3vutj4bbw51_processed_5,js3vutj4bbw51,6,3,,2,2,0,"aggressive, raised voice. Some yelling"
+jsbaj77ymtj61_processed_0,jsbaj77ymtj61,2,1,"yelling, cheering",0,0,1,The yelling is cheerful.
+jsbaj77ymtj61_processed_1,jsbaj77ymtj61,2,1,"yelling, cheering",0,0,1,The yelling is cheerful
+jw6rj3dnahd71_processed_0,jw6rj3dnahd71,2,0,"chatter, yelling",2,2,0,There are raised voices and yelling with some aggression
+jw6rj3dnahd71_processed_1,jw6rj3dnahd71,2,0,"chatter, yelling",2,2,0,There are raised voices and yelling with some aggression
+jwav7p0l1nw51_processed_0,jwav7p0l1nw51,6,6,"wind blowing, chatter, shuffling",1,0,0,No aggression heard in the audio file.
+jwav7p0l1nw51_processed_1,jwav7p0l1nw51,6,6,wind blowing,1,1,0,One woman sounds a little aggressive
+jwav7p0l1nw51_processed_2,jwav7p0l1nw51,6,6,wind blowing,1,1,0,One woman sounds a little aggressive
+jwav7p0l1nw51_processed_3,jwav7p0l1nw51,6,6,wind blowing,1,1,0,One woman sounds a little aggressive
+jwav7p0l1nw51_processed_4,jwav7p0l1nw51,6,6,wind blowing,1,1,0,Some women sound a little aggressive
+jwav7p0l1nw51_processed_5,jwav7p0l1nw51,6,6,wind blowing,1,1,0,Some women and the man at the end sound a little aggressive
+jwctkc1ckhz51_processed_1,jwctkc1ckhz51,2,1,"crowd yelling, chatter",3,3,1,The crowd sounds aggressive. Some people are threatening
+k0ppi5f7ezl51_processed_0,k0ppi5f7ezl51,10,0,"yelling, shouting, chatter",3,3,1,The crowd sounds aggressive
+k0ppi5f7ezl51_processed_1,k0ppi5f7ezl51,10,0,"yelling, shouting, screaming",3,3,1,The crowd sounds aggressive. Some sound threatening
+k0ppi5f7ezl51_processed_2,k0ppi5f7ezl51,10,0,"yelling, shouting",3,3,1,The crowd sounds aggressive. Some sound threatening
+k0ppi5f7ezl51_processed_3,k0ppi5f7ezl51,10,0,"yelling, shouting, screaming",3,3,1,The crowd sounds aggressive. Some sound threatening
+k0ppi5f7ezl51_processed_4,k0ppi5f7ezl51,10,0,"yelling, shouting, screaming",3,3,1,The crowd sounds aggressive. Some sounds threatening
+k0ppi5f7ezl51_processed_5,k0ppi5f7ezl51,10,0,"yelling, shouting",3,3,1,The crowd sounds aggressive and threatening.
+k0ppi5f7ezl51_processed_6,k0ppi5f7ezl51,10,0,"yelling, shouting, screamingq",3,3,1,The crowd sounds aggressive and threatewning
+k0ppi5f7ezl51_processed_7,k0ppi5f7ezl51,10,0,"yelling, shouting, screaming",3,3,1,The crowd sounds aggressive and threatening
+k0ppi5f7ezl51_processed_8,k0ppi5f7ezl51,10,0,"yelling, shouting, screaming",3,3,1,The crowd soundsaggreassive andf threatening
+k0ppi5f7ezl51_processed_9,k0ppi5f7ezl51,10,0,"yelling, shouting",3,3,1,The crowd sounds aggressive and threatening
+k29lcqrimg771_processed_0,k29lcqrimg771,20,3,chatter,3,3,0,The man and the woman yell at each other aggressively and threateningly
+k29lcqrimg771_processed_1,k29lcqrimg771,20,3,"chatter, yelling",3,3,0,The man and the woman yell at each other aggressively and threateningly
+k29lcqrimg771_processed_2,k29lcqrimg771,20,3,"chatter, yelling, crying",3,3,0,There is aggressive yelling and one woman is in distress
+k29lcqrimg771_processed_3,k29lcqrimg771,20,3,"chatter, yelling",3,3,0,There is aggressive and threatening yelling from the woman
+k29lcqrimg771_processed_4,k29lcqrimg771,20,3,"chatter, yelling",3,3,0,The man and the woman yell at each other aggressively and threateningly
+k29lcqrimg771_processed_5,k29lcqrimg771,20,3,"chatter, crying",3,2,0,There is some yelling. A woman is in distress
+k29lcqrimg771_processed_6,k29lcqrimg771,20,3,"yelling, chatter",3,2,0,The man is yelling aggressively. A woman also yells
+k29lcqrimg771_processed_7,k29lcqrimg771,20,3,"yelling, chatter, screaming",3,3,0,The people are yelling aggressively and threateningly
+k29lcqrimg771_processed_8,k29lcqrimg771,20,3,yelling,3,2,0,There is yelling
+k29lcqrimg771_processed_9,k29lcqrimg771,20,4,yelling,3,3,0,The woman yells aggressively and threateningly
+k29lcqrimg771_processed_10,k29lcqrimg771,20,4,yelling,3,3,0,The man and woman yell at each other aggressively and threateningly
+k29lcqrimg771_processed_11,k29lcqrimg771,20,4,yelling,3,3,0,The man and the woman yell at each other aggressively and threateningly
+k29lcqrimg771_processed_12,k29lcqrimg771,20,4,"yelling, chatter",3,3,0,The woman yells aggressively and threateningly
+k29lcqrimg771_processed_13,k29lcqrimg771,20,4,"yelling, chatter",3,3,0,The woman yells aggressively and threateningly
+k29lcqrimg771_processed_14,k29lcqrimg771,20,4,"yelling, chatter",3,2,0,The woman yells aggressively. The man is threatening
+k29lcqrimg771_processed_15,k29lcqrimg771,20,4,"yelling, chatter",3,3,0,The woman yells aggressively and threateningly
+k29lcqrimg771_processed_16,k29lcqrimg771,20,4,"yelling, crying, chatter, screaming",3,2,0,There is yelling and some people are distyressed
+k29lcqrimg771_processed_17,k29lcqrimg771,20,4,yelling,3,2,0,The man sounds aggressive. The woman sounds distressed
+k29lcqrimg771_processed_18,k29lcqrimg771,20,4,"chatter, yelling",3,2,0,One man yells aggressively. A woman speaks aggressively
+k29lcqrimg771_processed_19,k29lcqrimg771,20,4,yelling,3,2,0,There is yelling in the clip.
+k4d2xhyvw4h61_processed_1,k4d2xhyvw4h61,29,2,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_2,k4d2xhyvw4h61,29,2,"music, chatter",2,2,0,Man yells aggressively
+k4d2xhyvw4h61_processed_3,k4d2xhyvw4h61,29,2,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_4,k4d2xhyvw4h61,29,2,"music, chatter",2,0,0,No aggression heard in the audio file.
+k4d2xhyvw4h61_processed_5,k4d2xhyvw4h61,29,3,music,2,2,0,Man yells aggressively at times
+k4d2xhyvw4h61_processed_6,k4d2xhyvw4h61,29,3,music,2,2,0,man yells aggressively and uses abusive language
+k4d2xhyvw4h61_processed_7,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_8,k4d2xhyvw4h61,29,3,"music, laughing",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_9,k4d2xhyvw4h61,29,3,music,2,1,0,"manis threatening, but only raises voice"
+k4d2xhyvw4h61_processed_10,k4d2xhyvw4h61,29,3,"music, chatter",2,0,0,No aggression heard in the audio file.
+k4d2xhyvw4h61_processed_11,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_12,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_13,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_14,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_15,k4d2xhyvw4h61,29,3,music,2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_16,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_17,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_18,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_19,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_20,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_21,k4d2xhyvw4h61,29,3,"music, chatter",2,2,0,man raises voice and is threatening. Other man may be distressed
+k4d2xhyvw4h61_processed_22,k4d2xhyvw4h61,29,3,music,2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_23,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_24,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_25,k4d2xhyvw4h61,29,3,"music, chatter",2,2,0,man yells aggressively
+k4d2xhyvw4h61_processed_26,k4d2xhyvw4h61,29,3,"music, chatter",2,1,0,"man threatens to sue and is aggressive, but only raises his voice"
+k4d2xhyvw4h61_processed_27,k4d2xhyvw4h61,29,3,music,2,1,0,man raises voice and is aggressive
+k4d2xhyvw4h61_processed_28,k4d2xhyvw4h61,29,3,music,2,1,0,man raises voice and is aggressive
+k4nczw018o271_processed_0,k4nczw018o271,6,3,"music, chatter",1,0,1,No aggression heard in the audio file.
+k4nczw018o271_processed_1,k4nczw018o271,6,3,"music, chatter, laughing",1,1,1,"The man raises his voice, possibly aggresively"
+k4nczw018o271_processed_2,k4nczw018o271,6,3,"music, chatter, laughing",1,0,1,No aggression heard in the audio file.
+k4nczw018o271_processed_3,k4nczw018o271,6,3,"music, chatter, laughing",1,0,1,No aggression heard in the audio file.
+k4nczw018o271_processed_4,k4nczw018o271,6,3,"music, chatter, laughing",1,1,1,Man speaks a little aggressively at times
+k4nczw018o271_processed_5,k4nczw018o271,6,3,"music, chatter, laughing",1,1,1,Man speaks a little aggressively
+k8cbglj7q2y51_processed_0,k8cbglj7q2y51,6,0,loud music,0,0,1,No aggression heard in the audio file. (file was documented earlier)
+k8cbglj7q2y51_processed_1,k8cbglj7q2y51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+k8cbglj7q2y51_processed_2,k8cbglj7q2y51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+k8cbglj7q2y51_processed_3,k8cbglj7q2y51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+k8cbglj7q2y51_processed_4,k8cbglj7q2y51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+k8cbglj7q2y51_processed_5,k8cbglj7q2y51,6,0,loud music,0,0,1,No aggression heard in the audio file.
+k8d2pey92h371_processed_0,k8d2pey92h371,8,2,,2,2,0,Man speaks aggressively and threateningly
+k8d2pey92h371_processed_1,k8d2pey92h371,8,2,chatter,2,2,0,Man speaks aggressively and threateningly
+k8d2pey92h371_processed_2,k8d2pey92h371,8,2,chatter,2,1,0,Man speaks aggressively.
+k8d2pey92h371_processed_3,k8d2pey92h371,8,2,chatter,2,2,0,Man speaks aggressively and threateningly
+k8d2pey92h371_processed_4,k8d2pey92h371,8,3,chatter,2,2,0,Man speaks aggressively and threateningly
+k8d2pey92h371_processed_5,k8d2pey92h371,8,3,chatter,2,2,0,Man speaks aggressively and begins yelling
+k8d2pey92h371_processed_6,k8d2pey92h371,8,3,chatter,2,2,0,Man speaks aggressively and yells
+k8d2pey92h371_processed_7,k8d2pey92h371,8,3,chatter,2,2,0,Man speaks aggressively and yells
+kb7len1wvzn61_processed_0,kb7len1wvzn61,17,5,sirens,2,0,0,No aggression heard in the audio file.
+kb7len1wvzn61_processed_1,kb7len1wvzn61,17,5,helicopter whirring,2,2,0,One man yells aggressively
+kb7len1wvzn61_processed_2,kb7len1wvzn61,17,5,helicopter whirring,2,2,0,One man yells aggressively
+kb7len1wvzn61_processed_3,kb7len1wvzn61,17,5,,2,0,0,No aggression heard in the audio file.
+kb7len1wvzn61_processed_4,kb7len1wvzn61,17,5,voice on radio,2,1,0,The person on the radio raises their voice.
+kb7len1wvzn61_processed_5,kb7len1wvzn61,17,5,voice on radio,2,1,0,The man speaks a little aggressively at times
+kb7len1wvzn61_processed_6,kb7len1wvzn61,17,5,helicopter whirring,2,1,0,The man raises his voice aggressively.
+kb7len1wvzn61_processed_7,kb7len1wvzn61,17,5,,2,1,0,The man speaks a little aggressively at times
+kb7len1wvzn61_processed_8,kb7len1wvzn61,17,5,,2,1,0,one man sounds a little agitated
+kb7len1wvzn61_processed_9,kb7len1wvzn61,17,5,Crying,2,1,0,The woman sounds distressed and is crying
+kb7len1wvzn61_processed_10,kb7len1wvzn61,17,5,helicopter whirring,2,0,0,No aggression heard in the audio file.
+kb7len1wvzn61_processed_11,kb7len1wvzn61,17,5,"helicopter whirring, voice on radio",2,0,0,No aggression heard in the audio file.
+kb7len1wvzn61_processed_12,kb7len1wvzn61,17,5,,2,0,0,No aggression heard in the audio file.
+kb7len1wvzn61_processed_13,kb7len1wvzn61,17,5,,2,0,0,No aggression heard in the audio file.
+kb7len1wvzn61_processed_14,kb7len1wvzn61,17,5,,2,0,0,No aggression heard in the audio file.
+kb7len1wvzn61_processed_15,kb7len1wvzn61,17,5,,2,0,0,No aggression heard in the audio file.
+kb7len1wvzn61_processed_16,kb7len1wvzn61,17,5,,2,0,0,No aggression hear in the audio file.
+keakf8pvpga71_processed_0,keakf8pvpga71,3,0,yelling,3,2,0,The people are yelling aggressively
+keakf8pvpga71_processed_1,keakf8pvpga71,3,0,yelling,3,3,0,The people are yelling aggressively and threateningly
+keakf8pvpga71_processed_2,keakf8pvpga71,3,0,yelling,3,3,0,The people are yelling aggressively and threateningly
+kh8stmjw59v51_processed_0,kh8stmjw59v51,6,2,cars passing,3,0,0,No aggression heard in the audio file
+kh8stmjw59v51_processed_1,kh8stmjw59v51,6,2,"cars passing, children yelling",3,0,0,No aggression
+kh8stmjw59v51_processed_2,kh8stmjw59v51,6,2,"cars passing, cars honking",3,0,0,No aggression heard in the audio file
+kh8stmjw59v51_processed_3,kh8stmjw59v51,6,2,"cars passing, cars honking",3,1,0,The men argue aggressively with each other
+kh8stmjw59v51_processed_4,kh8stmjw59v51,6,2,cars passing,3,3,0,The men yell at each other aggressively. One is threatening
+kh8stmjw59v51_processed_5,kh8stmjw59v51,6,2,,3,1,0,One man raises his voice aggressively.
+khh6glbn0ip51_processed_0,khh6glbn0ip51,3,0,"screaming, giggling, muffled roaring",0,0,0,"The children are screaming, but in excitement."
+khh6glbn0ip51_processed_1,khh6glbn0ip51,3,0,"screaming, giggling.",0,0,0,"The children are screaming, but in excitement."
+khh6glbn0ip51_processed_2,khh6glbn0ip51,3,0,giggling,0,0,0,No aggression heard in the audio file.
+kimd39lc5cv61_processed_0,kimd39lc5cv61,5,2,wind blowing,0,0,0,There is no aggression heard in the audio file
+kimd39lc5cv61_processed_1,kimd39lc5cv61,5,3,voice on radio,0,0,0,There is no aggression heard in the audio file
+kimd39lc5cv61_processed_2,kimd39lc5cv61,5,3,,1,1,0,The lady raises her voice a little
+kimd39lc5cv61_processed_3,kimd39lc5cv61,5,3,Voice on radio,1,1,0,One of the women raises her voice.
+kimd39lc5cv61_processed_4,kimd39lc5cv61,5,3,,1,1,0,One of the women raises her voice
+krrvkof915n51_processed_0,krrvkof915n51,4,2,chatter,2,2,0,The girl is yelling and uses abusive language.
+krrvkof915n51_processed_1,krrvkof915n51,4,2,"yelling, chatter",2,2,0,The girl is yelling aggressive and uses abusive language
+krrvkof915n51_processed_2,krrvkof915n51,4,2,chatter,2,2,0,The girl is yelling aggressively
+krrvkof915n51_processed_3,krrvkof915n51,4,2,chatter,2,0,0,There is no aggression heard in the audio file
+kyf5hxmsapc61_processed_0,kyf5hxmsapc61,8,4,,0,0,0,There is no aggression heard in the audio file
+kyf5hxmsapc61_processed_1,kyf5hxmsapc61,8,4,chatter,0,0,0,There is no aggression heard in the audio file
+kyf5hxmsapc61_processed_2,kyf5hxmsapc61,8,4,chatter,0,0,0,There is no aggression heard in the audio file
+kyf5hxmsapc61_processed_3,kyf5hxmsapc61,8,4,chatter,0,0,0,There is no aggression heard in the audio file
+kyf5hxmsapc61_processed_4,kyf5hxmsapc61,8,4,,0,0,0,There is no aggression heard in the audio file
+kyf5hxmsapc61_processed_5,kyf5hxmsapc61,8,4,,0,0,0,There is no aggression heard in the audio file
+kyf5hxmsapc61_processed_6,kyf5hxmsapc61,8,4,,0,0,0,There is no aggression heard in the audio file
+kyf5hxmsapc61_processed_7,kyf5hxmsapc61,8,4,,0,0,0,There is no aggression heard in the audio file
+kzdw1tdt7zk51_processed_0,kzdw1tdt7zk51,3,2,laughing,0,0,0,There is no aggression heard in the audio file
+kzdw1tdt7zk51_processed_1,kzdw1tdt7zk51,3,2,"laughing, screaming",0,0,0,"The screaming is not in distress, but just an extension of the laughing"
+kzdw1tdt7zk51_processed_2,kzdw1tdt7zk51,3,2,"laughing, car driving",0,0,0,There is no aggression heard in the audio file
+l0b28n2jmnx51_processed_0,l0b28n2jmnx51,7,0,"loud music, crowd singing",0,0,1,There is no aggression heard in the audio file
+l0b28n2jmnx51_processed_1,l0b28n2jmnx51,7,0,"loud music,  crowd singing",0,0,1,There is no aggression heard in the audio file
+l0b28n2jmnx51_processed_2,l0b28n2jmnx51,7,0,"loud music, crowd singing, chatter",0,0,1,There is no aggression heard in the audio file
+l0b28n2jmnx51_processed_3,l0b28n2jmnx51,7,0,"loud music, crowd singing, chatter",0,0,1,There is no aggression heard in the audio file
+l0b28n2jmnx51_processed_4,l0b28n2jmnx51,7,0,"loud music, crowd singing, chatter",0,0,1,There is no aggression heard in the audio file
+l0b28n2jmnx51_processed_5,l0b28n2jmnx51,7,0,"loud music, crwod singing, chatter",0,0,1,There is no aggression heard in the audio file
+l0b28n2jmnx51_processed_6,l0b28n2jmnx51,7,0,"loud music, chatter",0,0,1,There is no aggression heard in the audio file
+l1jhg9hs0ub61_processed_0,l1jhg9hs0ub61,5,1,laughing,1,1,0,The man raises his voice a little at the start.
+l1jhg9hs0ub61_processed_1,l1jhg9hs0ub61,5,1,laughing,1,0,0,There is no aggression heard in the audio file
+l1jhg9hs0ub61_processed_2,l1jhg9hs0ub61,5,1,"laughing, cheering, dinging, music",1,0,1,There is no aggression heard in the audio file
+l1jhg9hs0ub61_processed_3,l1jhg9hs0ub61,5,1,"laughing, cheering, dinging, music, clapping",1,0,1,There is no aggression heard in the audio file
+l1jhg9hs0ub61_processed_4,l1jhg9hs0ub61,5,1,"laughing, cheering, dinging, music, clapping",1,0,1,There is no aggression heard in the audio file
+l2mjvi42vri51_processed_0,l2mjvi42vri51,5,3,"loud music, laughing, chatter",0,0,1,There is no aggression heard in the audio file
+l2mjvi42vri51_processed_1,l2mjvi42vri51,5,3,"loud music, laughing, chatter",0,0,1,There is no aggression heard in the audio file
+l2mjvi42vri51_processed_2,l2mjvi42vri51,5,3,"loud music, laughing, chatter",0,0,1,There is no aggression heard in the audio file
+l2mjvi42vri51_processed_3,l2mjvi42vri51,5,3,"loud music, chatter, beeping",0,0,1,There is no aggression heard in the audio file
+l2mjvi42vri51_processed_4,l2mjvi42vri51,5,3,"loud music, chatter",0,0,1,The woman raises her voice in joy
+l55kkjq5hme71_processed_0,l55kkjq5hme71,22,3,"beeping, chatter",3,3,0,One man sounds aggressive and threatening
+l55kkjq5hme71_processed_3,l55kkjq5hme71,22,4,"beeping, yelling",3,2,0,The man sounds aggressive and threatening
+l55kkjq5hme71_processed_4,l55kkjq5hme71,22,4,"beeping, yelling",3,3,0,The man sounds aggressive and threatening
+l55kkjq5hme71_processed_5,l55kkjq5hme71,22,4,yelling,3,2,0,The woman is yelling and distressed
+l55kkjq5hme71_processed_6,l55kkjq5hme71,22,4,"beeping, yelling",3,2,0,There is yelling in the clip. The man sounds aggressive
+l55kkjq5hme71_processed_7,l55kkjq5hme71,22,4,"beeping, yelling",3,3,0,The man is aggressive and threatening. He yells and uses abusive language
+l55kkjq5hme71_processed_8,l55kkjq5hme71,22,4,"beeping, yelling",3,2,0,The man yells aggressively
+l55kkjq5hme71_processed_9,l55kkjq5hme71,22,5,"sirens, water running",3,2,0,The woman yells aggressively. The man speaks aggressively in a raised voice
+l55kkjq5hme71_processed_10,l55kkjq5hme71,22,5,sirens,3,3,0,The woman yells aggressively and threateningly
+l55kkjq5hme71_processed_11,l55kkjq5hme71,22,5,"sirens, beeping",3,2,0,The man yells aggressively
+l55kkjq5hme71_processed_12,l55kkjq5hme71,22,5,gunshots,3,2,0,The man yells and is aggressive
+l55kkjq5hme71_processed_13,l55kkjq5hme71,22,5,beeping,3,1,0,The man is aggressive and uses abusive language
+l55kkjq5hme71_processed_14,l55kkjq5hme71,22,5,"water running, dog barking",3,2,0,The woman yells aggressively. A man raises his voice and is aggressive
+l55kkjq5hme71_processed_15,l55kkjq5hme71,22,5,"beeping, chatter, sirens",3,2,0,The man yells and is aggressive
+l55kkjq5hme71_processed_16,l55kkjq5hme71,22,5,"sirens, yelling, beeping, gunshots",3,2,0,The woman yells aggressively or is on distress
+l55kkjq5hme71_processed_17,l55kkjq5hme71,22,5,"gunshots, dog barking, yelling",3,2,0,A girl is in distress and yells
+l55kkjq5hme71_processed_18,l55kkjq5hme71,22,5,yelling,3,2,0,The woman and the man yell aggressively at each other
+l55kkjq5hme71_processed_19,l55kkjq5hme71,22,5,"yelling, beeping",3,3,0,The woman yells aggressively and threateningly
+l55kkjq5hme71_processed_20,l55kkjq5hme71,22,5,"beeping, yelling, gunshots, chatter",3,3,0,The man yells aggressively and threateningly. He uses abusive language.
+l55kkjq5hme71_processed_21,l55kkjq5hme71,22,5,"yelling, beeping, screaming",3,3,0,The woman screams and is distressed
+l7m9wc4jw0k61_processed_0,l7m9wc4jw0k61,1,2,"laughing, chatter",0,0,0,There is no aggression heard in the audio file
+l9wqkwwvmeh51_processed_0,l9wqkwwvmeh51,4,3,,2,2,0,The man and woman are yelling aggressively at each other
+l9wqkwwvmeh51_processed_1,l9wqkwwvmeh51,4,3,laughing,2,2,0,The man and the woman yell at each other aggressively
+l9wqkwwvmeh51_processed_2,l9wqkwwvmeh51,4,3,,2,2,0,The man and the woman yell at each other aggressively. The man uses abusive language
+l9wqkwwvmeh51_processed_3,l9wqkwwvmeh51,4,3,music,2,2,0,The man and the woman yell at each other aggressively. One man uses suggestive language.
+lcon21qheeu61_processed_0,lcon21qheeu61,9,3,,1,0,0,No aggression heard in the audio file.
+lcon21qheeu61_processed_1,lcon21qheeu61,9,3,"notification, clapping, cheering",1,0,0,"The raised voices are not aggressive, but happy"
+lcon21qheeu61_processed_2,lcon21qheeu61,9,3,,1,0,0,No aggression heard in the audio file.
+lcon21qheeu61_processed_3,lcon21qheeu61,9,3,"clapping, yelling",1,1,0,One woman sounds a little aggressive when speaking
+lcon21qheeu61_processed_4,lcon21qheeu61,9,3,"clapping, chatter",1,0,0,No aggression heard in the audio file.
+lcon21qheeu61_processed_5,lcon21qheeu61,9,3,"cheering, screaming, yelling",1,0,0,The screaming and yelling is cheerful
+lcon21qheeu61_processed_6,lcon21qheeu61,9,3,"crumpling/shuffling, chatter",1,0,0,No aggression heard in the audio file.
+lcon21qheeu61_processed_7,lcon21qheeu61,9,3,crumpling/shuffling.,1,0,0,No aggression heard in the audio file
+lcon21qheeu61_processed_8,lcon21qheeu61,9,3,,1,0,0,No aggression hear in the audio file.
+ld05uslat3n51_processed_4,ld05uslat3n51,5,0,"popping, flares, yelling",2,2,1,The background yelling sounds aggressive
+lfdoom4uwse61_processed_0,lfdoom4uwse61,3,2,music,0,0,0,No aggression heard in the audio file.
+lfdoom4uwse61_processed_1,lfdoom4uwse61,3,2,"laughing, music",0,0,0,No aggression heard in the audio file.
+lfdoom4uwse61_processed_2,lfdoom4uwse61,3,2,"laughing, music",0,0,0,No aggression heard in the audio clip.
+lfg4iexhiys61_processed_0,lfg4iexhiys61,9,3,"chatter, personal radio beeping",1,0,0,There is no aggression heard in the audio file
+lfg4iexhiys61_processed_1,lfg4iexhiys61,9,3,chatter,1,0,0,There is no aggression heard in the audio file
+lfg4iexhiys61_processed_2,lfg4iexhiys61,9,3,chatter,1,0,0,There is no aggression heard in the audio file
+lfg4iexhiys61_processed_3,lfg4iexhiys61,9,3,chatter,1,1,0,One man in the background sounds a little threatening
+lfg4iexhiys61_processed_4,lfg4iexhiys61,9,3,chatter,1,0,0,There is no aggression heard in the audio file
+lfg4iexhiys61_processed_5,lfg4iexhiys61,9,3,"chatter, thuds",1,0,0,There is no aggression heard in the audio file
+lfg4iexhiys61_processed_6,lfg4iexhiys61,9,3,chatter,1,0,0,"The person raises their voice, but in excitement"
+lfg4iexhiys61_processed_7,lfg4iexhiys61,9,3,chatter,1,0,0,There is no aggression heard in the audio file
+lfg4iexhiys61_processed_8,lfg4iexhiys61,9,3,chatter,1,0,0,There is no aggression heard in the audio file
+lh3iydldr7b61_processed_0,lh3iydldr7b61,12,3,,1,0,0,There is no aggression heard in the audio file
+lh3iydldr7b61_processed_1,lh3iydldr7b61,12,3,,1,0,0,There is no aggression heard in the audio file
+lh3iydldr7b61_processed_2,lh3iydldr7b61,12,3,,1,0,0,There is no aggression heard in the audio file
+lh3iydldr7b61_processed_3,lh3iydldr7b61,12,3,,1,1,0,Some people are raising their voice aggressively
+lh3iydldr7b61_processed_4,lh3iydldr7b61,12,3,laughing,1,1,0,Some people are raising their voice aggressively
+lh3iydldr7b61_processed_5,lh3iydldr7b61,12,3,,1,0,0,There is no aggression heard in the audio file
+lh3iydldr7b61_processed_6,lh3iydldr7b61,12,3,,1,0,0,There is no aggression heard in the audio file
+lh3iydldr7b61_processed_7,lh3iydldr7b61,12,3,,1,1,0,The woman speaks with a raised voice
+lh3iydldr7b61_processed_8,lh3iydldr7b61,12,3,,1,1,0,The woman raises her voice aggressively
+lh3iydldr7b61_processed_9,lh3iydldr7b61,12,3,,1,0,0,There is no aggression heard in the audio file
+lh3iydldr7b61_processed_10,lh3iydldr7b61,12,3,,1,1,0,The woman begins to raise her voice aggressively
+lh3iydldr7b61_processed_11,lh3iydldr7b61,12,3,,1,0,0,There is no aggression heard in the audio file
+lirb4nup0oy51_processed_0,lirb4nup0oy51,5,3,cars passing,1,1,0,The man raises his voice aggressively.
+lirb4nup0oy51_processed_1,lirb4nup0oy51,5,3,,1,0,0,There is no aggression heard in the audio file
+lirb4nup0oy51_processed_2,lirb4nup0oy51,5,3,,1,0,0,There is no aggression heard in the audio file
+lirb4nup0oy51_processed_3,lirb4nup0oy51,5,3,,1,0,0,There is no aggression heard in the audio file
+lirb4nup0oy51_processed_4,lirb4nup0oy51,5,3,car driving,1,0,0,There is no aggression heard in the audio file
+lkn93q30qvc61_processed_1,lkn93q30qvc61,3,4,yelling,3,3,1,One man yells aggressively and threateningly. Others use abusive language
+lkn93q30qvc61_processed_2,lkn93q30qvc61,3,4,yelling,3,3,1,People in the crowd are aggressive or possibly distressed. One man uses abusive language
+lmx1eh0uqn171_processed_0,lmx1eh0uqn171,20,4,"chatter, yelling",1,1,0,People are aggressively raising their voices
+lmx1eh0uqn171_processed_1,lmx1eh0uqn171,20,4,"chatter, yelling, laughing",1,1,0,People are aggressively raising their voices
+lng2m9l4j2w61_processed_0,lng2m9l4j2w61,6,2,,0,0,0,There is no aggression heard in the audio file
+lng2m9l4j2w61_processed_1,lng2m9l4j2w61,6,2,,0,0,0,There is no aggression heard in the audio file
+lng2m9l4j2w61_processed_2,lng2m9l4j2w61,6,2,,0,0,0,There is no aggression heard in the audio file
+lng2m9l4j2w61_processed_3,lng2m9l4j2w61,6,2,,0,0,0,There is no aggression heard in the audio file
+lng2m9l4j2w61_processed_4,lng2m9l4j2w61,6,2,,0,0,0,There is no aggression heard in the audio file
+lng2m9l4j2w61_processed_5,lng2m9l4j2w61,6,2,,0,0,0,There is no aggression heard in the audio file
+lpg39tdh1bv51_processed_0,lpg39tdh1bv51,4,6,,0,0,1,
+lpg39tdh1bv51_processed_1,lpg39tdh1bv51,4,6,,0,0,1,excessive laughing
+lpg39tdh1bv51_processed_2,lpg39tdh1bv51,4,6,,0,0,1,excessive laughing
+ltdu6anws3m61_processed_0,ltdu6anws3m61,4,2,,1,1,0,
+ltdu6anws3m61_processed_1,ltdu6anws3m61,4,2,,1,1,0,
+ltdu6anws3m61_processed_2,ltdu6anws3m61,4,2,,1,0,0,
+ltdu6anws3m61_processed_3,ltdu6anws3m61,4,2,,1,1,0,
+lucypf71qsq61_processed_0,lucypf71qsq61,2,3,Car braking,0,0,0,car screeching
+lucypf71qsq61_processed_1,lucypf71qsq61,2,3,,0,0,0,sounds like a news channel
+lw7oinwrkce61_processed_0,lw7oinwrkce61,7,15,crowd sound,0,0,0,
+lw7oinwrkce61_processed_1,lw7oinwrkce61,7,15,crowd sound,0,0,0,
+lw7oinwrkce61_processed_2,lw7oinwrkce61,7,15,crowd sound,0,0,0,
+lw7oinwrkce61_processed_3,lw7oinwrkce61,7,15,crowd sound,0,0,0,
+lw7oinwrkce61_processed_4,lw7oinwrkce61,7,15,crowd sound,0,0,0,Intro music
+lw7oinwrkce61_processed_5,lw7oinwrkce61,7,15,crowd sound,0,0,0,
+lw7oinwrkce61_processed_6,lw7oinwrkce61,7,15,crowd sound,0,0,0,
+lx077nt8fw061_processed_0,lx077nt8fw061,6,1,music,0,0,0,music instruments
+lx077nt8fw061_processed_1,lx077nt8fw061,6,1,music,0,0,0,music instruments
+lx077nt8fw061_processed_2,lx077nt8fw061,6,1,music,0,0,1,music instruments
+lx077nt8fw061_processed_3,lx077nt8fw061,6,1,music,0,0,0,music instruments
+lx077nt8fw061_processed_4,lx077nt8fw061,6,1,music,0,0,0,music instruments
+lx077nt8fw061_processed_5,lx077nt8fw061,6,1,music,0,0,0,music instruments
+ly8o58ksw8361_processed_0,ly8o58ksw8361,14,9999,,1,0,0,
+ly8o58ksw8361_processed_0,ly8o58ksw8361,14,9999,,1,0,1,
+ly8o58ksw8361_processed_1,ly8o58ksw8361,14,9999,,1,0,0,
+ly8o58ksw8361_processed_2,ly8o58ksw8361,14,9999,,1,0,0,
+ly8o58ksw8361_processed_3,ly8o58ksw8361,14,9999,,1,1,0,
+ly8o58ksw8361_processed_4,ly8o58ksw8361,14,9999,,1,1,0,
+ly8o58ksw8361_processed_5,ly8o58ksw8361,14,9999,,1,0,0,
+ly8o58ksw8361_processed_6,ly8o58ksw8361,14,9999,,1,0,0,
+ly8o58ksw8361_processed_7,ly8o58ksw8361,14,9999,,1,1,0,
+ly8o58ksw8361_processed_8,ly8o58ksw8361,14,9999,clapping,1,0,0,clapping
+ly8o58ksw8361_processed_9,ly8o58ksw8361,14,9999,,1,0,0,
+ly8o58ksw8361_processed_10,ly8o58ksw8361,14,9999,,1,0,0,
+ly8o58ksw8361_processed_11,ly8o58ksw8361,14,9999,,1,0,0,
+ly8o58ksw8361_processed_12,ly8o58ksw8361,14,9999,,1,0,0,
+ly8o58ksw8361_processed_13,ly8o58ksw8361,14,9999,,1,0,0,
+m0c72n06yqw51_processed_0,m0c72n06yqw51,13,9999,Shouting,2,1,1,
+m0c72n06yqw51_processed_1,m0c72n06yqw51,13,9999,,2,0,0,
+m0c72n06yqw51_processed_2,m0c72n06yqw51,13,9999,,2,1,0,
+m0c72n06yqw51_processed_3,m0c72n06yqw51,13,9999,clapping,2,1,0,
+m0c72n06yqw51_processed_4,m0c72n06yqw51,13,9999,,2,1,0,
+m0c72n06yqw51_processed_5,m0c72n06yqw51,13,9999,,2,0,0,
+m0c72n06yqw51_processed_6,m0c72n06yqw51,13,9999,,2,1,0,
+m0c72n06yqw51_processed_7,m0c72n06yqw51,13,9999,,2,1,0,
+m0c72n06yqw51_processed_8,m0c72n06yqw51,13,9999,,2,1,0,
+m0c72n06yqw51_processed_9,m0c72n06yqw51,13,9999,,2,2,0,
+m0c72n06yqw51_processed_10,m0c72n06yqw51,13,9999,,2,2,0,
+m1vc0299apb71_processed_1,m1vc0299apb71,4,3,,2,1,0,
+m1vc0299apb71_processed_2,m1vc0299apb71,4,3,,2,2,0,
+m4xpc2rkprn61_processed_0,m4xpc2rkprn61,4,2,,0,0,0,
+m4xpc2rkprn61_processed_1,m4xpc2rkprn61,4,2,,0,0,0,
+m4xpc2rkprn61_processed_2,m4xpc2rkprn61,4,2,,0,0,0,
+m4xpc2rkprn61_processed_3,m4xpc2rkprn61,4,2,,0,0,0,
+m8webkagg7m61_processed_0,m8webkagg7m61,2,9999,Crowd,1,0,1,
+m8webkagg7m61_processed_1,m8webkagg7m61,2,9999,crowd,1,0,1,
+mcytmm3n9fn51_processed_0,mcytmm3n9fn51,3,4,,1,1,0,
+mec1zmiwqbp51_processed_0,mec1zmiwqbp51,8,1,"stadium, crowd",0,0,0,
+mec1zmiwqbp51_processed_1,mec1zmiwqbp51,8,1,commentator,0,0,0,crowd voice
+mec1zmiwqbp51_processed_2,mec1zmiwqbp51,8,1,,0,0,0,
+mec1zmiwqbp51_processed_3,mec1zmiwqbp51,8,1,,0,0,0,
+mec1zmiwqbp51_processed_4,mec1zmiwqbp51,8,1,,0,0,0,
+mec1zmiwqbp51_processed_5,mec1zmiwqbp51,8,1,,0,0,0,crowd voice
+mec1zmiwqbp51_processed_6,mec1zmiwqbp51,8,1,,0,0,0,
+mec1zmiwqbp51_processed_7,mec1zmiwqbp51,8,1,,0,0,0,
+meztou6z1n571_processed_0,meztou6z1n571,10,2,,2,2,0,
+meztou6z1n571_processed_1,meztou6z1n571,10,2,,2,1,0,
+meztou6z1n571_processed_2,meztou6z1n571,10,2,,2,1,0,
+meztou6z1n571_processed_3,meztou6z1n571,10,2,,2,1,0,
+meztou6z1n571_processed_4,meztou6z1n571,10,2,,2,2,0,
+meztou6z1n571_processed_5,meztou6z1n571,10,2,,2,2,0,
+meztou6z1n571_processed_6,meztou6z1n571,10,2,,2,1,0,
+meztou6z1n571_processed_7,meztou6z1n571,10,2,,2,1,0,
+meztou6z1n571_processed_8,meztou6z1n571,10,2,,2,2,0,
+meztou6z1n571_processed_9,meztou6z1n571,10,2,,2,1,0,short clip
+mj5978ktwup61_processed_0,mj5978ktwup61,24,9999,"crowd, music",0,0,1,
+mj5978ktwup61_processed_1,mj5978ktwup61,24,9999,"music, cheering",0,0,0,
+mj5978ktwup61_processed_2,mj5978ktwup61,24,9999,"music, cheering",0,0,0,
+mj5978ktwup61_processed_3,mj5978ktwup61,24,9999,"music, cheering",0,0,0,
+mj5978ktwup61_processed_4,mj5978ktwup61,24,9999,"music, cheering",0,0,0,
+mj5978ktwup61_processed_5,mj5978ktwup61,24,9999,"music, cheering",0,0,0,
+mj5978ktwup61_processed_6,mj5978ktwup61,24,9999,"music, cheering",0,0,0,
+mj5978ktwup61_processed_7,mj5978ktwup61,24,9999,"music, cheering",0,0,0,
+mj5978ktwup61_processed_8,mj5978ktwup61,24,9999,music ,0,0,0,
+mj5978ktwup61_processed_9,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_10,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_11,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_12,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_13,mj5978ktwup61,24,9999,shouting,0,0,0,
+mj5978ktwup61_processed_14,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_15,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_16,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_17,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_18,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_19,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_20,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_21,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_22,mj5978ktwup61,24,9999,music,0,0,0,
+mj5978ktwup61_processed_23,mj5978ktwup61,24,9999,music,0,0,0,
+mjb2xa7mr9261_processed_0,mjb2xa7mr9261,1,2,,1,1,1,
+mkbk8qpfj2y51_processed_0,mkbk8qpfj2y51,4,1,"clapping, cheering, laughing",1,0,0,
+mkbk8qpfj2y51_processed_1,mkbk8qpfj2y51,4,1,"clapping, cheering, laughing",1,0,0,
+mkbk8qpfj2y51_processed_2,mkbk8qpfj2y51,4,1,"clapping, cheering, laughing",1,0,0,
+mkbk8qpfj2y51_processed_3,mkbk8qpfj2y51,4,1,"clapping, cheering, laughing",1,1,0,
+mkqaqv2byus51_processed_0,mkqaqv2byus51,3,3,,0,0,0,
+mkqaqv2byus51_processed_1,mkqaqv2byus51,3,3,CROWD,0,0,0,
+mkqaqv2byus51_processed_2,mkqaqv2byus51,3,3,,0,0,0,
+mldhqpjwf2q51_processed_0,mldhqpjwf2q51,6,3,,2,0,0,
+mldhqpjwf2q51_processed_4,mldhqpjwf2q51,6,3,"shouting, crying",2,2,0,
+mmdsp3lm12q61_processed_0,mmdsp3lm12q61,4,1,laugh,0,0,0,
+mmdsp3lm12q61_processed_1,mmdsp3lm12q61,4,1,,0,0,0,
+mmdsp3lm12q61_processed_2,mmdsp3lm12q61,4,1,,0,0,0,
+mmdsp3lm12q61_processed_3,mmdsp3lm12q61,4,1,,0,0,0,
+mnsrlkt6ns961_processed_0,mnsrlkt6ns961,5,3,cops siren,1,1,0,
+mnsrlkt6ns961_processed_1,mnsrlkt6ns961,5,3,,1,1,0,
+mnsrlkt6ns961_processed_2,mnsrlkt6ns961,5,3,,1,1,0,
+mnsrlkt6ns961_processed_3,mnsrlkt6ns961,5,3,,1,1,0,
+mnsrlkt6ns961_processed_4,mnsrlkt6ns961,5,3,,1,1,0,
+mnzuaeug89y61_processed_0,mnzuaeug89y61,2,1,gunshots,3,3,0,
+mnzuaeug89y61_processed_1,mnzuaeug89y61,2,1,gunshots,3,3,0,
+mpg48m5spaq51_processed_0,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_1,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_2,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_3,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_4,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_5,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_6,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_7,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_8,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_9,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_10,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_11,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_12,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_13,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_14,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_15,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_16,mpg48m5spaq51,18,28,,0,0,0,
+mpg48m5spaq51_processed_17,mpg48m5spaq51,18,28,,0,0,0,
+mrkrwoz7qs971_processed_0,mrkrwoz7qs971,6,3,water splash,1,0,0,
+mrkrwoz7qs971_processed_1,mrkrwoz7qs971,6,3,,1,0,0,
+mrkrwoz7qs971_processed_2,mrkrwoz7qs971,6,3,water splash,1,1,0,
+mrkrwoz7qs971_processed_3,mrkrwoz7qs971,6,3,"water splash, laugh",1,1,0,
+mrkrwoz7qs971_processed_4,mrkrwoz7qs971,6,3,"laugh, shouting",1,1,0,
+mrkrwoz7qs971_processed_5,mrkrwoz7qs971,6,3,laugh,1,0,0,
+mta9j16sw7971_processed_0,mta9j16sw7971,5,2,,2,2,0,
+mta9j16sw7971_processed_1,mta9j16sw7971,5,2,shouting,2,2,0,
+mta9j16sw7971_processed_2,mta9j16sw7971,5,3,car horns,2,1,0,
+mta9j16sw7971_processed_3,mta9j16sw7971,5,3,loud speakers,2,1,0,
+mvkwg07padw61_processed_0,mvkwg07padw61,6,9999,crowd,1,0,1,
+mvkwg07padw61_processed_1,mvkwg07padw61,6,9999,,1,1,0,
+mvkwg07padw61_processed_2,mvkwg07padw61,6,9999,,1,0,0,
+mvkwg07padw61_processed_3,mvkwg07padw61,6,9999,crowd,1,0,0,
+mvkwg07padw61_processed_4,mvkwg07padw61,6,9999,music,1,0,1,
+mvkwg07padw61_processed_5,mvkwg07padw61,6,9999,,1,0,0,
+my29g93sck271_processed_0,my29g93sck271,6,2,music,0,0,0,
+my29g93sck271_processed_1,my29g93sck271,6,2,music,0,0,0,
+my29g93sck271_processed_2,my29g93sck271,6,2,music,0,0,0,
+my29g93sck271_processed_3,my29g93sck271,6,2,music,0,0,0,
+my29g93sck271_processed_4,my29g93sck271,6,2,music,0,0,0,
+my29g93sck271_processed_5,my29g93sck271,6,2,music,0,0,0,
+mym3ighjzsa71_processed_1,mym3ighjzsa71,2,2,,2,2,0,
+mz9ghl1azoh61_processed_0,mz9ghl1azoh61,2,3,,0,0,0,
+mz9ghl1azoh61_processed_1,mz9ghl1azoh61,2,3,,0,0,0,
+n0ekog764gj61_processed_0,n0ekog764gj61,3,9999,crowd,2,2,1,
+n0ekog764gj61_processed_1,n0ekog764gj61,3,9999,"crowd, shouting",2,2,1,
+n1sb7uktynz51_processed_0,n1sb7uktynz51,2,2,car horns,0,0,0,
+n1sb7uktynz51_processed_1,n1sb7uktynz51,2,2,,0,0,0,
+n4fckc6j9vk61_processed_0,n4fckc6j9vk61,9,4,,2,1,0,
+n4fckc6j9vk61_processed_1,n4fckc6j9vk61,9,4,,2,1,0,
+n4fckc6j9vk61_processed_2,n4fckc6j9vk61,9,4,,2,1,0,
+n4fckc6j9vk61_processed_3,n4fckc6j9vk61,9,4,,2,1,0,
+n4fckc6j9vk61_processed_4,n4fckc6j9vk61,9,4,,2,2,0,
+n4fckc6j9vk61_processed_5,n4fckc6j9vk61,9,4,,2,2,0,
+n4fckc6j9vk61_processed_6,n4fckc6j9vk61,9,4,music,2,1,0,
+n4fckc6j9vk61_processed_7,n4fckc6j9vk61,9,4,,2,1,0,
+n4fckc6j9vk61_processed_8,n4fckc6j9vk61,9,4,,2,1,0,
+n54pklj4xx371_processed_0,n54pklj4xx371,2,9999,motorbike engine,0,0,1,no voices
+n54pklj4xx371_processed_1,n54pklj4xx371,2,9999,,0,0,1,
+n67lcufslh371_processed_0,n67lcufslh371,6,3,,3,2,0,
+n67lcufslh371_processed_3,n67lcufslh371,6,3,punch,3,3,0,
+n7owqsp6oq261_processed_0,n7owqsp6oq261,2,1,music,1,0,0,
+n7owqsp6oq261_processed_1,n7owqsp6oq261,2,1,music,1,1,0,
+nc6aha1m92171_processed_0,nc6aha1m92171,2,1,"music, speech",1,1,0,music overlaps with person talking
+nc6aha1m92171_processed_1,nc6aha1m92171,2,1,"music, speech",1,1,0,music overlaps with person talking
+nd05z9f53yj51_processed_0,nd05z9f53yj51,5,9999,honking,1,1,1,
+nd05z9f53yj51_processed_1,nd05z9f53yj51,5,9999,honking,1,1,1,
+nd05z9f53yj51_processed_2,nd05z9f53yj51,5,9999,"honking, sirens",1,1,1,
+nd05z9f53yj51_processed_3,nd05z9f53yj51,5,9999,"honking, sirens",1,1,1,
+nerbo0uctml61_processed_0,nerbo0uctml61,2,9999,blast,3,3,1,
+nerbo0uctml61_processed_1,nerbo0uctml61,2,9999,blast,3,3,1,
+netvdni88wa71_processed_0,netvdni88wa71,13,6,,3,1,0,
+netvdni88wa71_processed_1,netvdni88wa71,13,6,,3,2,0,
+netvdni88wa71_processed_2,netvdni88wa71,13,6,,3,1,0,
+netvdni88wa71_processed_3,netvdni88wa71,13,6,,3,1,0,
+netvdni88wa71_processed_6,netvdni88wa71,13,6,,3,1,0,
+netvdni88wa71_processed_7,netvdni88wa71,13,6,,3,1,0,
+netvdni88wa71_processed_8,netvdni88wa71,13,6,,3,1,0,
+netvdni88wa71_processed_9,netvdni88wa71,13,6,,3,2,0,
+netvdni88wa71_processed_10,netvdni88wa71,13,6,,3,1,0,
+netvdni88wa71_processed_11,netvdni88wa71,13,6,,3,0,0,
+netvdni88wa71_processed_12,netvdni88wa71,13,6,,3,1,0,
+nf94539da0b61_processed_0,nf94539da0b61,4,1,,0,0,0,
+nf94539da0b61_processed_1,nf94539da0b61,4,1,,0,0,0,
+nf94539da0b61_processed_2,nf94539da0b61,4,1,,0,0,0,
+nf94539da0b61_processed_3,nf94539da0b61,4,1,,0,0,0,
+nfnb7w9wdqy61_processed_2,nfnb7w9wdqy61,7,9999,fight,3,3,1,
+ngabrpvbte771_processed_0,ngabrpvbte771,3,2,,1,1,0,
+ngabrpvbte771_processed_1,ngabrpvbte771,3,2,,1,1,0,
+ngv8c67p6d671_processed_0,ngv8c67p6d671,10,6,radio news,2,0,0,
+ngv8c67p6d671_processed_1,ngv8c67p6d671,10,6,radio news,2,0,0,
+ngv8c67p6d671_processed_4,ngv8c67p6d671,10,6,shouting,2,1,0,
+ngv8c67p6d671_processed_9,ngv8c67p6d671,10,6,radio news,2,0,0,
+ni3xrznfawq61_processed_0,ni3xrznfawq61,5,1,music,0,0,0,
+ni3xrznfawq61_processed_1,ni3xrznfawq61,5,1,music,0,0,0,
+ni3xrznfawq61_processed_2,ni3xrznfawq61,5,1,music,0,0,0,
+ni3xrznfawq61_processed_3,ni3xrznfawq61,5,1,"concert, crowd",0,0,0,
+ni3xrznfawq61_processed_4,ni3xrznfawq61,5,1,"concert, crowd",0,0,1,
+nmktwl1ulji51_processed_0,nmktwl1ulji51,9,9999,crowd,1,0,1,
+nmktwl1ulji51_processed_1,nmktwl1ulji51,9,9999,"crowd, laughter",1,1,1,
+nmktwl1ulji51_processed_2,nmktwl1ulji51,9,9999,"crowd, laughter, clap",1,1,1,
+nmktwl1ulji51_processed_3,nmktwl1ulji51,9,9999,crowd,1,1,1,
+nmktwl1ulji51_processed_4,nmktwl1ulji51,9,9999,,1,0,1,
+nmktwl1ulji51_processed_5,nmktwl1ulji51,9,9999,,1,0,0,
+nmktwl1ulji51_processed_6,nmktwl1ulji51,9,9999,,1,0,0,
+nmktwl1ulji51_processed_7,nmktwl1ulji51,9,9999,,1,0,0,
+nmktwl1ulji51_processed_8,nmktwl1ulji51,9,9999,,1,0,0,
+novps5rd9bm51_processed_0,novps5rd9bm51,5,1,"music, karaoke",0,0,0,
+novps5rd9bm51_processed_1,novps5rd9bm51,5,1,"music, karaoke",0,0,0,
+novps5rd9bm51_processed_2,novps5rd9bm51,5,1,"music, karaoke",0,0,0,
+novps5rd9bm51_processed_3,novps5rd9bm51,5,1,"music, karaoke",0,0,0,
+novps5rd9bm51_processed_4,novps5rd9bm51,5,1,"music, karaoke",0,0,1,
+nr1mxisufl071_processed_0,nr1mxisufl071,2,9999,crowd,0,0,1,
+nr1mxisufl071_processed_1,nr1mxisufl071,2,9999,"crowd, clapping",0,0,1,
+nrnc23a699p51_processed_0,nrnc23a699p51,2,4,fighting,2,2,0,
+nrnc23a699p51_processed_1,nrnc23a699p51,2,4,fighting,2,2,0,
+nsr9wssxfu971_processed_4,nsr9wssxfu971,31,6,,3,2,0,audio sounds  broken
+nsr9wssxfu971_processed_5,nsr9wssxfu971,31,6,shouting,3,3,0,
+nsr9wssxfu971_processed_7,nsr9wssxfu971,31,6,,3,2,0,
+nsr9wssxfu971_processed_8,nsr9wssxfu971,31,6,shouting,3,3,0,
+nsr9wssxfu971_processed_10,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_12,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_14,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_16,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_17,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_18,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_20,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_21,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_22,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_23,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_24,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_25,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_26,nsr9wssxfu971,31,6,shouting,3,3,0,audio seems to screeching
+nsr9wssxfu971_processed_29,nsr9wssxfu971,31,6,,3,2,0,
+nsr9wssxfu971_processed_30,nsr9wssxfu971,31,6,"siren, shouting",3,3,0,
+nv04h04fnnv51_processed_0,nv04h04fnnv51,11,2,,0,0,0,
+nv04h04fnnv51_processed_1,nv04h04fnnv51,11,2,,0,0,0,
+nv04h04fnnv51_processed_2,nv04h04fnnv51,11,2,,0,0,0,
+nv04h04fnnv51_processed_3,nv04h04fnnv51,11,2,,0,0,0,
+nv04h04fnnv51_processed_4,nv04h04fnnv51,11,2,,0,0,0,
+nv04h04fnnv51_processed_5,nv04h04fnnv51,11,2,,0,0,0,
+nv04h04fnnv51_processed_6,nv04h04fnnv51,11,2,,0,0,0,
+nv04h04fnnv51_processed_7,nv04h04fnnv51,11,2,,0,0,0,
+nv04h04fnnv51_processed_8,nv04h04fnnv51,11,2,,0,0,0,
+nv04h04fnnv51_processed_9,nv04h04fnnv51,11,2,,0,0,0,
+nv04h04fnnv51_processed_10,nv04h04fnnv51,11,2,,0,0,0,
+nw042g4ww2f61_processed_0,nw042g4ww2f61,8,9999,"crowd, cheering",0,0,1,
+nw042g4ww2f61_processed_1,nw042g4ww2f61,8,9999,"crowd, cheering",0,0,1,
+nw042g4ww2f61_processed_2,nw042g4ww2f61,8,9999,"crowd, cheering",0,0,1,
+nw042g4ww2f61_processed_3,nw042g4ww2f61,8,9999,"crowd, cheering",0,0,1,
+nw042g4ww2f61_processed_4,nw042g4ww2f61,8,9999,"crowd, cheering",0,0,1,
+nw042g4ww2f61_processed_5,nw042g4ww2f61,8,9999,"crowd, cheering",0,0,1,
+nw042g4ww2f61_processed_6,nw042g4ww2f61,8,9999,"crowd, cheering",0,0,1,
+nw042g4ww2f61_processed_7,nw042g4ww2f61,8,9999,"crowd, cheering",0,0,1,
+nwx6a3q9e6o61_processed_0,nwx6a3q9e6o61,2,1,,0,0,0,
+nwx6a3q9e6o61_processed_1,nwx6a3q9e6o61,2,1,,0,0,0,
+nzpxebrw4jw61_processed_0,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_1,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_2,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_3,nzpxebrw4jw61,18,9,,1,0,0,
+nzpxebrw4jw61_processed_4,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_5,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_6,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_7,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_8,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_9,nzpxebrw4jw61,18,9,,1,0,0,
+nzpxebrw4jw61_processed_10,nzpxebrw4jw61,18,9,,1,0,0,
+nzpxebrw4jw61_processed_11,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_12,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_13,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_14,nzpxebrw4jw61,18,9,,1,1,0,
+nzpxebrw4jw61_processed_15,nzpxebrw4jw61,18,9,clapping,1,1,0,
+nzpxebrw4jw61_processed_16,nzpxebrw4jw61,18,9,,1,0,0,
+nzpxebrw4jw61_processed_17,nzpxebrw4jw61,18,9,,1,0,0,
+o03beaprv8n51_processed_1,o03beaprv8n51,5,2,,1,1,0,
+o03beaprv8n51_processed_2,o03beaprv8n51,5,2,,1,1,0,
+o03beaprv8n51_processed_3,o03beaprv8n51,5,2,,1,1,0,
+o03beaprv8n51_processed_4,o03beaprv8n51,5,2,,1,1,0,
+o1iurxp7z4w51_processed_0,o1iurxp7z4w51,1,9999,empty audio,0,0,1,empty audio
+o4flke2zbr861_processed_0,o4flke2zbr861,6,2,,1,1,0,
+o4flke2zbr861_processed_1,o4flke2zbr861,6,2,,1,1,0,
+o4flke2zbr861_processed_2,o4flke2zbr861,6,2,,1,1,0,
+o4flke2zbr861_processed_3,o4flke2zbr861,6,2,,1,1,0,
+o4flke2zbr861_processed_4,o4flke2zbr861,6,2,,1,1,0,
+o4flke2zbr861_processed_5,o4flke2zbr861,6,2,,1,1,0,
+o964w7ixwsx51_processed_0,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o964w7ixwsx51_processed_1,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o964w7ixwsx51_processed_2,o964w7ixwsx51,19,10,"music, speech",1,1,0,
+o964w7ixwsx51_processed_3,o964w7ixwsx51,19,10,"music, speech",1,1,0,
+o964w7ixwsx51_processed_4,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o964w7ixwsx51_processed_5,o964w7ixwsx51,19,10,music,1,0,0,
+o964w7ixwsx51_processed_6,o964w7ixwsx51,19,10,"music, speech",1,1,0,
+o964w7ixwsx51_processed_7,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o964w7ixwsx51_processed_8,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o964w7ixwsx51_processed_9,o964w7ixwsx51,19,10,"music, speech",1,1,0,
+o964w7ixwsx51_processed_10,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o964w7ixwsx51_processed_11,o964w7ixwsx51,19,10,"music, speech",1,1,0,
+o964w7ixwsx51_processed_12,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o964w7ixwsx51_processed_13,o964w7ixwsx51,19,10,"music, speech",1,1,0,
+o964w7ixwsx51_processed_14,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o964w7ixwsx51_processed_15,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o964w7ixwsx51_processed_16,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o964w7ixwsx51_processed_17,o964w7ixwsx51,19,10,"music, speech",1,0,0,
+o9k446r3s5761_processed_0,o9k446r3s5761,6,2,,1,0,0,
+o9k446r3s5761_processed_2,o9k446r3s5761,6,2,,1,1,0,
+o9k446r3s5761_processed_3,o9k446r3s5761,6,2,,1,1,0,
+o9k446r3s5761_processed_4,o9k446r3s5761,6,2,,1,1,0,
+oaefa9ociba61_processed_0,oaefa9ociba61,2,1,laugh,0,0,0,
+oaefa9ociba61_processed_1,oaefa9ociba61,2,1,laugh,0,0,0,
+oamgmjzzd9161_processed_0,oamgmjzzd9161,2,9999,press conference,0,0,1,
+oamgmjzzd9161_processed_1,oamgmjzzd9161,2,9999,press conference,0,0,1,
+oc2jufewbdd61_processed_0,oc2jufewbdd61,4,2,"music, speech",1,1,0,
+oc2jufewbdd61_processed_1,oc2jufewbdd61,4,2,"music, speech",1,1,0,
+oc2jufewbdd61_processed_2,oc2jufewbdd61,4,2,"music, speech",1,0,0,
+oc2jufewbdd61_processed_3,oc2jufewbdd61,4,2,"music, speech",1,0,0,
+ocqcmynrkmd71_processed_0,ocqcmynrkmd71,2,5,fighting,2,2,0,
+uortapdfw0x51_processed_0,uortapdfw0x51,8,4,,3,1,0,
+uortapdfw0x51_processed_1,uortapdfw0x51,8,4,,3,0,0,woman2 is crying
+uortapdfw0x51_processed_2,uortapdfw0x51,8,4,someone walking,3,0,0,no talking here
+uortapdfw0x51_processed_3,uortapdfw0x51,8,4,,3,0,0,no talking here
+uortapdfw0x51_processed_4,uortapdfw0x51,8,4,,3,3,0,
+uortapdfw0x51_processed_5,uortapdfw0x51,8,4,,3,2,0,
+uortapdfw0x51_processed_6,uortapdfw0x51,8,4,,3,2,0,
+uortapdfw0x51_processed_7,uortapdfw0x51,8,4,,3,1,0,
+upw3o9xs71p61_processed_0,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_1,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_2,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_4,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_5,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_6,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_7,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_8,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_9,upw3o9xs71p61,27,2,,2,2,0,"Richard sounds sarcastic when asking ""you got video"""
+upw3o9xs71p61_processed_10,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_11,upw3o9xs71p61,27,2,,2,1,0,
+upw3o9xs71p61_processed_12,upw3o9xs71p61,27,2,,2,1,0,
+upw3o9xs71p61_processed_13,upw3o9xs71p61,27,2,,2,1,0,
+upw3o9xs71p61_processed_14,upw3o9xs71p61,27,2,music playing,2,2,0,
+upw3o9xs71p61_processed_15,upw3o9xs71p61,27,2,,2,1,0,
+upw3o9xs71p61_processed_16,upw3o9xs71p61,27,2,,2,1,0,
+upw3o9xs71p61_processed_18,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_19,upw3o9xs71p61,27,2,,2,1,0,
+upw3o9xs71p61_processed_20,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_21,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_22,upw3o9xs71p61,27,2,,2,2,0,
+upw3o9xs71p61_processed_23,upw3o9xs71p61,27,2,,2,1,0,
+upw3o9xs71p61_processed_24,upw3o9xs71p61,27,2,music playing,2,1,0,
+upw3o9xs71p61_processed_25,upw3o9xs71p61,27,2,,2,1,0,
+upw3o9xs71p61_processed_26,upw3o9xs71p61,27,2,,2,0,0,
+uqufqavw1sy61_processed_0,uqufqavw1sy61,5,2,,1,0,0,
+uqufqavw1sy61_processed_3,uqufqavw1sy61,5,2,,1,1,0,
+uqufqavw1sy61_processed_4,uqufqavw1sy61,5,2,,1,0,0,
+ut49qgxtzka71_processed_0,ut49qgxtzka71,4,5,,2,2,0,In order of appearance
+ut49qgxtzka71_processed_1,ut49qgxtzka71,4,5,,2,2,0,
+ut49qgxtzka71_processed_2,ut49qgxtzka71,4,5,feet shuffling,2,2,0,
+ut49qgxtzka71_processed_3,ut49qgxtzka71,4,5,,2,2,0,
+utkpnmjf64t51_processed_0,utkpnmjf64t51,5,3,,3,1,0,
+utkpnmjf64t51_processed_1,utkpnmjf64t51,5,3,,3,1,0,
+utkpnmjf64t51_processed_3,utkpnmjf64t51,5,3,,3,1,0,
+utkpnmjf64t51_processed_4,utkpnmjf64t51,5,3,,3,0,0,
+uvknf21t4gf61_processed_0,uvknf21t4gf61,2,3,,3,2,0,
+uvknf21t4gf61_processed_1,uvknf21t4gf61,2,3,,3,2,0,
+uy1pvvhw4fy51_processed_0,uy1pvvhw4fy51,2,2,,2,2,0,
+uy1pvvhw4fy51_processed_1,uy1pvvhw4fy51,2,2,crashing,2,1,0,
+uyh2fvtr6lb71_processed_0,uyh2fvtr6lb71,6,1,,2,1,0,
+uyh2fvtr6lb71_processed_1,uyh2fvtr6lb71,6,1,,2,1,0,
+uyh2fvtr6lb71_processed_2,uyh2fvtr6lb71,6,1,,2,1,0,
+uyh2fvtr6lb71_processed_3,uyh2fvtr6lb71,6,1,,2,2,0,
+uyh2fvtr6lb71_processed_4,uyh2fvtr6lb71,6,1,,2,2,0,
+uyh2fvtr6lb71_processed_5,uyh2fvtr6lb71,6,1,,2,0,0,
+uypv850e04s61_processed_0,uypv850e04s61,9,1,,2,0,0,
+uypv850e04s61_processed_1,uypv850e04s61,9,1,,2,1,0,
+uypv850e04s61_processed_2,uypv850e04s61,9,1,,2,1,0,
+uypv850e04s61_processed_3,uypv850e04s61,9,1,,2,2,0,
+uypv850e04s61_processed_4,uypv850e04s61,9,1,,2,2,0,
+uypv850e04s61_processed_5,uypv850e04s61,9,1,,2,1,0,
+uypv850e04s61_processed_6,uypv850e04s61,9,1,,2,2,0,
+uypv850e04s61_processed_7,uypv850e04s61,9,1,,2,2,0,
+uypv850e04s61_processed_8,uypv850e04s61,9,1,,2,1,0,
+uzullewafjj51_processed_0,uzullewafjj51,12,1,keyboard keys clacking,1,0,0,
+uzullewafjj51_processed_1,uzullewafjj51,12,1,,1,1,0,
+uzullewafjj51_processed_2,uzullewafjj51,12,1,,1,1,0,
+uzullewafjj51_processed_3,uzullewafjj51,12,1,,1,0,0,
+uzullewafjj51_processed_4,uzullewafjj51,12,1,,1,1,0,
+uzullewafjj51_processed_5,uzullewafjj51,12,1,,1,0,0,
+uzullewafjj51_processed_6,uzullewafjj51,12,1,,1,0,0,
+uzullewafjj51_processed_7,uzullewafjj51,12,1,,1,0,0,
+uzullewafjj51_processed_8,uzullewafjj51,12,1,,1,1,0,
+uzullewafjj51_processed_9,uzullewafjj51,12,1,,1,1,0,
+uzullewafjj51_processed_10,uzullewafjj51,12,1,,1,0,0,
+uzullewafjj51_processed_11,uzullewafjj51,12,1,,1,0,0,
+v1jki6msfys51_processed_0,v1jki6msfys51,4,6,,3,2,1,
+v1jki6msfys51_processed_1,v1jki6msfys51,4,6,,3,2,1,
+v1jki6msfys51_processed_2,v1jki6msfys51,4,6,,3,3,1,
+v3mna3qbpik51_processed_0,v3mna3qbpik51,10,4,,2,2,0,
+v3mna3qbpik51_processed_1,v3mna3qbpik51,10,4,,2,2,0,
+v3mna3qbpik51_processed_2,v3mna3qbpik51,10,4,,2,1,0,
+v3mna3qbpik51_processed_3,v3mna3qbpik51,10,4,,2,2,0,
+v3mna3qbpik51_processed_4,v3mna3qbpik51,10,4,,2,2,0,
+v3mna3qbpik51_processed_5,v3mna3qbpik51,10,4,,2,2,0,
+v3mna3qbpik51_processed_6,v3mna3qbpik51,10,4,,2,2,0,
+v3mna3qbpik51_processed_7,v3mna3qbpik51,10,4,,2,2,0,
+v8qi9j66hoc61_processed_0,v8qi9j66hoc61,6,3,,2,1,0,
+v8qi9j66hoc61_processed_1,v8qi9j66hoc61,6,3,,2,1,0,
+v8qi9j66hoc61_processed_2,v8qi9j66hoc61,6,3,,2,1,0,
+v8qi9j66hoc61_processed_3,v8qi9j66hoc61,6,3,,2,1,0,
+v8qi9j66hoc61_processed_4,v8qi9j66hoc61,6,3,,2,2,0,
+v8qi9j66hoc61_processed_5,v8qi9j66hoc61,6,3,,2,0,0,
+v9wt25xozoa71_processed_0,v9wt25xozoa71,4,1,,1,1,0,man is astonished/excited but detected a bit of sarcasm
+v9wt25xozoa71_processed_1,v9wt25xozoa71,4,1,,1,0,0,
+vax1ehhhpv661_processed_0,vax1ehhhpv661,3,2,,2,2,0,
+vax1ehhhpv661_processed_1,vax1ehhhpv661,3,2,,2,2,0,
+vax1ehhhpv661_processed_2,vax1ehhhpv661,3,2,,2,2,0,
+vbf40hc5l7571_processed_0,vbf40hc5l7571,15,8,,3,2,0,
+vbf40hc5l7571_processed_1,vbf40hc5l7571,15,8,,3,1,0,
+vbf40hc5l7571_processed_3,vbf40hc5l7571,15,8,,3,3,1,
+vbf40hc5l7571_processed_4,vbf40hc5l7571,15,8,,3,1,1,
+vbf40hc5l7571_processed_5,vbf40hc5l7571,15,8,,3,2,1,
+vbf40hc5l7571_processed_6,vbf40hc5l7571,15,8,,3,3,1,
+vbf40hc5l7571_processed_7,vbf40hc5l7571,15,8,,3,3,1,
+vbf40hc5l7571_processed_8,vbf40hc5l7571,15,8,,3,3,1,voices started to get mixed together so it's harder to tell who's talking
+vbf40hc5l7571_processed_9,vbf40hc5l7571,15,8,,3,1,1,
+vbf40hc5l7571_processed_10,vbf40hc5l7571,15,8,,3,2,1,
+vbf40hc5l7571_processed_11,vbf40hc5l7571,15,8,,3,2,1,
+vbf40hc5l7571_processed_12,vbf40hc5l7571,15,8,,3,3,1,
+vbf40hc5l7571_processed_13,vbf40hc5l7571,15,8,,3,3,1,
+vcuqc9cmpyv51_processed_0,vcuqc9cmpyv51,6,4,,3,3,0,
+vcuqc9cmpyv51_processed_1,vcuqc9cmpyv51,6,4,,3,1,0,
+vcuqc9cmpyv51_processed_2,vcuqc9cmpyv51,6,4,,3,2,0,
+vcuqc9cmpyv51_processed_3,vcuqc9cmpyv51,6,4,,3,2,0,
+vcuqc9cmpyv51_processed_4,vcuqc9cmpyv51,6,4,,3,2,0,
+vcuqc9cmpyv51_processed_5,vcuqc9cmpyv51,6,4,,3,3,0,
+vdjq1vb93ky51_processed_0,vdjq1vb93ky51,6,2,,1,0,0,
+vdjq1vb93ky51_processed_3,vdjq1vb93ky51,6,2,,1,1,0,
+vdjq1vb93ky51_processed_4,vdjq1vb93ky51,6,2,,1,1,0,
+vdjq1vb93ky51_processed_5,vdjq1vb93ky51,6,2,,1,1,0,
+vdmtsuj4xqa61_processed_0,vdmtsuj4xqa61,3,4,,3,3,0,
+vdmtsuj4xqa61_processed_1,vdmtsuj4xqa61,3,4,,3,3,0,
+vdmtsuj4xqa61_processed_2,vdmtsuj4xqa61,3,4,,3,1,0,
+vhxb8ug61sa71_processed_0,vhxb8ug61sa71,3,2,cars honking,0,0,1,no talking
+vhxb8ug61sa71_processed_1,vhxb8ug61sa71,3,2,,0,0,1,celebratory shouting
+vhxb8ug61sa71_processed_2,vhxb8ug61sa71,3,2,,0,0,1,
+voljnwtov4c61_processed_0,voljnwtov4c61,6,1,wind blowing into mic,0,0,1,
+voljnwtov4c61_processed_1,voljnwtov4c61,6,1,,0,0,0,no talking here
+voljnwtov4c61_processed_2,voljnwtov4c61,6,1,,0,0,0,
+voljnwtov4c61_processed_3,voljnwtov4c61,6,1,,0,0,0,no talking here
+voljnwtov4c61_processed_4,voljnwtov4c61,6,1,,0,0,0,no talking here
+voljnwtov4c61_processed_5,voljnwtov4c61,6,1,,0,0,0,
+vott23x9fwm51_processed_0,vott23x9fwm51,2,3,,3,3,1,man2 is shouting but not angry
+vott23x9fwm51_processed_1,vott23x9fwm51,2,3,,3,3,1,
+vpt0o111u0c61_processed_0,vpt0o111u0c61,5,2,,2,2,0,
+vpt0o111u0c61_processed_1,vpt0o111u0c61,5,2,,2,1,0,man is being sarcastic
+vpt0o111u0c61_processed_2,vpt0o111u0c61,5,2,,2,1,0,
+vpt0o111u0c61_processed_3,vpt0o111u0c61,5,2,,2,1,0,
+vpt0o111u0c61_processed_4,vpt0o111u0c61,5,2,,2,0,0,
+vqamufx4vmg51_processed_0,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_1,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_2,vqamufx4vmg51,25,4,,2,0,0,
+vqamufx4vmg51_processed_3,vqamufx4vmg51,25,4,announcements over speaker,2,1,1,can't hear man2 properly
+vqamufx4vmg51_processed_4,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_5,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_6,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_7,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_8,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_9,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_10,vqamufx4vmg51,25,4,,2,0,0,
+vqamufx4vmg51_processed_11,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_12,vqamufx4vmg51,25,4,,2,2,0,
+vqamufx4vmg51_processed_13,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_14,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_16,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_17,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_19,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_20,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_21,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_22,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_23,vqamufx4vmg51,25,4,,2,1,0,
+vqamufx4vmg51_processed_24,vqamufx4vmg51,25,4,,2,0,0,
+vsrmdvtogzj51_processed_1,vsrmdvtogzj51,8,5,,3,2,0,
+vsrmdvtogzj51_processed_2,vsrmdvtogzj51,8,5,,3,3,0,
+vsrmdvtogzj51_processed_3,vsrmdvtogzj51,8,5,,3,2,0,
+vsrmdvtogzj51_processed_4,vsrmdvtogzj51,8,5,,3,2,0,can't properly hear what woman is saying
+vsrmdvtogzj51_processed_6,vsrmdvtogzj51,8,5,,3,2,1,
+vsrmdvtogzj51_processed_7,vsrmdvtogzj51,8,5,,3,3,0,
+vv6vetoibk971_processed_0,vv6vetoibk971,4,2,,0,0,1,
+vv6vetoibk971_processed_1,vv6vetoibk971,4,2,,0,0,1,
+vv6vetoibk971_processed_2,vv6vetoibk971,4,2,,0,0,1,
+vv6vetoibk971_processed_3,vv6vetoibk971,4,2,,0,0,1,
+vy20oxtwltz51_processed_0,vy20oxtwltz51,13,6,,3,2,0,
+vy20oxtwltz51_processed_1,vy20oxtwltz51,13,6,,3,2,0,
+vy20oxtwltz51_processed_2,vy20oxtwltz51,13,6,,3,1,0,
+vy20oxtwltz51_processed_3,vy20oxtwltz51,13,6,,3,3,0,
+vy20oxtwltz51_processed_4,vy20oxtwltz51,13,6,,3,2,0,
+vy20oxtwltz51_processed_5,vy20oxtwltz51,13,6,,3,2,0,
+vy20oxtwltz51_processed_6,vy20oxtwltz51,13,6,,3,2,0,
+vy20oxtwltz51_processed_7,vy20oxtwltz51,13,6,,3,2,0,
+vy20oxtwltz51_processed_8,vy20oxtwltz51,13,6,,3,2,0,
+vy20oxtwltz51_processed_9,vy20oxtwltz51,13,6,,3,1,0,woman's voice is muffled
+vy20oxtwltz51_processed_10,vy20oxtwltz51,13,6,,3,1,0,
+vy20oxtwltz51_processed_11,vy20oxtwltz51,13,6,,3,2,0,
+vzzx1nl2jmn61_processed_2,vzzx1nl2jmn61,9,6,,3,3,0,
+vzzx1nl2jmn61_processed_3,vzzx1nl2jmn61,9,6,,3,3,0,
+vzzx1nl2jmn61_processed_6,vzzx1nl2jmn61,9,6,,3,3,0,
+vzzx1nl2jmn61_processed_7,vzzx1nl2jmn61,9,6,,3,2,0,
+vzzx1nl2jmn61_processed_8,vzzx1nl2jmn61,9,6,,3,2,0,
+w9e9hk5ihzp61_processed_0,w9e9hk5ihzp61,4,1,,0,0,1,chanting doesn't sound like English
+w9e9hk5ihzp61_processed_1,w9e9hk5ihzp61,4,1,,0,0,1,
+w9e9hk5ihzp61_processed_2,w9e9hk5ihzp61,4,1,,0,0,1,
+w9e9hk5ihzp61_processed_3,w9e9hk5ihzp61,4,1,,0,0,1,
+waf4r22g3i071_processed_0,waf4r22g3i071,4,1,,2,2,0,
+waf4r22g3i071_processed_1,waf4r22g3i071,4,1,,2,2,0,
+waf4r22g3i071_processed_2,waf4r22g3i071,4,1,,2,2,0,
+waf4r22g3i071_processed_3,waf4r22g3i071,4,1,,2,2,0,woman singing sarcastically
+wh0gap71w1461_processed_0,wh0gap71w1461,7,2,,2,2,0,
+wh0gap71w1461_processed_1,wh0gap71w1461,7,2,,2,2,0,
+wh0gap71w1461_processed_2,wh0gap71w1461,7,2,,2,2,0,
+wh0gap71w1461_processed_3,wh0gap71w1461,7,2,,2,2,0,
+wh0gap71w1461_processed_4,wh0gap71w1461,7,2,,2,2,0,
+wh0gap71w1461_processed_5,wh0gap71w1461,7,2,,2,2,0,
+wh0gap71w1461_processed_6,wh0gap71w1461,7,2,,2,2,0,
+wjha1sf516b71_processed_0,wjha1sf516b71,5,1,music playing,0,0,1,
+wjha1sf516b71_processed_1,wjha1sf516b71,5,1,,0,0,1,
+wjha1sf516b71_processed_2,wjha1sf516b71,5,1,,0,0,1,
+wjha1sf516b71_processed_3,wjha1sf516b71,5,1,,0,0,1,
+wjha1sf516b71_processed_4,wjha1sf516b71,5,1,,0,0,0,nothing here
+wkgibcp6fro51_processed_0,wkgibcp6fro51,5,4,,0,0,1,
+wkgibcp6fro51_processed_1,wkgibcp6fro51,5,4,,0,0,1,
+wkgibcp6fro51_processed_2,wkgibcp6fro51,5,4,,0,0,1,
+wkgibcp6fro51_processed_3,wkgibcp6fro51,5,4,,0,0,1,
+wkgibcp6fro51_processed_4,wkgibcp6fro51,5,4,,0,0,1,
+wocoyi48sgs51_processed_0,wocoyi48sgs51,7,8,,2,1,1,
+wocoyi48sgs51_processed_1,wocoyi48sgs51,7,8,,2,2,0,
+wocoyi48sgs51_processed_2,wocoyi48sgs51,7,8,"crowd, fighting",3,3,0,
+wocoyi48sgs51_processed_3,wocoyi48sgs51,7,8,,3,2,0,
+wocoyi48sgs51_processed_4,wocoyi48sgs51,7,8,"fighting, music",3,2,0,
+wocoyi48sgs51_processed_5,wocoyi48sgs51,7,8,,3,1,0,
+wocoyi48sgs51_processed_6,wocoyi48sgs51,7,8,,3,1,1,
+wspxs1zbhm671_processed_1,wspxs1zbhm671,3,2,,1,1,0,
+wspxs1zbhm671_processed_2,wspxs1zbhm671,3,2,empty audio segment,1,0,1,
+wunn1jjbpu961_processed_0,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_1,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_2,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_3,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_4,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_5,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_6,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_7,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_8,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_9,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_10,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_11,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_12,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_13,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_14,wunn1jjbpu961,16,2,,0,0,0,
+wunn1jjbpu961_processed_15,wunn1jjbpu961,16,2,,0,0,0,
+wunqa6kfsvx51_processed_0,wunqa6kfsvx51,4,5,tv news,0,0,0,
+wunqa6kfsvx51_processed_1,wunqa6kfsvx51,4,5,tv news,0,0,0,
+wunqa6kfsvx51_processed_2,wunqa6kfsvx51,4,5,tv news,0,0,0,
+wunqa6kfsvx51_processed_3,wunqa6kfsvx51,4,5,tv news,0,0,0,
+x705shsub7m61_processed_0,x705shsub7m61,6,1,,1,1,0,
+x705shsub7m61_processed_1,x705shsub7m61,6,1,,1,1,0,
+x705shsub7m61_processed_2,x705shsub7m61,6,1,,1,1,0,
+x705shsub7m61_processed_3,x705shsub7m61,6,1,,1,0,0,
+x705shsub7m61_processed_4,x705shsub7m61,6,1,,1,0,0,
+x705shsub7m61_processed_5,x705shsub7m61,6,1,,1,0,0,
+x9i397iuxh971_processed_0,x9i397iuxh971,2,3,blast,2,2,0,
+xan1gwbxrwc61_processed_0,xan1gwbxrwc61,5,2,,0,0,0,
+xan1gwbxrwc61_processed_1,xan1gwbxrwc61,5,2,crying,0,0,0,
+xan1gwbxrwc61_processed_2,xan1gwbxrwc61,5,2,,0,0,0,
+xan1gwbxrwc61_processed_3,xan1gwbxrwc61,5,2,crying,0,0,0,
+xan1gwbxrwc61_processed_4,xan1gwbxrwc61,5,2,,0,0,0,
+xbw64yf04th51_processed_1,xbw64yf04th51,9,2,sound effects,1,1,0,
+xbw64yf04th51_processed_3,xbw64yf04th51,9,2,sound effects,1,1,0,
+xbw64yf04th51_processed_5,xbw64yf04th51,9,2,sound effects,1,0,0,
+xbw64yf04th51_processed_6,xbw64yf04th51,9,2,,1,0,0,
+xbw64yf04th51_processed_7,xbw64yf04th51,9,2,,1,0,1,
+xbw64yf04th51_processed_8,xbw64yf04th51,9,2,,1,0,0,
+xc76oggvh2471_processed_0,xc76oggvh2471,7,2,,1,1,0,
+xc76oggvh2471_processed_2,xc76oggvh2471,7,2,,1,1,0,
+xc76oggvh2471_processed_4,xc76oggvh2471,7,2,,1,1,0,
+xda96lajcd871_processed_0,xda96lajcd871,3,9999,music,0,0,1,
+xda96lajcd871_processed_1,xda96lajcd871,3,9999,music,0,0,1,
+xda96lajcd871_processed_2,xda96lajcd871,3,9999,music,0,0,1,
+xdz15thrnem51_processed_0,xdz15thrnem51,14,7,,2,1,0,
+xdz15thrnem51_processed_3,xdz15thrnem51,14,7,,2,1,0,
+xdz15thrnem51_processed_5,xdz15thrnem51,14,7,,2,1,0,
+xdz15thrnem51_processed_6,xdz15thrnem51,14,7,,2,2,0,
+xdz15thrnem51_processed_7,xdz15thrnem51,14,7,,2,1,0,
+xdz15thrnem51_processed_8,xdz15thrnem51,14,7,cops,2,2,0,
+xdz15thrnem51_processed_9,xdz15thrnem51,14,7,,2,1,0,
+xdz15thrnem51_processed_11,xdz15thrnem51,14,7,cops,2,2,0,
+xdz15thrnem51_processed_12,xdz15thrnem51,14,7,cops,2,1,0,
+xdz15thrnem51_processed_13,xdz15thrnem51,14,7,cops,2,2,0,
