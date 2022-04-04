@@ -1,0 +1,306 @@
+---
+title: "affective-anovas"
+author: "Paige Tuttosi"
+date: '2022-04-04'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r cars}
+library(ggplot2)
+library(ggpubr)
+library(tidyverse)
+library(broom)
+library(AICcmodavg)
+```
+
+## Setup Data
+
+Load data
+
+```{r}
+data <- read.csv("./extracted/preprocessed_data_full.csv", header = TRUE, colClasses = c("numeric", "numeric","numeric","numeric","numeric","numeric","numeric","numeric","numeric","numeric", "factor", "factor"))
+```
+
+```{r}
+summary(data)
+```
+
+
+## Parent Label Anova- All Data
+
+```{r}
+energy_anova_parent <- aov( get_energy ~ parent_label, data = data)
+
+summary(energy_anova_parent)
+```
+
+```{r}
+harmonics_anova_parent <- aov(analyse_harmonics ~ parent_label , data = data)
+
+summary(harmonics_anova_parent)
+```
+```{r}
+max_intensity_anova_parent <- aov(get_max_intensity ~ parent_label , data = data)
+
+summary(max_intensity_anova_parent)
+```
+
+```{r}
+intensity_anova_parent <- aov(analyse_intensity ~ parent_label , data = data)
+
+summary(intensity_anova_parent)
+```
+
+```{r}
+pitch_anova_parent <- aov(analyse_pitch ~ parent_label , data = data)
+
+summary(pitch_anova_parent)
+```
+
+
+```{r}
+pitch_range_anova_parent <- aov(analyse_pitch_range ~ parent_label , data = data)
+
+summary(pitch_range_anova_parent)
+```
+
+```{r}
+jitter_anova_parent <- aov(analyse_jitter ~ parent_label , data = data)
+
+summary(jitter_anova_parent)
+```
+
+```{r}
+shimmer_anova_parent <- aov(analyse_shimmer ~ parent_label , data = data)
+
+summary(shimmer_anova_parent)
+```
+
+```{r}
+spectral_slope_anova_parent <- aov(spectral_slope ~ parent_label , data = data)
+
+summary(spectral_slope_anova_parent)
+```
+
+```{r}
+spectral_rolloff_anova_parent <- aov(mean_spectral_rolloff ~ parent_label , data = data)
+
+summary(spectral_rolloff_anova_parent)
+```
+
+## Segment Label Anova- All Data
+
+```{r}
+energy_anova_segment <- aov( get_energy ~ segment_label, data = data)
+
+summary(energy_anova_segment)
+```
+
+```{r}
+harmonics_anova_segment <- aov(analyse_harmonics ~ segment_label , data = data)
+
+summary(harmonics_anova_segment)
+```
+
+```{r}
+max_intensity_anova_segment <- aov(get_max_intensity ~ segment_label , data = data)
+
+summary(max_intensity_anova_segment)
+```
+```{r}
+intensity_anova_segment <- aov(analyse_intensity ~ segment_label , data = data)
+
+summary(intensity_anova_segment)
+```
+
+```{r}
+pitch_anova_segment <- aov(analyse_pitch ~ segment_label , data = data)
+
+summary(pitch_anova_segment)
+```
+
+
+```{r}
+pitch_range_anova_segment <- aov(analyse_pitch_range ~ segment_label , data = data)
+
+summary(pitch_range_anova_segment)
+```
+
+```{r}
+jitter_anova_segment <- aov(analyse_jitter ~ segment_label , data = data)
+
+summary(jitter_anova_segment)
+```
+
+```{r}
+shimmer_anova_segment <- aov(analyse_shimmer ~ segment_label , data = data)
+
+summary(shimmer_anova_segment)
+```
+
+```{r}
+spectral_slope_anova_segment <- aov(spectral_slope ~ segment_label , data = data)
+
+summary(spectral_slope_anova_segment)
+```
+
+```{r}
+spectral_rolloff_anova_segment <- aov(mean_spectral_rolloff ~ segment_label , data = data)
+
+summary(spectral_rolloff_anova_segment)
+```
+
+## Post hoc Tukey Parent Label - All data
+
+```{r}
+energy_tukey_parent <- TukeyHSD( energy_anova_parent)
+
+energy_tukey_parent
+
+plot(energy_tukey_parent, las = 1)
+```
+
+```{r}
+harmonics_tukey_parent <- TukeyHSD( harmonics_anova_parent)
+
+harmonics_tukey_parent
+
+plot(harmonics_tukey_parent, las = 1)
+```
+
+```{r}
+max_intensity_tukey_parent <- TukeyHSD( max_intensity_anova_parent)
+
+max_intensity_tukey_parent
+plot(max_intensity_tukey_parent,las = 1)
+```
+
+```{r}
+intensity_tukey_parent <- TukeyHSD( intensity_anova_parent)
+
+intensity_tukey_parent
+plot(intensity_tukey_parent, las = 1)
+```
+
+```{r}
+pitch_tukey_parent <- TukeyHSD( pitch_anova_parent)
+
+pitch_tukey_parent
+plot(pitch_tukey_parent, las = 1)
+```
+
+
+```{r}
+pitch_range_tukey_parent <- TukeyHSD( pitch_range_anova_parent)
+
+pitch_range_tukey_parent
+plot(pitch_range_tukey_parent, las = 1)
+```
+
+```{r}
+jitter_tukey_parent <- TukeyHSD( jitter_anova_parent)
+
+jitter_tukey_parent
+plot(jitter_tukey_parent, las = 1)
+```
+
+```{r}
+shimmer_tukey_parent <- TukeyHSD( shimmer_anova_parent)
+
+shimmer_tukey_parent
+plot(shimmer_tukey_parent, las = 1)
+```
+
+```{r}
+spectral_slope_tukey_parent <- TukeyHSD( spectral_slope_anova_parent)
+
+spectral_slope_tukey_parent
+plot(spectral_slope_tukey_parent, las = 1)
+```
+
+```{r}
+spectral_rolloff_tukey_parent <- TukeyHSD( spectral_rolloff_anova_parent)
+
+spectral_rolloff_tukey_parent
+plot(spectral_rolloff_tukey_parent, las = 1)
+```
+
+## Post hoc Tukey Segment Label - All data
+
+```{r}
+energy_tukey_segment <- TukeyHSD( energy_anova_segment)
+
+energy_tukey_segment
+
+plot(energy_tukey_segment, las = 1)
+```
+
+```{r}
+harmonics_tukey_segment <- TukeyHSD( harmonics_anova_segment)
+
+harmonics_tukey_segment
+
+plot(harmonics_tukey_segment, las = 1)
+```
+
+```{r}
+max_intensity_tukey_segment <- TukeyHSD( max_intensity_anova_segment)
+
+max_intensity_tukey_segment
+plot(max_intensity_tukey_segment,las = 1)
+```
+
+```{r}
+intensity_tukey_segment <- TukeyHSD( intensity_anova_segment)
+
+intensity_tukey_segment
+plot(intensity_tukey_segment, las = 1)
+```
+
+```{r}
+pitch_tukey_segment <- TukeyHSD( pitch_anova_segment)
+
+pitch_tukey_segment
+plot(pitch_tukey_segment, las = 1)
+```
+
+
+```{r}
+pitch_range_tukey_segment <- TukeyHSD( pitch_range_anova_segment)
+
+pitch_range_tukey_segment
+plot(pitch_range_tukey_segment, las = 1)
+```
+
+```{r}
+jitter_tukey_segment <- TukeyHSD( jitter_anova_segment)
+
+jitter_tukey_segment
+plot(jitter_tukey_segment, las = 1)
+```
+
+```{r}
+shimmer_tukey_segment <- TukeyHSD( shimmer_anova_segment)
+
+shimmer_tukey_segment
+plot(shimmer_tukey_segment, las = 1)
+```
+
+```{r}
+spectral_slope_tukey_segment <- TukeyHSD( spectral_slope_anova_segment)
+
+spectral_slope_tukey_segment
+plot(spectral_slope_tukey_segment, las = 1)
+```
+
+```{r}
+spectral_rolloff_tukey_segment <- TukeyHSD( spectral_rolloff_anova_segment)
+
+spectral_rolloff_tukey_segment
+plot(spectral_rolloff_tukey_segment, las = 1)
+```
