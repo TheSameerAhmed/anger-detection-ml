@@ -23,7 +23,7 @@ library(AICcmodavg)
 Load data
 
 ```{r}
-data <- read.csv("./extracted/preprocessed_data_full.csv", header = TRUE, colClasses = c("numeric", "numeric","numeric","numeric","numeric","numeric","numeric","numeric","numeric","numeric", "factor", "factor"))
+data <- read.csv("./extracted/preprocessed_data_full.csv", header = TRUE, colClasses = c("numeric", "numeric","numeric","numeric","numeric","numeric","numeric","numeric","numeric","numeric", "factor", "factor", "factor"))
 ```
 
 ```{r}
@@ -303,4 +303,275 @@ spectral_rolloff_tukey_segment <- TukeyHSD( spectral_rolloff_anova_segment)
 
 spectral_rolloff_tukey_segment
 plot(spectral_rolloff_tukey_segment, las = 1)
+```
+
+
+We will only worry about segment labels to explore the differences between Noisy and non Noisy data, this is because we will be predicting based on segment labels, this is what a single feature related to, a parent label is simply the max of all it's segments
+
+
+## Segment Label Anova- Non-Noisy Data
+
+Get non noisy data
+
+```{r}
+non_noisy <- data[data$noisy==0,]
+```
+
+```{r}
+energy_anova_segment_non_noisy <- aov( get_energy ~ segment_label, data = non_noisy)
+
+summary(energy_anova_segment_non_noisy)
+```
+
+```{r}
+harmonics_anova_segment_non_noisy <- aov(analyse_harmonics ~ segment_label , data = non_noisy)
+
+summary(harmonics_anova_segment_non_noisy)
+```
+
+```{r}
+max_intensity_anova_segment_non_noisy <- aov(get_max_intensity ~ segment_label , data = non_noisy)
+
+summary(max_intensity_anova_segment_non_noisy)
+```
+
+```{r}
+intensity_anova_segment_non_noisy <- aov(analyse_intensity ~ segment_label , data = non_noisy)
+
+summary(intensity_anova_segment_non_noisy)
+```
+
+```{r}
+pitch_anova_segment_non_noisy <- aov(analyse_pitch ~ segment_label , data = non_noisy)
+
+summary(pitch_anova_segment_non_noisy)
+```
+
+
+```{r}
+pitch_range_anova_segment_non_noisy <- aov(analyse_pitch_range ~ segment_label , data = non_noisy)
+
+summary(pitch_range_anova_segment_non_noisy)
+```
+
+```{r}
+jitter_anova_segment_non_noisy <- aov(analyse_jitter ~ segment_label , data = non_noisy)
+
+summary(jitter_anova_segment_non_noisy)
+```
+
+```{r}
+shimmer_anova_segment_non_noisy <- aov(analyse_shimmer ~ segment_label , data = non_noisy)
+
+summary(shimmer_anova_segment_non_noisy)
+```
+
+```{r}
+spectral_slope_anova_segment_non_noisy <- aov(spectral_slope ~ segment_label , data = non_noisy)
+
+summary(spectral_slope_anova_segment_non_noisy)
+```
+
+```{r}
+spectral_rolloff_anova_segment_non_noisy <- aov(mean_spectral_rolloff ~ segment_label , data = non_noisy)
+
+summary(spectral_rolloff_anova_segment_non_noisy)
+```
+
+## Post hoc Tukey Segment Label - Non-Noisy
+
+```{r}
+energy_tukey_segment_non_noisy <- TukeyHSD( energy_anova_segment_non_noisy)
+
+energy_tukey_segment_non_noisy
+
+plot(energy_tukey_segment_non_noisy, las = 1)
+```
+
+```{r}
+harmonics_tukey_segment_non_noisy <- TukeyHSD( harmonics_anova_segment_non_noisy)
+
+harmonics_tukey_segment_non_noisy
+
+plot(harmonics_tukey_segment_non_noisy, las = 1)
+```
+
+```{r}
+max_intensity_tukey_segment_non_noisy <- TukeyHSD( max_intensity_anova_segment_non_noisy)
+
+max_intensity_tukey_segment_non_noisy
+plot(max_intensity_tukey_segment_non_noisy,las = 1)
+```
+
+```{r}
+intensity_tukey_segment_non_noisy <- TukeyHSD( intensity_anova_segment_non_noisy)
+
+intensity_tukey_segment_non_noisy
+plot(intensity_tukey_segment_non_noisy, las = 1)
+```
+
+```{r}
+pitch_tukey_segment_non_noisy <- TukeyHSD( pitch_anova_segment_non_noisy)
+
+pitch_tukey_segment_non_noisy
+plot(pitch_tukey_segment_non_noisy, las = 1)
+```
+
+
+```{r}
+pitch_range_tukey_segment_non_noisy <- TukeyHSD( pitch_range_anova_segment_non_noisy)
+
+pitch_range_tukey_segment_non_noisy
+plot(pitch_range_tukey_segment_non_noisy, las = 1)
+```
+
+```{r}
+jitter_tukey_segment_non_noisy <- TukeyHSD( jitter_anova_segment_non_noisy)
+
+jitter_tukey_segment_non_noisy
+plot(jitter_tukey_segment_non_noisy, las = 1)
+```
+
+```{r}
+shimmer_tukey_segment_non_noisy <- TukeyHSD( shimmer_anova_segment_non_noisy)
+
+shimmer_tukey_segment_non_noisy
+plot(shimmer_tukey_segment_non_noisy, las = 1)
+```
+
+```{r}
+spectral_slope_tukey_segment_non_noisy <- TukeyHSD( spectral_slope_anova_segment_non_noisy)
+
+spectral_slope_tukey_segment_non_noisy
+plot(spectral_slope_tukey_segment_non_noisy, las = 1)
+```
+
+```{r}
+spectral_rolloff_tukey_segment_non_noisy <- TukeyHSD( spectral_rolloff_anova_segment_non_noisy)
+
+spectral_rolloff_tukey_segment_non_noisy
+plot(spectral_rolloff_tukey_segment_non_noisy, las = 1)
+```
+
+## Segment Label Anova- Noisy Data
+
+Get noisy data
+
+```{r}
+noisy <- data[data$noisy==1,]
+```
+
+```{r}
+energy_anova_segment_noisy <- aov( get_energy ~ segment_label, data = noisy)
+
+summary(energy_anova_segment_noisy)
+```
+
+```{r}
+harmonics_anova_segment_noisy <- aov(analyse_harmonics ~ segment_label , data = noisy)
+
+summary(harmonics_anova_segment_noisy)
+```
+
+```{r}
+max_intensity_anova_segment_noisy <- aov(get_max_intensity ~ segment_label , data = noisy)
+
+summary(max_intensity_anova_segment_noisy)
+```
+
+```{r}
+intensity_anova_segment_noisy <- aov(analyse_intensity ~ segment_label , data = noisy)
+
+summary(intensity_anova_segment_noisy)
+```
+
+```{r}
+pitch_anova_segment_noisy <- aov(analyse_pitch ~ segment_label , data = noisy)
+
+summary(pitch_anova_segment_noisy)
+```
+
+
+```{r}
+pitch_range_anova_segment_noisy <- aov(analyse_pitch_range ~ segment_label , data = noisy)
+
+summary(pitch_range_anova_segment_noisy)
+```
+
+```{r}
+jitter_anova_segment_noisy <- aov(analyse_jitter ~ segment_label , data = noisy)
+
+summary(jitter_anova_segment_noisy)
+```
+
+```{r}
+shimmer_anova_segment_noisy <- aov(analyse_shimmer ~ segment_label , data = noisy)
+
+summary(shimmer_anova_segment_noisy)
+```
+
+```{r}
+spectral_slope_anova_segment_noisy <- aov(spectral_slope ~ segment_label , data = noisy)
+
+summary(spectral_slope_anova_segment_noisy)
+```
+
+```{r}
+spectral_rolloff_anova_segment_noisy <- aov(mean_spectral_rolloff ~ segment_label , data = noisy)
+
+summary(spectral_rolloff_anova_segment_noisy)
+```
+
+## Post hoc Tukey Segment Label - Noisy data
+
+
+```{r}
+harmonics_tukey_segment_noisy <- TukeyHSD( harmonics_anova_segment_noisy)
+
+harmonics_tukey_segment_noisy
+
+plot(harmonics_tukey_segment_noisy, las = 1)
+```
+
+```{r}
+pitch_tukey_segment_noisy <- TukeyHSD( pitch_anova_segment_noisy)
+
+pitch_tukey_segment_noisy
+plot(pitch_tukey_segment_noisy, las = 1)
+```
+
+
+```{r}
+pitch_range_tukey_segment_noisy <- TukeyHSD( pitch_range_anova_segment_noisy)
+
+pitch_range_tukey_segment_noisy
+plot(pitch_range_tukey_segment_noisy, las = 1)
+```
+
+```{r}
+jitter_tukey_segment_noisy <- TukeyHSD( jitter_anova_segment_noisy)
+
+jitter_tukey_segment_noisy
+plot(jitter_tukey_segment_noisy, las = 1)
+```
+
+```{r}
+shimmer_tukey_segment_noisy <- TukeyHSD( shimmer_anova_segment_noisy)
+
+shimmer_tukey_segment_noisy
+plot(shimmer_tukey_segment_noisy, las = 1)
+```
+
+```{r}
+spectral_slope_tukey_segment_noisy <- TukeyHSD( spectral_slope_anova_segment_noisy)
+
+spectral_slope_tukey_segment_noisy
+plot(spectral_slope_tukey_segment_noisy, las = 1)
+```
+
+```{r}
+spectral_rolloff_tukey_segment_noisy <- TukeyHSD( spectral_rolloff_anova_segment_noisy)
+
+spectral_rolloff_tukey_segment_noisy
+plot(spectral_rolloff_tukey_segment_noisy, las = 1)
 ```
