@@ -319,63 +319,87 @@ non_noisy <- data[data$noisy==0,]
 
 ```{r}
 energy_anova_segment_non_noisy <- aov( get_energy ~ segment_label, data = non_noisy)
-
-summary(energy_anova_segment_non_noisy)
+energy_anova_segment_non_noisy <- data.frame(unclass(summary(energy_anova_segment_non_noisy)))[1,]
+energy_anova_segment_non_noisy
 ```
 
 ```{r}
 harmonics_anova_segment_non_noisy <- aov(analyse_harmonics ~ segment_label , data = non_noisy)
-
+harmonics_anova_segment_non_noisy <-  data.frame(unclass(summary(harmonics_anova_segment_non_noisy)))[1,]
 summary(harmonics_anova_segment_non_noisy)
 ```
 
 ```{r}
 max_intensity_anova_segment_non_noisy <- aov(get_max_intensity ~ segment_label , data = non_noisy)
-
+max_intensity_anova_segment_non_noisy <- data.frame(unclass(summary(max_intensity_anova_segment_non_noisy)))[1,]
 summary(max_intensity_anova_segment_non_noisy)
 ```
 
 ```{r}
 intensity_anova_segment_non_noisy <- aov(analyse_intensity ~ segment_label , data = non_noisy)
-
+intensity_anova_segment_non_noisy <- data.frame(unclass(summary(intensity_anova_segment_non_noisy)))[1,]
 summary(intensity_anova_segment_non_noisy)
 ```
 
 ```{r}
 pitch_anova_segment_non_noisy <- aov(analyse_pitch ~ segment_label , data = non_noisy)
-
+pitch_anova_segment_non_noisy <- data.frame(unclass(summary(pitch_anova_segment_non_noisy)))[1,]
 summary(pitch_anova_segment_non_noisy)
 ```
 
 
 ```{r}
 pitch_range_anova_segment_non_noisy <- aov(analyse_pitch_range ~ segment_label , data = non_noisy)
-
+pitch_range_anova_segment_non_noisy <- data.frame(unclass(summary(pitch_range_anova_segment_non_noisy)))[1,]
 summary(pitch_range_anova_segment_non_noisy)
 ```
 
 ```{r}
 jitter_anova_segment_non_noisy <- aov(analyse_jitter ~ segment_label , data = non_noisy)
-
+jitter_anova_segment_non_noisy <- data.frame(unclass(summary(jitter_anova_segment_non_noisy)))[1,]
 summary(jitter_anova_segment_non_noisy)
 ```
 
 ```{r}
 shimmer_anova_segment_non_noisy <- aov(analyse_shimmer ~ segment_label , data = non_noisy)
-
+shimmer_anova_segment_non_noisy <- data.frame(unclass(summary(shimmer_anova_segment_non_noisy)))[1,]
 summary(shimmer_anova_segment_non_noisy)
 ```
 
 ```{r}
 spectral_slope_anova_segment_non_noisy <- aov(spectral_slope ~ segment_label , data = non_noisy)
-
+spectral_slope_anova_segment_non_noisy <- data.frame(unclass(summary(spectral_slope_anova_segment_non_noisy)))[1,]
 summary(spectral_slope_anova_segment_non_noisy)
 ```
 
 ```{r}
 spectral_rolloff_anova_segment_non_noisy <- aov(mean_spectral_rolloff ~ segment_label , data = non_noisy)
-
+spectral_rolloff_anova_segment_non_noisy <- data.frame(unclass(summary(spectral_rolloff_anova_segment_non_noisy)))[1,]
 summary(spectral_rolloff_anova_segment_non_noisy)
+```
+```{r}
+# Putting all into one dataframe/table
+anova_results <- data.frame(rbind(energy_anova_segment_non_noisy, harmonics_anova_segment_non_noisy, max_intensity_anova_segment_non_noisy, intensity_anova_segment_non_noisy, pitch_anova_segment_non_noisy, pitch_range_anova_segment_non_noisy,jitter_anova_segment_non_noisy, shimmer_anova_segment_non_noisy, spectral_slope_anova_segment_non_noisy, spectral_rolloff_anova_segment_non_noisy))
+anova_results$Pr..F. <- "< .001***"
+row.names(anova_results) <- NULL
+anova_results <- cbind(a = "", anova_results)
+colnames(anova_results) <- c("", "Df", "Sum sq", "Mean sq", "F-Stat", "P-value")
+
+
+# create HTML table using kableExtra
+library(kableExtra)
+anova_results %>% kable("html", digits=2) %>% 
+  kable_styling(bootstrap_options = "striped", full_width = F) %>% 
+  pack_rows(., "Energy",1,1) %>% # groups rows with label
+  pack_rows(., "Harmonics", 2,2) %>% # groups rows with label
+  pack_rows(., "Max Intensity", 3,3) %>% # groups rows with label
+  pack_rows(., "Intensity", 4,4) %>% # groups rows with label
+  pack_rows(., "Pitch", 5,5) %>% # groups rows with label
+  pack_rows(., "Pitch Range",6,6) %>% # groups rows with label
+  pack_rows(., "Jitter", 7,7) %>% # groups rows with label
+  pack_rows(., "Shimmer", 8,8) %>% # groups rows with label
+  pack_rows(., "Spectral Slope", 9,9) %>% # groups rows with label
+  pack_rows(., "Spectral Rolloff", 10,10)
 ```
 
 ## Post hoc Tukey Segment Label - Non-Noisy
@@ -463,65 +487,89 @@ noisy <- data[data$noisy==1,]
 
 ```{r}
 energy_anova_segment_noisy <- aov( get_energy ~ segment_label, data = noisy)
-
+energy_anova_segment_noisy <- data.frame(unclass(summary(energy_anova_segment_noisy)))[1,]
 summary(energy_anova_segment_noisy)
 ```
 
 ```{r}
 harmonics_anova_segment_noisy <- aov(analyse_harmonics ~ segment_label , data = noisy)
-
+harmonics_anova_segment_noisy <- data.frame(unclass(summary(harmonics_anova_segment_noisy)))[1,]
 summary(harmonics_anova_segment_noisy)
 ```
 
 ```{r}
 max_intensity_anova_segment_noisy <- aov(get_max_intensity ~ segment_label , data = noisy)
-
+max_intensity_anova_segment_noisy <- data.frame(unclass(summary(max_intensity_anova_segment_noisy)))[1,]
 summary(max_intensity_anova_segment_noisy)
 ```
 
 ```{r}
 intensity_anova_segment_noisy <- aov(analyse_intensity ~ segment_label , data = noisy)
-
+intensity_anova_segment_noisy <- data.frame(unclass(summary(intensity_anova_segment_noisy)))[1,]
 summary(intensity_anova_segment_noisy)
 ```
 
 ```{r}
 pitch_anova_segment_noisy <- aov(analyse_pitch ~ segment_label , data = noisy)
-
+pitch_anova_segment_noisy <- data.frame(unclass(summary(pitch_anova_segment_noisy)))[1,]
 summary(pitch_anova_segment_noisy)
 ```
 
 
 ```{r}
 pitch_range_anova_segment_noisy <- aov(analyse_pitch_range ~ segment_label , data = noisy)
-
+pitch_range_anova_segment_noisy <- data.frame(unclass(summary(pitch_range_anova_segment_noisy)))[1,]
 summary(pitch_range_anova_segment_noisy)
 ```
 
 ```{r}
 jitter_anova_segment_noisy <- aov(analyse_jitter ~ segment_label , data = noisy)
-
+jitter_anova_segment_noisy <- data.frame(unclass(summary(jitter_anova_segment_noisy)))[1,]
 summary(jitter_anova_segment_noisy)
 ```
 
 ```{r}
 shimmer_anova_segment_noisy <- aov(analyse_shimmer ~ segment_label , data = noisy)
-
+shimmer_anova_segment_noisy <- data.frame(unclass(summary(shimmer_anova_segment_noisy)))[1,]
 summary(shimmer_anova_segment_noisy)
 ```
 
 ```{r}
 spectral_slope_anova_segment_noisy <- aov(spectral_slope ~ segment_label , data = noisy)
-
+spectral_slope_anova_segment_noisy <- data.frame(unclass(summary(spectral_slope_anova_segment_noisy)))[1,]
 summary(spectral_slope_anova_segment_noisy)
 ```
 
 ```{r}
 spectral_rolloff_anova_segment_noisy <- aov(mean_spectral_rolloff ~ segment_label , data = noisy)
-
+spectral_rolloff_anova_segment_noisy <- data.frame(unclass(summary(spectral_rolloff_anova_segment_noisy)))[1,]
 summary(spectral_rolloff_anova_segment_noisy)
 ```
 
+```{r}
+# Putting all into one dataframe/table
+anova_results <- data.frame(rbind(energy_anova_segment_noisy, harmonics_anova_segment_noisy, max_intensity_anova_segment_noisy, intensity_anova_segment_noisy, pitch_anova_segment_noisy, pitch_range_anova_segment_noisy,jitter_anova_segment_noisy, shimmer_anova_segment_noisy, spectral_slope_anova_segment_noisy, spectral_rolloff_anova_segment_noisy))
+anova_results$Pr..F. <- c( ".16", "< .001***", ".97", ".28", "< .001***", "< .001***", "< .001***", ".01**", ".04*", "< .001***" )
+row.names(anova_results) <- NULL
+anova_results <- cbind(a = "", anova_results)
+colnames(anova_results) <- c("", "Df", "Sum sq", "Mean sq", "F-Stat", "P-value")
+
+
+# create HTML table using kableExtra
+library(kableExtra)
+anova_results %>% kable("html", digits=2) %>% 
+  kable_styling(bootstrap_options = "striped", full_width = F) %>% 
+  pack_rows(., "Energy",1,1) %>% # groups rows with label
+  pack_rows(., "Harmonics", 2,2) %>% # groups rows with label
+  pack_rows(., "Max Intensity", 3,3) %>% # groups rows with label
+  pack_rows(., "Intensity", 4,4) %>% # groups rows with label
+  pack_rows(., "Pitch", 5,5) %>% # groups rows with label
+  pack_rows(., "Pitch Range",6,6) %>% # groups rows with label
+  pack_rows(., "Jitter", 7,7) %>% # groups rows with label
+  pack_rows(., "Shimmer", 8,8) %>% # groups rows with label
+  pack_rows(., "Spectral Slope", 9,9) %>% # groups rows with label
+  pack_rows(., "Spectral Rolloff", 10,10)
+```
 ## Post hoc Tukey Segment Label - Noisy data
 
 
