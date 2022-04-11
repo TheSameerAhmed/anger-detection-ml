@@ -5,6 +5,12 @@ date: '2022-04-04'
 output: html_document
 ---
 
+
+##########################################################
+Here we look at which features are signifigantly different between agression levels by Segment
+and parent label for all dat as well as only noisy and only non-noisy
+##########################################################
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
