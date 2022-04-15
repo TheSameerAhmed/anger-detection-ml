@@ -43,17 +43,8 @@ This repository classifies aggressive speech using supervised machine learning. 
 - The above distinction between the groups was done primarily to explore potential hidden patters that could aid us to devise a more robust classifciation model.
 - Lastly, our collected audio files from the subreddit are of varying lengths because of the inherent nature of in-the-wild data. Therefore, a particular `parent` audio file has been further divided into 10 second `segments` of the parent file.
 - Participants were made to label only segment files as `segment_label` and the maximum `segment_label` was annotated to the `parent_label`.
-- **Consequently, in many parts of our N
-otebooks you will notice analysis being done on both `parent` and `segment`. Once again, this was done to achieve a more robust classification model.**  
+- **Consequently, in many parts of our Notebooks you will notice analysis being done on both `parent` and `segment`. Once again, this was done to achieve a more robust classification model.**  
 
- <details>
-
- <summary>Sample audio files</summary>
-
-Here are a sample of a few audio clips that our participants labelled.
-INSERT 5-6 AUDIO FILES
-
- </details>
 
 ## Instructions to run code :running: :running:
 
