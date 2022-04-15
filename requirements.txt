@@ -13,3 +13,4 @@ plotly
 yellowbrick
 matplot
 xgboost
+openpyxl
