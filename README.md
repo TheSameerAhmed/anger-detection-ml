@@ -12,7 +12,20 @@ This repository classifies aggressive speech using supervised machine learning. 
 6. [visualizations.ipynb](visualizations.ipynb) helps to determine the relavant feature set for our machine learning models. :bar_chart:
 7. Lastly, the [voice_toolbox](voice_toolbox) contains all the code used in this project to extract the features from the audio files.
 
-## Structure of the data
+ <details>
+
+ <summary>ML Algortihms used in the Jupyter Notebooks</summary>
+
+| Jupyte Notebook      | Running time*  |
+| -------------------- | -------------- |
+| clustering.ipynb     | Principal Componenet Analysis, KMeans       |
+| modelling.ipynb      |  Supoprt Vector Machines, Decision Tree, Random Forest, XG Boost, Gradient Boost, k-nearest neighbors, Adaptive Boosting     |
+| IOE_script.ipynb     |    Cohen Kappa |
+
+
+ </details>
+
+## Structure of the data :bar_chart:
 
 - Labelling of the audio files is based on the labels below:
     - 0 = no aggression
@@ -33,11 +46,21 @@ This repository classifies aggressive speech using supervised machine learning. 
 - **Consequently, in many parts of our N
 otebooks you will notice analysis being done on both `parent` and `segment`. Once again, this was done to achieve a more robust classification model.**  
 
-## Instructions to run code
+ <details>
 
-1. All our Jupyter Notebooks have been designed such that the notebooks can simply be run by a `Run All` command in your respective IDEs to run all the code blocks sequentially.
-2. Various packages can either be installed by running the very first `Installing Packages` by uncommenting the code in those code cells.
-3. Alternatively, the packages can also be installed by the following command given pip is already installed in the machine running the code:
+ <summary>Sample audio files</summary>
+
+Here are a sample of a few audio clips that our participants labelled.
+INSERT 5-6 AUDIO FILES
+
+ </details>
+
+## Instructions to run code :running: :running:
+
+1. All our Jupyter Notebooks (except remove_invalid.ipynb) have been designed such that the notebooks can simply be run by a `Run All` command in your respective IDEs to run all the code blocks sequentially.
+2. [modelling/modelling.ipynb](modelling/modelling.ipynb) should be run if you are solely interested in our final classification model.
+3. Various packages can either be installed by running the very first `Install Packages` code block by **uncommenting** the code in those code cells.
+4. Alternatively, the packages can also be installed by the following command given `pip` is already installed in the machine running the code:
 ```
 pip install -r requriements.txt
 ```
@@ -46,9 +69,37 @@ pip install -r requriements.txt
 
  <summary><strong>Running times for the Jupyter Notebooks</strong></summary>
   
-| Jupyte Notebook      | Running time* |
-| -------------------- | ------------  |
-| clustering.ipynb     |    ~ 10s      |
-| Paragraph   | Text        |
+| Jupyte Notebook      | Running time*                                      |
+| -------------------- | -------------------------------------------------- |
+| clustering.ipynb     |    ~ 10s                                           |
+| modelling.ipynb      |    ~ 120s                                          |
+| IOE_script.ipynb     |    ~ 60s                                           |
+| visualizations.ipynb |    ~ 50s                                           |
+| remove_invalid.ipynb | cannot be run (read special considerations below)  |
 
 *time does not include time taken to install packages i.e. runing the `Installing Packages` code block
+
+</details>
+
+
+## Special Considerations
+
+1. The `remove_invalid.ipynb` notebook cannot be run by simply cloning this repo.
+    - Since, this notebook looks to remove audio files from our dataset that have a low agreement in terms of labelling between our participants. Due to size limitations imposed on GitHub repositories we cannot upload all our data (audio files worth `10GB`+ in total)
+2. `modelling.ipynb` contains certain hyperparameter tuning code blocks that have been intentionally commented out. This is done so that the notebook can be run within a reasonable amount of time. 
+    - Not commenting those hyperparameter tuning code block leads the total time taken to run the notebook to over 8 hours.
+3. Radar plot in `visualizations.ipynb` require a cerain version of plotly or else the packages run into a dependency problem. We recommend uncommenting the code block in `visualizations.ipynb` to `Install Packages`, particularly the last comment in that code. 
+    - Alternatively, you can run the following `pip` command to ensure there are no problems with the `plotly` version:
+    ```
+    pip install --upgrade nbformat
+    ```
+
+
+## Self-evaluation of our project
+
+We were able to do most of what we had planned to based on our project proposal such as the following:
+- Extracting a comprehensive feature set from our audio files. Code for which can be found under the [voice_toolbox](voice_toolbox) folder of this repository.
+- Calculating Inter observer error to arrive at more accurate labelling of our data. Code for which can be found in [IOE_script.ipynb](IOE_script.ipynb).
+- Clustering using Principal Componenet Analysis and KMeans. Code for which can be found in [clustering.ipynb](clustering.ipynb).
+- Classification using SVM was proposed and was successfully completed. Moreover, we eventually decided to do an Ensemble learning which meant that we had to run various Machine Learning Algorithms such as Decision Tree, Random Forest, XG Boost, Gradient Boost, k-nearest neighbors and Adaptive Boosting.  Ensemble learning was not anticipated when we had drafted our proposal. Code for all of which can be found in [modelling/modelling.ipynb](modelling/modelling.ipynb).
+- Furthermore, we conducted a lot of Exploratory Data Analysis (EDA) to arrive at the best possible classification model. Once again, code for our EDA can be found in [modelling/modelling.ipynb](modelling/modelling.ipynb). We also conducted an anova test that has been written in R, which can be found in [affective-anova.rmd](affective-anova.rmd).
