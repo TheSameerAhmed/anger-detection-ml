@@ -10,3 +10,6 @@ pydub==0.25.1
 seaborn
 scikit-learn
 plotly
+yellowbrick
+matplot
+xgboost
