@@ -16,7 +16,7 @@ This repository classifies aggressive speech using supervised machine learning. 
 
  <summary>ML Algortihms used in the Jupyter Notebooks</summary>
 
-| Jupyte Notebook      | Algorithms     |
+| Jupyter Notebook      | Algorithms     |
 | -------------------- | -------------- |
 | clustering.ipynb     | Principal Componenet Analysis, KMeans       |
 | modelling.ipynb      |  Supoprt Vector Machines, Decision Tree, Random Forest, XG Boost, Gradient Boost, k-nearest neighbors, Adaptive Boosting     |
