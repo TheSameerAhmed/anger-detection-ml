@@ -16,7 +16,7 @@ This repository classifies aggressive speech using supervised machine learning. 
 
  <summary>ML Algortihms used in the Jupyter Notebooks</summary>
 
-| Jupyte Notebook      | Running time*  |
+| Jupyte Notebook      | Algorithms     |
 | -------------------- | -------------- |
 | clustering.ipynb     | Principal Componenet Analysis, KMeans       |
 | modelling.ipynb      |  Supoprt Vector Machines, Decision Tree, Random Forest, XG Boost, Gradient Boost, k-nearest neighbors, Adaptive Boosting     |
@@ -60,7 +60,7 @@ pip install -r requriements.txt
 
  <summary><strong>Running times for the Jupyter Notebooks</strong></summary>
   
-| Jupyte Notebook      | Running time*                                      |
+| Jupyter Notebook     | Running time*                                      |
 | -------------------- | -------------------------------------------------- |
 | clustering.ipynb     |    ~ 10s                                           |
 | modelling.ipynb      |    ~ 120s                                          |
@@ -79,7 +79,7 @@ pip install -r requriements.txt
     - Since, this notebook looks to remove audio files from our dataset that have a low agreement in terms of labelling between our participants. Due to size limitations imposed on GitHub repositories we cannot upload all our data (audio files worth `10GB`+ in total)
 2. `modelling.ipynb` contains certain hyperparameter tuning code blocks that have been intentionally commented out. This is done so that the notebook can be run within a reasonable amount of time. 
     - Not commenting those hyperparameter tuning code block leads the total time taken to run the notebook to over 8 hours.
-3. Radar plot in `visualizations.ipynb` require a cerain version of plotly or else the packages run into a dependency problem. We recommend uncommenting the code block in `visualizations.ipynb` to `Install Packages`, particularly the last comment in that code. 
+3. Radar plots in `visualizations.ipynb` require a cerain version of plotly or else the packages run into a dependency problem. We recommend uncommenting the code block in `visualizations.ipynb` to `Install Packages`, particularly the last comment in that code. 
     - Alternatively, you can run the following `pip` command to ensure there are no problems with the `plotly` version:
     ```
     pip install --upgrade nbformat
